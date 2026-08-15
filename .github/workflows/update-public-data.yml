@@ -3,7 +3,7 @@ name: Update public data
 on:
   schedule:
     # Cada 15 minutos, evitando los cuartos exactos.
-    - cron: "7,22,37,52 * * * *"
+    - cron: "17 * * * *"
 
   workflow_dispatch:
 
