@@ -1,0 +1,219 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.41849115,
+          28.34018567
+        ]
+      },
+      "properties": {
+        "entity_id": "FXZLRGJA",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-10T13:25:41.000Z",
+        "date_revised": "2026-08-14T11:39:28.843Z",
+        "name": "Asociación El Carmen se Mueve",
+        "format": "Asociación",
+        "category": "Cultura, Educación, Participación ciudadana",
+        "tags": "inclusión social, infancia, juventud, familias, personas mayores, discapacidad, voluntariado, formación, ocio educativo, participación ciudadana, empoderamiento vecinal, envejecimiento activo, accesibilidad, baño adaptado, acción comunitaria, redes comunitarias",
+        "mission": "Trabajar por una comunidad más inclusiva, participativa y solidaria, desarrollando proyectos sociales dirigidos a la infancia, la juventud, las familias, las personas mayores y las personas con discapacidad, y promoviendo la participación, la igualdad de oportunidades y el empoderamiento vecinal.",
+        "description": "Mi Barrio El Carmen Se Mueve trabaja por una sociedad más inclusiva, participativa y solidaria mediante proyectos sociales dirigidos a la infancia, la juventud, las familias, las personas mayores y las personas con discapacidad. Desarrolla su actividad en Arafo, Güímar y Candelaria, promoviendo la inclusión social, la participación ciudadana, el voluntariado y la formación y el ocio educativo.\n\nEntre sus líneas de trabajo se encuentran proyectos de inclusión, juventud y familias, envejecimiento activo, discapacidad, participación comunitaria y actividades educativas y de ocio.",
+        "activity": "Acompañamiento, Activismo, Conservación, Divulgación, Exposición, Organización de eventos",
+        "audience": "Colectivos vecinales, Familias, Infancia, Juventud, Personas adultas, Público general",
+        "territory": "3 - Comarca",
+        "founded": "2011",
+        "needs": "Colaboración artística, Colaboración técnica, Financiación, Participación, Patrocinios, Socios",
+        "offers": "Asesoramiento, Charlas, Talleres, Visitas, Voluntariado",
+        "email": "elcarmensemueve@gmail.com",
+        "phone": "616858199 / 614352672",
+        "video": "https://www.youtube.com/watch?v=m4LyktnkN_I",
+        "facebook": "https://www.facebook.com/mibarrioelcarmensemueve.arafo/",
+        "instagram": "@jovenes_sin_etiquetas",
+        "img": "https://img.archipielagovivo.org/FXZLRGJA/logo.webp",
+        "island": "Tenerife",
+        "municipality": "Arafo",
+        "links": "📷 [[https://www.instagram.com/jovenes_sin_etiquetas/|Instagram]]\n📘 [[https://www.facebook.com/mibarrioelcarmensemueve.arafo/|Facebook]]",
+        "contact": "✉️ [[mailto:elcarmensemueve@gmail.com|elcarmensemueve@gmail.com]]\n☎️ 616858199 / 614352672",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=FXZLRGJA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.597716378984412,
+          28.29966925811658
+        ]
+      },
+      "properties": {
+        "entity_id": "WCPSPJUL",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-10T17:54:59.986Z",
+        "date_revised": "2026-08-14T12:32:58.851Z",
+        "name": "Cohousing El Principio",
+        "format": "Cooperativa",
+        "category": "Arquitectura, Innovación, Sostenibilidad, Participación ciudadana, Urbanismo, Vivienda",
+        "tags": "cohousing, vivienda colaborativa, cesión de uso, cuidados, comunidad, envejecimiento activo, autogestión, apoyo mutuo, arquitectura bioclimática",
+        "mission": "Construir una comunidad de vivienda colaborativa, intergeneracional y sin ánimo de lucro basada en la ayuda mutua, los cuidados, la autonomía y la convivencia, creando una alternativa al modelo residencial individualizado y favoreciendo un envejecimiento activo y una vida comunitaria sostenible.",
+        "description": "Cohousing El Principio es una cooperativa de vivienda colaborativa en Tenerife que desarrolla un proyecto residencial en cesión de uso, basado en la convivencia, la autogestión, el apoyo mutuo y los cuidados. Combina viviendas privadas con espacios y servicios comunes para favorecer las relaciones sociales, prevenir la soledad no deseada y facilitar una vida autónoma durante todo el ciclo vital.\n\nSu propuesta es intergeneracional y pone especial atención en el envejecimiento activo, la adaptación de las viviendas a las necesidades de las personas, la sostenibilidad, la arquitectura bioclimática y el uso de energías renovables. Actualmente trabaja en la adquisición del terreno y en el desarrollo del anteproyecto.",
+        "activity": "Acompañamiento, Educación, Formación, Innovación, Servicios, Cuidados",
+        "audience": "Familias, Juventud, Personas mayores, Personas adultas, Público general",
+        "territory": "4 - Isla",
+        "founded": "2021",
+        "needs": "Socios, Financiación, Espacios, Difusión",
+        "offers": "Asesoramiento, Charlas, Formación, Residencias",
+        "url": "https://www.cohousingelprincipio.es/",
+        "email": "cohousingelprincipio@gmail.com",
+        "phone": 653500225,
+        "img": "https://img.archipielagovivo.org/WCPSPJUL/logo.webp",
+        "island": "Tenerife",
+        "links": "🌐 [[https://www.cohousingelprincipio.es/|Sitio web]]",
+        "contact": "✉️ [[mailto:cohousingelprincipio@gmail.com|cohousingelprincipio@gmail.com]]\n☎️ 653500225",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=WCPSPJUL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.37002705,
+          28.35523524
+        ]
+      },
+      "properties": {
+        "entity_id": "QGWRYNHC",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-10T19:51:11.797Z",
+        "date_revised": "2026-08-14T12:55:35.125Z",
+        "name": "El Bosque Termófilo",
+        "format": "Proyecto",
+        "category": "Educación, Sostenibilidad, Biodiversidad, Agricultura",
+        "tags": "educación ambiental, flora canaria, agricultura regenerativa, agricultura, sostenibilidad, conocimiento del territorio",
+        "mission": "Promover el conocimiento y cuidado de la flora canaria y divulgar prácticas de agricultura regenerativa como herramientas para una relación más consciente y sostenible con el territorio.",
+        "description": "El Bosque Termófilo es un proyecto de educación ambiental centrado en la flora canaria y la agricultura regenerativa. Desarrolla actividades de divulgación, educación, formación e investigación para acercar estos conocimientos al público y promover una relación más sostenible con el territorio.",
+        "activity": "Agricultura, Divulgación, Educación, Formación, Investigación",
+        "audience": "Público general",
+        "territory": "6 - Canarias",
+        "founded": "2024",
+        "needs": "Difusión",
+        "offers": "Asesoramiento, Formación, Publicaciones, Recursos educativos",
+        "email": "elbosquetermofilo@gmail.com",
+        "video": "Tengo todos los vídeos en Instagram",
+        "instagram": "@el_bosque_termofilo",
+        "img": "https://img.archipielagovivo.org/QGWRYNHC/logo.webp",
+        "island": "Tenerife",
+        "municipality": "Candelaria",
+        "links": "📷 [[https://www.instagram.com/el_bosque_termofilo/|Instagram]]",
+        "contact": "✉️ [[mailto:elbosquetermofilo@gmail.com|elbosquetermofilo@gmail.com]]",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=QGWRYNHC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.61440256348832,
+          28.298938191673404
+        ]
+      },
+      "properties": {
+        "entity_id": "MTWRKGUZ",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-11T09:49:50.423Z",
+        "date_revised": "2026-08-15T11:43:49.450Z",
+        "name": "VÍCTOR SEUS",
+        "format": "Persona",
+        "category": "Arte, Audiovisual, Cultura, Diseño, Educación, Innovación, Memoria, Música, Participación ciudadana, Patrimonio, Sostenibilidad, Urbanismo",
+        "tags": "Muralismo, arte urbano, arte público, arte contemporáneo, diseño de experiencias, transformación social, educación artística, participación comunitaria, infancia, creatividad, identidad, territorio, intervención artística, procesos colectivos, laboratorios creativos, cultura comunitaria, Canarias",
+        "mission": "Soy artista y muralista, y diseño experiencias creativas que utilizan el arte, la educación y la participación para generar transformación social.",
+        "description": "Soy artista y muralista de Tenerife. Empecé a pintar en 2000 y desde entonces he desarrollado una práctica que combina muralismo, obra artística, música y diseño de experiencias. Entiendo el arte como una herramienta para relacionarnos con los lugares, las personas y las historias que los habitan.\n\nUna parte importante de mi trabajo se desarrolla a través de procesos colectivos, donde la creatividad, la educación y la participación se convierten en herramientas de diálogo y transformación social. He desarrollado proyectos en distintos contextos de Europa, África, Sudamérica y Asia, y actualmente sigo desarrollando esta práctica desde Canarias, conectando mi trabajo artístico con nuevos proyectos y experiencias colectivas.",
+        "activity": "Activismo, Creación artística, Diseño, Educación, Exposición, Formación, Innovación, Organización de eventos, Producción, Programación cultural, Publicación, Residencias, Servicios",
+        "audience": "Administraciones públicas, Artistas, Colectivos vecinales, Comunidad educativa, Empresas, Familias, Infancia, Investigadores, Juventud, Personas adultas, Personas mayores, Profesionales, Público general, Turistas",
+        "territory": "9 - Internacional",
+        "founded": "2000",
+        "needs": "Colaboración artística, Colaboración técnica, Desarrollo web, Difusión, Diseño gráfico, Documentación, Donaciones, Espacios, Financiación, Fotografía, Investigación, Materiales, Mentoría, Participación, Patrocinios, Socios, Traducción, Vídeo, Voluntariado",
+        "offers": "Asesoramiento, Charlas, Conciertos, Consultoría, Exposiciones, Formación, Publicaciones, Recursos educativos, Red de contactos, Residencias, Talleres, Visitas",
+        "url": "www.victorseus.com",
+        "email": "Victorseus@gmail.com",
+        "phone": "+34634810219",
+        "video": "https://vimeo.com/manage/videos/1078755154",
+        "facebook": "https://www.facebook.com/share/1LS1nwyKvU/?mibextid=wwXIfr",
+        "instagram": "@victorseus",
+        "whatsapp": "@victorseus",
+        "youtube": "https://m.youtube.com/@victor-seus?ra=m",
+        "img": "https://img.archipielagovivo.org/MTWRKGUZ/logo.webp",
+        "island": "Tenerife",
+        "links": "🌐 [[https://www.victorseus.com|Sitio web]]\n📷 [[https://www.instagram.com/victorseus/|Instagram]]\n📘 [[https://www.facebook.com/share/1LS1nwyKvU/?mibextid=wwXIfr|Facebook]]\n▶️ [[https://m.youtube.com/@victor-seus?ra=m|YouTube]]",
+        "contact": "✉️ [[mailto:Victorseus@gmail.com|Victorseus@gmail.com]]\n☎️ +34634810219",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=MTWRKGUZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.33656444,
+          28.52266681
+        ]
+      },
+      "properties": {
+        "entity_id": "NGMDUYNK",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-11T16:36:32.413Z",
+        "date_revised": "2026-08-15T11:43:54.245Z",
+        "name": "Angeles Yanes",
+        "format": "Persona",
+        "category": "Cultura, Educación, Historia",
+        "tags": "Medicina Tradicional Canaria",
+        "mission": "Llevo.años investigando y difundiendo la Medicina Tradicional Canaria, para que no se pierda  todo este conocimiento que forma parte de nuestro Pateimonio Inmaterial.",
+        "description": "Estudié Enfermería he hice un postgrado en antropología, de siempre tuve curiosidad por la medicina de nuestros ancestros y comenzó a investigar por 3 líneas diferentes. \n- Investigación de campo o etnografiva\n-Investigación documental\n-Investigación práctica, experiencial. \n\nQuiero llevar este proyecto a colegios, ayuntamientos etc... \n\nSoy también docente y doy talleres enseñando el masaje tradicional canario, su historia, sus beneficios etc... \nSoy autónoma y tengo una consulta privada desde hace 5 años y allí acompaño a la gente y enseño a las personas a tener autonomía con respecto a su salud.",
+        "activity": "Acompañamiento, Divulgación, Educación, Formación, Investigación",
+        "audience": "Administraciones públicas, Colectivos vecinales, Comunidad educativa, Familias, Juventud, Personas adultas, Personas mayores, Profesionales, Público general",
+        "territory": "5 - Varias islas",
+        "founded": "2020",
+        "needs": "Donaciones, Espacios, Financiación",
+        "offers": "Asesoramiento, Charlas, Formación, Talleres, Voluntariado",
+        "email": "enfermeraantroposofica@gmail.com",
+        "phone": 676358954,
+        "facebook": "Angeles Yanes",
+        "telegram": "@enfermeracurandera",
+        "whatsapp": "@enfermeracurandera",
+        "img": "https://img.archipielagovivo.org/NGMDUYNK/logo.webp",
+        "island": "Tenerife",
+        "municipality": "Tegueste",
+        "links": "📘 [[https://www.facebook.com/Angeles%20Yanes|Facebook]]\n✈️ [[https://t.me/enfermeracurandera|Telegram]]",
+        "contact": "✉️ [[mailto:enfermeraantroposofica@gmail.com|enfermeraantroposofica@gmail.com]]\n☎️ 676358954",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=NGMDUYNK"
+      }
+    }
+  ],
+  "archipielago_vivo": {
+    "schema_version": 1,
+    "generated_at": "2026-08-15T11:57:14.401Z",
+    "layer": "tenerife",
+    "feature_count": 5,
+    "warnings": []
+  }
+}

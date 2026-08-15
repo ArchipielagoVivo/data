@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.7368719,
+          28.64781921
+        ]
+      },
+      "properties": {
+        "entity_id": "PEGVALFW",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-10T10:01:39.000Z",
+        "date_revised": "2026-08-15T11:43:40.566Z",
+        "name": "Archipiélago Vivo",
+        "format": "Proyecto",
+        "category": "Cultura, Innovación, Participación ciudadana, Sostenibilidad, Tecnología",
+        "tags": "mapa colaborativo, Canarias, redes comunitarias, territorio, participación ciudadana, tejido social, colaboración, iniciativas locales, conocimiento abierto, directorio, comunidad, sostenibilidad, cultura, voluntariado",
+        "mission": "Conectamos y visibilizamos personas, colectivos e iniciativas que cuidan, construyen, defienden y transforman Canarias.",
+        "description": "Archipiélago Vivo es una iniciativa colaborativa que busca poner en común y hacer visible el tejido social, cultural, comunitario y ambiental de Canarias.\n\nCreamos herramientas para descubrir personas, colectivos, proyectos, espacios e iniciativas del Archipiélago, conocer qué hacen, dónde están y de qué manera podemos participar, colaborar o apoyarnos mutuamente.\n\nNuestro punto de partida es un mapa y directorio colaborativo, pero el objetivo va más allá de localizar iniciativas: queremos facilitar conexiones, compartir recursos, hacer circular conocimiento y fortalecer redes entre quienes trabajan por unas islas más vivas, diversas, sostenibles y conectadas.\n\nArchipiélago Vivo se construye desde el territorio y de forma abierta, procurando que sean las propias personas y comunidades quienes expliquen quiénes son, qué hacen y qué necesitan, evitando hablar por ellas o reducir la realidad de Canarias a una mirada institucional, turística o externa.",
+        "activity": "Diseño, Divulgación, Documentación, Publicación, Voluntariado",
+        "audience": "Administraciones públicas, Artistas, Colectivos vecinales, Comunidad educativa, Empresas, Profesionales, Público general",
+        "territory": "6 - Canarias",
+        "founded": "2026",
+        "needs": "Colaboración técnica, Desarrollo web, Difusión, Diseño gráfico, Documentación, Financiación, Investigación, Socios, Traducción, Vídeo, Voluntariado",
+        "offers": "Asesoramiento, Investigación, Material documental, Publicaciones, Recursos educativos, Red de contactos",
+        "url": "https://archipielagovivo.org/",
+        "email": "archipielagovivo@riseup.net",
+        "video": "https://youtube.com/shorts/KcPMjTu0Z3E?feature=share",
+        "bsky": "@archplgvivo.bsky.social",
+        "github": "ArchipielagoVivo",
+        "instagram": "@archplgvivo",
+        "mastodon": "@archplgvivo",
+        "pixelfed": "@archplgvivo",
+        "threads": "@archplgvivo",
+        "x": "@ArchplgVivo",
+        "youtube": "@ArchplgVivo",
+        "img": "https://img.archipielagovivo.org/PEGVALFW/logo.webp",
+        "island": "Canarias",
+        "links": "🌐 [[https://archipielagovivo.org/|Sitio web]]\n📷 [[https://www.instagram.com/archplgvivo/|Instagram]]\n🦋 [[https://bsky.app/profile/archplgvivo.bsky.social|Bluesky]]\n💻 [[https://github.com/ArchipielagoVivo|GitHub]]\n🧵 [[https://www.threads.net/@archplgvivo|Threads]]\n𝕏 [[https://x.com/ArchplgVivo|X]]\n▶️ [[https://www.youtube.com/@ArchplgVivo|YouTube]]",
+        "contact": "✉️ [[mailto:archipielagovivo@riseup.net|archipielagovivo@riseup.net]]",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=PEGVALFW"
+      }
+    }
+  ],
+  "archipielago_vivo": {
+    "schema_version": 1,
+    "generated_at": "2026-08-15T11:57:26.052Z",
+    "layer": "canarias",
+    "feature_count": 1,
+    "warnings": []
+  }
+}

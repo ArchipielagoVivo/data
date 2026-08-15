@@ -1,9 +1,37 @@
 {
-  "service": "Archipiélago Vivo Public Data",
-  "version": "1",
-  "updated_at": null,
-  "resources": {
-    "map": "/map/",
-    "tv": "/tv/"
+  "name": "Archipiélago Vivo Public Exports",
+  "schema_version": 1,
+  "generated_at": "2026-08-15T11:57:06.376Z",
+  "public_entities": 7,
+  "warnings": [],
+  "umap": {
+    "format": "GeoJSON",
+    "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295",
+    "layers": {
+      "el-hierro": 0,
+      "la-gomera": 0,
+      "la-palma": 0,
+      "tenerife": 5,
+      "gran-canaria": 0,
+      "fuerteventura": 1,
+      "lanzarote": 0,
+      "la-graciosa": 0,
+      "canarias": 1
+    },
+    "urls": {
+      "el-hierro": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=el-hierro",
+      "la-gomera": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=la-gomera",
+      "la-palma": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=la-palma",
+      "tenerife": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=tenerife",
+      "gran-canaria": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=gran-canaria",
+      "fuerteventura": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=fuerteventura",
+      "lanzarote": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=lanzarote",
+      "la-graciosa": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=la-graciosa",
+      "canarias": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=umap&layer=canarias"
+    }
+  },
+  "tv": {
+    "schema_version": 2,
+    "url": "https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=tv"
   }
 }

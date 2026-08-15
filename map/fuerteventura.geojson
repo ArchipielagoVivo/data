@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.92772895,
+          28.61023622
+        ]
+      },
+      "properties": {
+        "entity_id": "JFUKDKZZ",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-10T12:01:00.000Z",
+        "date_revised": "2026-08-14T12:47:19.399Z",
+        "name": "FRAGMENTOS",
+        "format": "Asociación",
+        "category": "Arte, Innovación",
+        "tags": "danza experimental, arte experimental, performance, artes escénicas, creación colectiva, expresión artística, investigación artística, talleres, participación",
+        "mission": "Crear y compartir experiencias de danza y arte experimental que exploren nuevas formas de expresión, conectando a artistas y público desde la emoción, la autenticidad y la búsqueda artística.",
+        "description": "FRAGMENTOS es una asociación sociocultural y artística vinculada a un colectivo de danza experimental de Fuerteventura. Desarrolla actuaciones, espectáculos, performances, actividades y talleres desde la exploración de nuevas formas de hacer y expresar el arte. Su trabajo busca abrir espacios para que artistas y público puedan conectar con aquello que sienten y expresar diferentes formas de mirar, crear y compartir.",
+        "activity": "Creación artística, Organización de eventos, Exposición, Formación",
+        "audience": "Artistas, Comunidad educativa, Familias, Juventud, Personas adultas, Personas mayores, Profesionales, Público general, Colectivos vecinales",
+        "territory": "4 - Isla",
+        "founded": "2023",
+        "needs": "Colaboración artística, Difusión, Participación",
+        "offers": "Formación, Recursos educativos, Talleres",
+        "url": "Instagram @fragmentos.experimental",
+        "email": "fragmentos.experimental@gmail.com",
+        "phone": 697289226,
+        "video": "94EwyulpD7s",
+        "instagram": "@fragmentos.experimental",
+        "whatsapp": 697289226,
+        "img": "https://img.archipielagovivo.org/JFUKDKZZ/logo.webp",
+        "island": "Fuerteventura",
+        "municipality": "La Oliva",
+        "links": "🌐 [[https://Instagram @fragmentos.experimental|Sitio web]]\n📷 [[https://www.instagram.com/fragmentos.experimental/|Instagram]]\n💬 [[https://wa.me/697289226|WhatsApp]]",
+        "contact": "✉️ [[mailto:fragmentos.experimental@gmail.com|fragmentos.experimental@gmail.com]]\n☎️ 697289226",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JFUKDKZZ"
+      }
+    }
+  ],
+  "archipielago_vivo": {
+    "schema_version": 1,
+    "generated_at": "2026-08-15T11:57:19.495Z",
+    "layer": "fuerteventura",
+    "feature_count": 1,
+    "warnings": []
+  }
+}
