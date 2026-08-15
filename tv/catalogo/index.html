@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Catálogo TV · Archipiélago Vivo</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <span class="kicker">ARCHIPIÉLAGO VIVO TV</span>
+      <h1>Catálogo y cobertura editorial</h1>
+      <p>Horas disponibles, cobertura de parrilla, repeticiones y detalle de cada vídeo.</p>
+    </div>
+    <a class="back" href="https://tv.archipielagovivo.org/">Ver TV</a>
+  </header>
+
+  <main>
+    <section class="summary" id="summary" aria-live="polite"></section>
+
+    <section class="toolbar" aria-label="Filtros">
+      <label>
+        <span>Buscar</span>
+        <input id="search" type="search" placeholder="Programa, vídeo, fuente, etiqueta…">
+      </label>
+      <label>
+        <span>Canal</span>
+        <select id="channelFilter"><option value="">Todos los canales</option></select>
+      </label>
+      <label>
+        <span>Estado</span>
+        <select id="statusFilter">
+          <option value="">Todos</option>
+          <option value="critical">Urgente</option>
+          <option value="low">Bajo</option>
+          <option value="improvable">Mejorable</option>
+          <option value="good">Correcto</option>
+          <option value="ample">Amplio</option>
+          <option value="unused">Sin uso</option>
+        </select>
+      </label>
+      <label>
+        <span>Ordenar</span>
+        <select id="sortBy">
+          <option value="coverage">Menor cobertura</option>
+          <option value="hours">Más horas disponibles</option>
+          <option value="videos">Más vídeos</option>
+          <option value="name">Nombre</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="legend">
+      <span><i class="dot critical"></i>&lt; 1 día</span>
+      <span><i class="dot low"></i>1–2 días</span>
+      <span><i class="dot improvable"></i>2–4 días</span>
+      <span><i class="dot good"></i>4–7 días</span>
+      <span><i class="dot ample"></i>≥ 7 días</span>
+    </section>
+
+    <section id="programs" class="programs"></section>
+  </main>
+
+  <dialog id="videoDialog" class="video-dialog">
+    <button class="dialog-close" id="dialogClose" type="button" aria-label="Cerrar">×</button>
+    <div id="videoDetail"></div>
+  </dialog>
+
+  <template id="programTemplate">
+    <article class="program-card">
+      <button class="program-head" type="button" aria-expanded="false">
+        <div class="program-title-wrap">
+          <span class="status-pill"></span>
+          <div>
+            <h2></h2>
+            <p class="program-description"></p>
+          </div>
+        </div>
+        <div class="program-metrics"></div>
+        <span class="chevron">⌄</span>
+      </button>
+      <div class="program-body" hidden>
+        <div class="coverage-grid"></div>
+        <div class="video-toolbar">
+          <span class="video-count"></span>
+          <select class="video-sort">
+            <option value="airs">Más emisiones/7 días</option>
+            <option value="duration">Mayor duración</option>
+            <option value="next">Próxima emisión</option>
+            <option value="title">Título</option>
+          </select>
+        </div>
+        <div class="videos"></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>

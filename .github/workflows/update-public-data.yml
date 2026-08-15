@@ -2,9 +2,9 @@ name: Update public data
 
 on:
   schedule:
-    # Cada 15 minutos, evitando los cuartos exactos.
+    # Comprobación horaria. La parrilla móvil de 7 días se recompila aunque
+    # el feed no cambie, por lo que el horizonte avanza automáticamente.
     - cron: "17 * * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -21,6 +21,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
 
       - name: Download public exports
         shell: bash
@@ -47,7 +52,6 @@ jobs:
           fetch() {
             local url="$1"
             local output="$2"
-
             curl \
               --fail \
               --show-error \
@@ -61,55 +65,70 @@ jobs:
               --output "$output"
           }
 
-          fetch "${BASE_URL}?export=tv" \
-            .tmp/new/tv/feed.json
-
-          fetch "${BASE_URL}?export=manifest" \
-            .tmp/new/manifest.json
+          fetch "${BASE_URL}?export=tv" .tmp/new/tv/feed.json
+          fetch "${BASE_URL}?export=manifest" .tmp/new/manifest.json
 
           for layer in "${LAYERS[@]}"; do
-            fetch \
-              "${BASE_URL}?export=umap&layer=${layer}" \
-              ".tmp/new/map/${layer}.geojson"
+            fetch "${BASE_URL}?export=umap&layer=${layer}" ".tmp/new/map/${layer}.geojson"
           done
 
-      - name: Validate exports
+      - name: Validate source exports
         shell: bash
         run: |
           set -euo pipefail
 
-          # Todos los archivos deben existir, contener datos
-          # y ser JSON válido.
           while IFS= read -r -d '' file; do
             if [ ! -s "$file" ]; then
               echo "ERROR: empty export: $file"
               exit 1
             fi
-
             jq empty "$file"
           done < <(find .tmp/new -type f -print0)
 
-          # TV: debe tener versión de esquema.
-          jq -e '
-            type == "object"
-            and (.schema_version != null)
-          ' .tmp/new/tv/feed.json >/dev/null
+          jq -e 'type == "object" and (.schema_version != null)' .tmp/new/tv/feed.json >/dev/null
+          jq -e 'type == "object" and (.name != null) and (.umap != null) and (.tv != null)' .tmp/new/manifest.json >/dev/null
 
-          # Manifest: comprobación mínima de contrato.
-          jq -e '
-            type == "object"
-            and (.name != null)
-            and (.umap != null)
-            and (.tv != null)
-          ' .tmp/new/manifest.json >/dev/null
-
-          # Cada capa debe ser GeoJSON FeatureCollection.
           for file in .tmp/new/map/*.geojson; do
-            jq -e '
-              .type == "FeatureCollection"
-              and (.features | type == "array")
-            ' "$file" >/dev/null
+            jq -e '.type == "FeatureCollection" and (.features | type == "array")' "$file" >/dev/null
           done
+
+      - name: Compile TV schedule and editorial statistics
+        shell: bash
+        env:
+          TV_SCHEDULE_DAYS: "7"
+          TV_TARGET_COVERAGE_DAYS: "7"
+        run: |
+          set -euo pipefail
+          node scripts/compile-tv.js \
+            --input .tmp/new/tv/feed.json \
+            --out .tmp/new/tv
+
+      - name: Validate compiled TV data
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          jq -e '
+            .schema_version == 1
+            and (.schedule_version | type == "string")
+            and (.channels | type == "array")
+            and (.global | type == "array")
+            and (.timelines | type == "object")
+            and (.program_boundaries | type == "object")
+          ' .tmp/new/tv/schedule.json >/dev/null
+
+          jq -e '
+            .schema_version == 1
+            and (.summary.unique_videos | type == "number")
+            and (.programs | type == "array")
+          ' .tmp/new/tv/catalog-stats.json >/dev/null
+
+          jq -e '
+            .schema_version == 1
+            and (.schedule_version | type == "string")
+            and (.schedule_url | type == "string")
+            and (.catalog_stats_url | type == "string")
+          ' .tmp/new/tv/manifest.json >/dev/null
 
       - name: Compare meaningful content
         id: compare
@@ -117,13 +136,8 @@ jobs:
         run: |
           set -euo pipefail
 
-          mkdir -p \
-            .tmp/normalized-new \
-            .tmp/normalized-old
+          mkdir -p .tmp/normalized-new .tmp/normalized-old
 
-          # Ignoramos fechas generadas automáticamente.
-          # walk() lo hace también dentro de objetos anidados,
-          # por ejemplo archipielago_vivo.generated_at.
           normalize() {
             jq -S '
               walk(
@@ -133,7 +147,8 @@ jobs:
                     .generatedAt,
                     .updated_at,
                     .updatedAt,
-                    .timestamp
+                    .timestamp,
+                    .schedule_generated_at
                   )
                 else
                   .
@@ -145,17 +160,12 @@ jobs:
           changed=false
 
           while IFS= read -r -d '' new_file; do
-
             rel="${new_file#.tmp/new/}"
             current="$rel"
-
             normalized_new=".tmp/normalized-new/${rel}"
             normalized_old=".tmp/normalized-old/${rel}"
 
-            mkdir -p \
-              "$(dirname "$normalized_new")" \
-              "$(dirname "$normalized_old")"
-
+            mkdir -p "$(dirname "$normalized_new")" "$(dirname "$normalized_old")"
             normalize "$new_file" > "$normalized_new"
 
             if [ ! -f "$current" ]; then
@@ -165,24 +175,13 @@ jobs:
             fi
 
             normalize "$current" > "$normalized_old"
-
-            if ! cmp -s \
-              "$normalized_new" \
-              "$normalized_old"; then
-
+            if ! cmp -s "$normalized_new" "$normalized_old"; then
               echo "CHANGED: $rel"
               changed=true
             fi
-
-          done < <(
-            find .tmp/new -type f -print0 | sort -z
-          )
+          done < <(find .tmp/new -type f -print0 | sort -z)
 
           echo "changed=$changed" >> "$GITHUB_OUTPUT"
-
-          if [ "$changed" = "false" ]; then
-            echo "No meaningful public data changes detected."
-          fi
 
       - name: Publish snapshot
         if: steps.compare.outputs.changed == 'true'
@@ -192,9 +191,10 @@ jobs:
 
           mkdir -p tv map
 
-          # Publicamos los originales.
-          # La normalización anterior era sólo para comparar.
           jq . .tmp/new/tv/feed.json > tv/feed.json
+          jq . .tmp/new/tv/schedule.json > tv/schedule.json
+          jq . .tmp/new/tv/catalog-stats.json > tv/catalog-stats.json
+          jq . .tmp/new/tv/manifest.json > tv/manifest.json
           jq . .tmp/new/manifest.json > manifest.json
 
           for file in .tmp/new/map/*.geojson; do
@@ -208,17 +208,15 @@ jobs:
         run: |
           set -euo pipefail
 
-          git config \
-            user.name \
-            "Archipiélago Vivo Data Bot"
-
-          git config \
-            user.email \
-            "actions@users.noreply.github.com"
+          git config user.name "Archipiélago Vivo Data Bot"
+          git config user.email "actions@users.noreply.github.com"
 
           git add \
             manifest.json \
             tv/feed.json \
+            tv/schedule.json \
+            tv/catalog-stats.json \
+            tv/manifest.json \
             map/*.geojson
 
           if git diff --cached --quiet; then
@@ -226,5 +224,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "data: update public feeds"
+          git commit -m "data: compile TV schedule and catalog stats"
           git push
