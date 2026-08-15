@@ -1,0 +1,129 @@
+name: Update TV feed
+
+on:
+  schedule:
+    # Cada 15 minutos.
+    # Evitamos exactamente :00, :15, :30 y :45 para reducir posibles retrasos.
+    - cron: "7,22,37,52 * * * *"
+
+  # Permite ejecutarlo manualmente desde GitHub → Actions.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-tv-feed
+  cancel-in-progress: true
+
+jobs:
+  update-tv-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Download current TV export
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          API_URL="https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec?export=tv"
+
+          mkdir -p tv .tmp
+
+          curl \
+            --fail \
+            --show-error \
+            --silent \
+            --location \
+            --retry 3 \
+            --retry-delay 2 \
+            --connect-timeout 15 \
+            --max-time 60 \
+            "$API_URL" \
+            --output .tmp/feed-new.json
+
+      - name: Validate JSON
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          jq empty .tmp/feed-new.json
+
+          if [ ! -s .tmp/feed-new.json ]; then
+            echo "ERROR: downloaded feed is empty"
+            exit 1
+          fi
+
+      - name: Compare meaningful content
+        id: compare
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Creamos copias normalizadas sólo para comparar.
+          #
+          # Eliminamos campos temporales que pueden cambiar aunque
+          # el contenido público sea exactamente el mismo.
+          jq '
+            del(
+              .generated_at,
+              .generatedAt,
+              .updated_at,
+              .updatedAt,
+              .timestamp
+            )
+          ' .tmp/feed-new.json | jq -S . > .tmp/new-normalized.json
+
+          if [ -f tv/feed.json ]; then
+            jq '
+              del(
+                .generated_at,
+                .generatedAt,
+                .updated_at,
+                .updatedAt,
+                .timestamp
+              )
+            ' tv/feed.json | jq -S . > .tmp/old-normalized.json
+
+            if cmp -s .tmp/new-normalized.json .tmp/old-normalized.json; then
+              echo "No meaningful data changes detected."
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+
+          echo "TV data changed."
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Publish new feed
+        if: steps.compare.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Publicamos el JSON original de Apps Script,
+          # no la versión normalizada usada para comparar.
+          jq . .tmp/feed-new.json > tv/feed.json
+
+      - name: Commit and push
+        if: steps.compare.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "Archipiélago Vivo Data Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add tv/feed.json
+
+          # Protección adicional por si finalmente no hubiera diferencias.
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "data(tv): update public feed"
+          git push
