@@ -1,0 +1,9 @@
+{
+  "service": "Archipiélago Vivo Public Data",
+  "version": "1",
+  "updated_at": null,
+  "resources": {
+    "map": "/map/",
+    "tv": "/tv/"
+  }
+}
