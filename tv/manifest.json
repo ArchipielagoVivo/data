@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "feed_version": "f88a94f89153...",
+  "schedule_version": "20260816-004500-a31d9e",
+  "schedule_generated_at": "2026-08-16T00:45:00+01:00",
+  "schedule_valid_until": "2026-08-23T00:00:00+01:00",
+
+  "feed_url": "https://data.archipielagovivo.org/tv/feed.json",
+  "schedule_url": "https://data.archipielagovivo.org/tv/schedule.json"
+}
