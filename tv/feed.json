@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-16T16:49:19.039Z",
+  "generated_at": "2026-08-16T17:43:17.530Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -9,7 +9,9 @@
     "valid": true,
     "errors": [],
     "warnings": [
-      "TV_ENTITIES_SOURCE_URL no está configurada. _tv_entities puede gestionarse manualmente, pero no se sincronizará automáticamente con una fuente pública."
+      "YT-KcPMjTu0Z3E: Activo pero embeddable no es TRUE.",
+      "YT-94EwyulpD7s: Activo pero embeddable no es TRUE.",
+      "YT-m4LyktnkN_I: Activo pero embeddable no es TRUE."
     ],
     "name": "Archipiélago Vivo TV",
     "default_channel_id": "general",
@@ -23324,6 +23326,135 @@
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
+    },
+    {
+      "media_id": "YT-KcPMjTu0Z3E",
+      "provider": "youtube",
+      "provider_id": "KcPMjTu0Z3E",
+      "provider_url": "https://www.youtube.com/watch?v=KcPMjTu0Z3E",
+      "embed_url": "https://www.youtube.com/embed/KcPMjTu0Z3E",
+      "youtube_id": "KcPMjTu0Z3E",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": false,
+      "privacy_status": "",
+      "title": "Archipiélago Vivo",
+      "description": "",
+      "channel_title": "",
+      "thumbnail": "",
+      "published_at": "",
+      "youtube_tags": "",
+      "duration_seconds": null,
+      "youtube_license": "",
+      "metadata_updated_at": "",
+      "entity_id": "PEGVALFW",
+      "entity_ids": [
+        "PEGVALFW"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-16T16:56:38.375Z",
+      "is_new_entity": true,
+      "active": true,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
+    },
+    {
+      "media_id": "YT-94EwyulpD7s",
+      "provider": "youtube",
+      "provider_id": "94EwyulpD7s",
+      "provider_url": "https://www.youtube.com/watch?v=94EwyulpD7s",
+      "embed_url": "https://www.youtube.com/embed/94EwyulpD7s",
+      "youtube_id": "94EwyulpD7s",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": false,
+      "privacy_status": "",
+      "title": "FRAGMENTOS",
+      "description": "",
+      "channel_title": "",
+      "thumbnail": "",
+      "published_at": "",
+      "youtube_tags": "",
+      "duration_seconds": null,
+      "youtube_license": "",
+      "metadata_updated_at": "",
+      "entity_id": "JFUKDKZZ",
+      "entity_ids": [
+        "JFUKDKZZ"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-16T16:56:38.375Z",
+      "is_new_entity": true,
+      "active": true,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
+    },
+    {
+      "media_id": "YT-m4LyktnkN_I",
+      "provider": "youtube",
+      "provider_id": "m4LyktnkN_I",
+      "provider_url": "https://www.youtube.com/watch?v=m4LyktnkN_I",
+      "embed_url": "https://www.youtube.com/embed/m4LyktnkN_I",
+      "youtube_id": "m4LyktnkN_I",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": false,
+      "privacy_status": "",
+      "title": "Asociación El Carmen se Mueve",
+      "description": "",
+      "channel_title": "",
+      "thumbnail": "",
+      "published_at": "",
+      "youtube_tags": "",
+      "duration_seconds": null,
+      "youtube_license": "",
+      "metadata_updated_at": "",
+      "entity_id": "FXZLRGJA",
+      "entity_ids": [
+        "FXZLRGJA"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-16T16:56:38.375Z",
+      "is_new_entity": true,
+      "active": true,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
     }
   ],
   "schedule": [
@@ -24759,11 +24890,135 @@
       ]
     }
   },
-  "entities": {},
-  "entity_media": [],
-  "videos": {},
+  "entities": {
+    "PEGVALFW": {
+      "entity_id": "PEGVALFW",
+      "name": "Archipiélago Vivo",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=PEGVALFW",
+      "island": "Canarias",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/PEGVALFW/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-16T15:58:38.947Z",
+      "synced_at": "2026-08-16T16:56:38.375Z"
+    },
+    "JFUKDKZZ": {
+      "entity_id": "JFUKDKZZ",
+      "name": "FRAGMENTOS",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JFUKDKZZ",
+      "island": "Fuerteventura",
+      "municipality": "La Oliva",
+      "img": "https://img.archipielagovivo.org/JFUKDKZZ/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-14T12:47:19.399Z",
+      "synced_at": "2026-08-16T16:56:38.375Z"
+    },
+    "FXZLRGJA": {
+      "entity_id": "FXZLRGJA",
+      "name": "Asociación El Carmen se Mueve",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=FXZLRGJA",
+      "island": "Tenerife",
+      "municipality": "Arafo",
+      "img": "https://img.archipielagovivo.org/FXZLRGJA/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-14T11:39:28.843Z",
+      "synced_at": "2026-08-16T16:56:38.375Z"
+    },
+    "WCPSPJUL": {
+      "entity_id": "WCPSPJUL",
+      "name": "Cohousing El Principio",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=WCPSPJUL",
+      "island": "Tenerife",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/WCPSPJUL/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-14T12:32:58.851Z",
+      "synced_at": "2026-08-16T16:56:38.375Z"
+    },
+    "QGWRYNHC": {
+      "entity_id": "QGWRYNHC",
+      "name": "El Bosque Termófilo",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=QGWRYNHC",
+      "island": "Tenerife",
+      "municipality": "Candelaria",
+      "img": "https://img.archipielagovivo.org/QGWRYNHC/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-14T12:55:35.125Z",
+      "synced_at": "2026-08-16T16:56:38.375Z"
+    },
+    "MTWRKGUZ": {
+      "entity_id": "MTWRKGUZ",
+      "name": "VÍCTOR SEUS",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=MTWRKGUZ",
+      "island": "Tenerife",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/MTWRKGUZ/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-16T15:58:43.814Z",
+      "synced_at": "2026-08-16T16:56:38.375Z"
+    },
+    "NGMDUYNK": {
+      "entity_id": "NGMDUYNK",
+      "name": "Angeles Yanes",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=NGMDUYNK",
+      "island": "Tenerife",
+      "municipality": "Tegueste",
+      "img": "https://img.archipielagovivo.org/NGMDUYNK/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-16T15:58:45.428Z",
+      "synced_at": "2026-08-16T16:56:38.375Z"
+    }
+  },
+  "entity_media": [
+    {
+      "entity_id": "PEGVALFW",
+      "media_id": "YT-KcPMjTu0Z3E",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    },
+    {
+      "entity_id": "JFUKDKZZ",
+      "media_id": "YT-94EwyulpD7s",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    },
+    {
+      "entity_id": "FXZLRGJA",
+      "media_id": "YT-m4LyktnkN_I",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    }
+  ],
+  "videos": {
+    "KcPMjTu0Z3E": {
+      "entity_id": "PEGVALFW",
+      "name": "Archipiélago Vivo",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=PEGVALFW",
+      "img": "https://img.archipielagovivo.org/PEGVALFW/logo.webp",
+      "date_created": "2026-08-16T16:56:38.375Z"
+    },
+    "94EwyulpD7s": {
+      "entity_id": "JFUKDKZZ",
+      "name": "FRAGMENTOS",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JFUKDKZZ",
+      "img": "https://img.archipielagovivo.org/JFUKDKZZ/logo.webp",
+      "date_created": "2026-08-16T16:56:38.375Z"
+    },
+    "m4LyktnkN_I": {
+      "entity_id": "FXZLRGJA",
+      "name": "Asociación El Carmen se Mueve",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=FXZLRGJA",
+      "img": "https://img.archipielagovivo.org/FXZLRGJA/logo.webp",
+      "date_created": "2026-08-16T16:56:38.375Z"
+    }
+  },
   "conflicts": {},
   "warnings": [
-    "TV_ENTITIES_SOURCE_URL no está configurada. _tv_entities puede gestionarse manualmente, pero no se sincronizará automáticamente con una fuente pública."
+    "YT-KcPMjTu0Z3E: Activo pero embeddable no es TRUE.",
+    "YT-94EwyulpD7s: Activo pero embeddable no es TRUE.",
+    "YT-m4LyktnkN_I: Activo pero embeddable no es TRUE."
   ]
 }
