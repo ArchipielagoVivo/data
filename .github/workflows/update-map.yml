@@ -61,6 +61,12 @@ jobs:
               --output "$output"
           }
 
+          # Public entity catalogue
+          fetch \
+            "${BASE_URL}?export=entities" \
+            ".tmp/map/entities.json"
+
+          # uMap layers
           for layer in "${LAYERS[@]}"; do
             fetch \
               "${BASE_URL}?export=umap&layer=${layer}" \
@@ -72,6 +78,21 @@ jobs:
         run: |
           set -euo pipefail
 
+          # Validate entities.json
+          if [ ! -s ".tmp/map/entities.json" ]; then
+            echo "ERROR: empty export: .tmp/map/entities.json"
+            exit 1
+          fi
+
+          jq empty .tmp/map/entities.json
+
+          jq -e '
+            type == "object"
+            and .schema_version == 1
+            and (.entities | type == "array")
+          ' .tmp/map/entities.json >/dev/null
+
+          # Validate GeoJSON layers
           for file in .tmp/map/*.geojson; do
             if [ ! -s "$file" ]; then
               echo "ERROR: empty export: $file"
@@ -103,7 +124,8 @@ jobs:
                     .generatedAt,
                     .updated_at,
                     .updatedAt,
-                    .timestamp
+                    .timestamp,
+                    .synced_at
                   )
                 else
                   .
@@ -114,7 +136,7 @@ jobs:
 
           changed=false
 
-          for new_file in .tmp/map/*.geojson; do
+          while IFS= read -r -d '' new_file; do
             name="$(basename "$new_file")"
             current="map/$name"
 
@@ -135,7 +157,14 @@ jobs:
               echo "CHANGED: map/$name"
               changed=true
             fi
-          done
+          done < <(
+            find .tmp/map \
+              -maxdepth 1 \
+              -type f \
+              \( -name '*.geojson' -o -name 'entities.json' \) \
+              -print0 |
+            sort -z
+          )
 
           echo "changed=$changed" >> "$GITHUB_OUTPUT"
 
@@ -146,6 +175,8 @@ jobs:
           set -euo pipefail
 
           mkdir -p map
+
+          jq . .tmp/map/entities.json > map/entities.json
 
           for file in .tmp/map/*.geojson; do
             name="$(basename "$file")"
@@ -161,14 +192,16 @@ jobs:
           git config user.name "Archipiélago Vivo Data Bot"
           git config user.email "actions@users.noreply.github.com"
 
-          git add map/*.geojson
+          git add \
+            map/entities.json \
+            map/*.geojson
 
           if git diff --cached --quiet; then
             echo "Nothing to commit."
             exit 0
           fi
 
-          git commit -m "data: update map"
+          git commit -m "data: update map and entities"
 
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
