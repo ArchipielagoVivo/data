@@ -37,7 +37,7 @@
         "img": "https://img.archipielagovivo.org/JWXCMAKP/logo.webp",
         "island": "Gran Canaria",
         "municipality": "Telde",
-        "links": "📷 [[@plastimancanario|Instagram]]\n📘 [[https://www.facebook.com/plastimancanario|Facebook]]\n🧵 [[@plastimancanario|Threads]]\n▶️ [[https://www.youtube.com/@plastimancanario|YouTube]]",
+        "links": "📷 [[https://www.instagram.com/plastimancanario/|Instagram]]\n📘 [[https://www.facebook.com/plastimancanario|Facebook]]\n🧵 [[https://www.threads.net/@plastimancanario|Threads]]\n▶️ [[https://www.youtube.com/@plastimancanario|YouTube]]",
         "contact": "",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JWXCMAKP"
       }
@@ -45,7 +45,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T23:30:26.879Z",
+    "generated_at": "2026-08-16T23:54:58.889Z",
     "layer": "gran-canaria",
     "feature_count": 1,
     "warnings": [

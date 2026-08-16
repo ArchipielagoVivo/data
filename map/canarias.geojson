@@ -43,7 +43,7 @@
         "x": "@ArchplgVivo",
         "youtube": "@ArchplgVivo",
         "island": "Canarias",
-        "links": "🌐 [[https://archipielagovivo.org/|Sitio web]]\n📷 [[@archplgvivo|Instagram]]\n🦋 [[@archplgvivo.bsky.social|Bluesky]]\n💻 [[ArchipielagoVivo|GitHub]]\n🐘 [[@archplgvivo|Mastodon]]\n🖼️ [[@archplgvivo|Pixelfed]]\n🧵 [[@archplgvivo|Threads]]\n𝕏 [[@ArchplgVivo|X]]\n▶️ [[@ArchplgVivo|YouTube]]",
+        "links": "🌐 [[https://archipielagovivo.org/|Sitio web]]\n📷 [[https://www.instagram.com/archplgvivo/|Instagram]]\n🦋 [[https://bsky.app/profile/archplgvivo.bsky.social|Bluesky]]\n💻 [[https://github.com/ArchipielagoVivo|GitHub]]\n🧵 [[https://www.threads.net/@archplgvivo|Threads]]\n𝕏 [[https://x.com/ArchplgVivo|X]]\n▶️ [[https://www.youtube.com/@ArchplgVivo|YouTube]]",
         "contact": "✉️ [[mailto:archipielagovivo@riseup.net|archipielagovivo@riseup.net]]",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=PEGVALFW"
       }
@@ -51,7 +51,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T23:30:35.955Z",
+    "generated_at": "2026-08-16T23:55:06.604Z",
     "layer": "canarias",
     "feature_count": 1,
     "warnings": [

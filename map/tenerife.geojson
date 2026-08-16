@@ -38,7 +38,7 @@
         "img": "https://img.archipielagovivo.org/FXZLRGJA/logo.webp",
         "island": "Tenerife",
         "municipality": "Arafo",
-        "links": "📷 [[@jovenes_sin_etiquetas|Instagram]]\n📘 [[https://www.facebook.com/mibarrioelcarmensemueve.arafo/|Facebook]]",
+        "links": "📷 [[https://www.instagram.com/jovenes_sin_etiquetas/|Instagram]]\n📘 [[https://www.facebook.com/mibarrioelcarmensemueve.arafo/|Facebook]]",
         "contact": "✉️ [[mailto:elcarmensemueve@gmail.com|elcarmensemueve@gmail.com]]\n☎️ 616858199 / 614352672",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=FXZLRGJA"
       }
@@ -117,7 +117,7 @@
         "instagram": "@el_bosque_termofilo",
         "island": "Tenerife",
         "municipality": "Candelaria",
-        "links": "📷 [[@el_bosque_termofilo|Instagram]]",
+        "links": "📷 [[https://www.instagram.com/el_bosque_termofilo/|Instagram]]",
         "contact": "✉️ [[mailto:elbosquetermofilo@gmail.com|elbosquetermofilo@gmail.com]]",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=QGWRYNHC"
       }
@@ -161,7 +161,7 @@
         "whatsapp": "@victorseus",
         "youtube": "https://m.youtube.com/@victor-seus?ra=m",
         "island": "Tenerife",
-        "links": "🌐 [[www.victorseus.com|Sitio web]]\n📷 [[@victorseus|Instagram]]\n📘 [[https://www.facebook.com/share/1LS1nwyKvU/?mibextid=wwXIfr|Facebook]]\n💬 [[@victorseus|WhatsApp]]\n▶️ [[https://m.youtube.com/@victor-seus?ra=m|YouTube]]",
+        "links": "🌐 [[https://www.victorseus.com|Sitio web]]\n📷 [[https://www.instagram.com/victorseus/|Instagram]]\n📘 [[https://www.facebook.com/share/1LS1nwyKvU/?mibextid=wwXIfr|Facebook]]\n▶️ [[https://m.youtube.com/@victor-seus?ra=m|YouTube]]",
         "contact": "✉️ [[mailto:Victorseus@gmail.com|Victorseus@gmail.com]]\n☎️ +34634810219",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=MTWRKGUZ"
       }
@@ -203,7 +203,7 @@
         "img": "https://img.archipielagovivo.org/NGMDUYNK/logo.webp",
         "island": "Tenerife",
         "municipality": "Tegueste",
-        "links": "📘 [[Angeles Yanes|Facebook]]\n✈️ [[@enfermeracurandera|Telegram]]\n💬 [[@enfermeracurandera|WhatsApp]]",
+        "links": "📘 [[https://www.facebook.com/Angeles%20Yanes|Facebook]]\n✈️ [[https://t.me/enfermeracurandera|Telegram]]",
         "contact": "✉️ [[mailto:enfermeraantroposofica@gmail.com|enfermeraantroposofica@gmail.com]]\n☎️ 676358954",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=NGMDUYNK"
       }
@@ -284,7 +284,7 @@
         "facebook": "Lavereda.maye",
         "instagram": "www.instagram.com/lavereda.maye",
         "island": "Tenerife",
-        "links": "🌐 [[www.lavereda.org|Sitio web]]\n📷 [[www.instagram.com/lavereda.maye|Instagram]]\n📘 [[Lavereda.maye|Facebook]]",
+        "links": "🌐 [[https://www.lavereda.org|Sitio web]]\n📷 [[https://www.instagram.com/lavereda.maye|Instagram]]\n📘 [[https://Lavereda.maye|Facebook]]",
         "contact": "✉️ [[mailto:mayetenerife@gmail.com|mayetenerife@gmail.com]]\n☎️ 664147461",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=UHZBLALY"
       }
@@ -292,7 +292,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T23:30:25.423Z",
+    "generated_at": "2026-08-16T23:54:56.514Z",
     "layer": "tenerife",
     "feature_count": 7,
     "warnings": [

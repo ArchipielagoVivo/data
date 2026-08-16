@@ -39,7 +39,7 @@
         "whatsapp": 697289226,
         "island": "Fuerteventura",
         "municipality": "La Oliva",
-        "links": "🌐 [[Instagram @fragmentos.experimental|Sitio web]]\n📷 [[@fragmentos.experimental|Instagram]]\n💬 [[697289226|WhatsApp]]",
+        "links": "📷 [[https://www.instagram.com/fragmentos.experimental/|Instagram]]\n💬 [[https://wa.me/697289226|WhatsApp]]",
         "contact": "✉️ [[mailto:fragmentos.experimental@gmail.com|fragmentos.experimental@gmail.com]]\n☎️ 697289226",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JFUKDKZZ"
       }
@@ -85,7 +85,7 @@
         "youtube": "Juegodelpalomaho",
         "island": "Fuerteventura",
         "municipality": "Puerto del Rosario",
-        "links": "🌐 [[Instagram @juegodelpalomaho|Sitio web]]\n📷 [[@juegodelpalomaho|Instagram]]\n📘 [[@juegodelpalomaho|Facebook]]\n🎵 [[@juegodelpalomaho|TikTok]]\n💬 [[606183247|WhatsApp]]\n▶️ [[Juegodelpalomaho|YouTube]]",
+        "links": "📷 [[https://www.instagram.com/juegodelpalomaho/|Instagram]]\n📘 [[https://www.facebook.com/juegodelpalomaho|Facebook]]\n🎵 [[https://www.tiktok.com/@juegodelpalomaho|TikTok]]\n💬 [[https://wa.me/606183247|WhatsApp]]\n▶️ [[https://www.youtube.com/@Juegodelpalomaho|YouTube]]",
         "contact": "✉️ [[mailto:Juegodelpalomaho@gmail.com|Juegodelpalomaho@gmail.com]]\n☎️ 606183247",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JSMMZTQN"
       }
@@ -93,7 +93,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T23:30:28.451Z",
+    "generated_at": "2026-08-16T23:55:01.165Z",
     "layer": "fuerteventura",
     "feature_count": 2,
     "warnings": [
