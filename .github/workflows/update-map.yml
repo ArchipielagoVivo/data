@@ -1,0 +1,174 @@
+name: Update map data
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-map-data
+  cancel-in-progress: true
+
+jobs:
+  update-map:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Download map exports
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_URL="https://script.google.com/macros/s/AKfycbxcmJ4_kBZKJe9Npa7lQ4kcQzRdEN_j6Xc11zq2T6ak628dgi4VYcGZv3VNVyGr8KLc/exec"
+
+          LAYERS=(
+            el-hierro
+            la-gomera
+            la-palma
+            tenerife
+            gran-canaria
+            fuerteventura
+            lanzarote
+            la-graciosa
+            canarias
+          )
+
+          rm -rf .tmp/map
+          mkdir -p .tmp/map
+
+          fetch() {
+            local url="$1"
+            local output="$2"
+
+            curl \
+              --fail \
+              --show-error \
+              --silent \
+              --location \
+              --retry 3 \
+              --retry-delay 2 \
+              --connect-timeout 15 \
+              --max-time 60 \
+              "$url" \
+              --output "$output"
+          }
+
+          for layer in "${LAYERS[@]}"; do
+            fetch \
+              "${BASE_URL}?export=umap&layer=${layer}" \
+              ".tmp/map/${layer}.geojson"
+          done
+
+      - name: Validate map exports
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for file in .tmp/map/*.geojson; do
+            if [ ! -s "$file" ]; then
+              echo "ERROR: empty export: $file"
+              exit 1
+            fi
+
+            jq empty "$file"
+
+            jq -e '
+              .type == "FeatureCollection"
+              and (.features | type == "array")
+            ' "$file" >/dev/null
+          done
+
+      - name: Compare meaningful content
+        id: compare
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p .tmp/normalized-new .tmp/normalized-old
+
+          normalize() {
+            jq -S '
+              walk(
+                if type == "object" then
+                  del(
+                    .generated_at,
+                    .generatedAt,
+                    .updated_at,
+                    .updatedAt,
+                    .timestamp
+                  )
+                else
+                  .
+                end
+              )
+            ' "$1"
+          }
+
+          changed=false
+
+          for new_file in .tmp/map/*.geojson; do
+            name="$(basename "$new_file")"
+            current="map/$name"
+
+            normalized_new=".tmp/normalized-new/$name"
+            normalized_old=".tmp/normalized-old/$name"
+
+            normalize "$new_file" > "$normalized_new"
+
+            if [ ! -f "$current" ]; then
+              echo "NEW: map/$name"
+              changed=true
+              continue
+            fi
+
+            normalize "$current" > "$normalized_old"
+
+            if ! cmp -s "$normalized_new" "$normalized_old"; then
+              echo "CHANGED: map/$name"
+              changed=true
+            fi
+          done
+
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Publish map snapshot
+        if: steps.compare.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p map
+
+          for file in .tmp/map/*.geojson; do
+            name="$(basename "$file")"
+            jq . "$file" > "map/$name"
+          done
+
+      - name: Commit and push
+        if: steps.compare.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "Archipiélago Vivo Data Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add map/*.geojson
+
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "data: update map"
+
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
