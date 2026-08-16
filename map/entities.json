@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T16:29:20.815Z",
+  "generated_at": "2026-08-16T23:30:18.574Z",
   "source": "Archipiélago Vivo Mapa",
   "entities": [
     {
@@ -97,15 +97,71 @@
       "status": "Activo",
       "media": [],
       "source_updated_at": "2026-08-16T15:58:45.428Z"
+    },
+    {
+      "entity_id": "ZCDLDKPD",
+      "name": "Huerto Solidario de Cáritas Diocesana de Tenerife",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=ZCDLDKPD",
+      "island": "Tenerife",
+      "municipality": "San Cristóbal de La Laguna",
+      "img": "https://img.archipielagovivo.org/ZCDLDKPD/logo.webp",
+      "status": "Activo",
+      "media": [],
+      "source_updated_at": "2026-08-16T16:12:59.382Z"
+    },
+    {
+      "entity_id": "JWXCMAKP",
+      "name": "Plastiman Canario",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JWXCMAKP",
+      "island": "Gran Canaria",
+      "municipality": "Telde",
+      "img": "https://img.archipielagovivo.org/JWXCMAKP/logo.webp",
+      "status": "Activo",
+      "media": [],
+      "source_updated_at": "2026-08-16T15:58:49.600Z"
+    },
+    {
+      "entity_id": "UHZBLALY",
+      "name": "La Vereda.Maye",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=UHZBLALY",
+      "island": "Tenerife",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/UHZBLALY/logo.webp",
+      "status": "Activo",
+      "media": [],
+      "source_updated_at": "2026-08-16T15:58:51.724Z"
+    },
+    {
+      "entity_id": "JSMMZTQN",
+      "name": "Juego del Palo Maho",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JSMMZTQN",
+      "island": "Fuerteventura",
+      "municipality": "Puerto del Rosario",
+      "img": "https://img.archipielagovivo.org/JSMMZTQN/logo.webp",
+      "status": "Activo",
+      "media": [],
+      "source_updated_at": "2026-08-16T17:35:40.948Z"
     }
   ],
   "warnings": [
+    {
+      "entity_id": "YQAFAJLC",
+      "message": "No existe capa pública para island=\"\"."
+    },
     {
       "entity_id": "QGWRYNHC",
       "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
     },
     {
       "entity_id": "MTWRKGUZ",
+      "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
+    },
+    {
+      "entity_id": "UHZBLALY",
+      "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
+    },
+    {
+      "entity_id": "JSMMZTQN",
       "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
     }
   ]

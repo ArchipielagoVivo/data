@@ -207,13 +207,99 @@
         "contact": "✉️ [[mailto:enfermeraantroposofica@gmail.com|enfermeraantroposofica@gmail.com]]\n☎️ 676358954",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=NGMDUYNK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.31403442,
+          28.48720802
+        ]
+      },
+      "properties": {
+        "entity_id": "ZCDLDKPD",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-12T21:55:27.455Z",
+        "date_revised": "2026-08-16T16:12:59.382Z",
+        "name": "Huerto Solidario de Cáritas Diocesana de Tenerife",
+        "format": "Proyecto",
+        "category": "Agricultura, Educación, Sostenibilidad",
+        "tags": "huerto comunitario, agricultura, agricultura sostenible, formación prelaboral, inserción sociolaboral, cuidados, medio ambiente, aprendizaje, hábitos saludables, comunidad",
+        "mission": "Favorecer el aprendizaje, los cuidados y la recuperación de hábitos que ayuden a las personas participantes a recuperar confianza y autonomía, combinando el trabajo comunitario en el huerto, la agricultura y el cuidado del medio ambiente.",
+        "description": "El Huerto Solidario de Cáritas Diocesana de Tenerife es un proyecto de huerto comunitario y formación prelaboral en el que las personas participantes aprenden sobre agricultura mientras trabajan hábitos y herramientas que pueden ayudarles a recuperar confianza y prepararse para su incorporación al mercado laboral. El proyecto combina aprendizaje, acompañamiento, trabajo comunitario y cuidado del medio ambiente y de las personas participantes.",
+        "activity": "Acompañamiento, Agricultura, Educación, Formación",
+        "audience": "Administraciones públicas, Comunidad educativa, Juventud, Personas adultas",
+        "territory": "4 - Isla",
+        "founded": "7 años",
+        "needs": "Difusión, Donaciones, Financiación, Participación, Materiales, Voluntariado",
+        "offers": "Asesoramiento, Espacios, Intercambio de semillas, Talleres, Visitas, Voluntariado",
+        "email": "joseantoniosaiz@caritastenerife.org",
+        "phone": "626836408",
+        "img": "https://img.archipielagovivo.org/ZCDLDKPD/logo.webp",
+        "island": "Tenerife",
+        "municipality": "San Cristóbal de La Laguna",
+        "links": "",
+        "contact": "✉️ [[mailto:joseantoniosaiz@caritastenerife.org|joseantoniosaiz@caritastenerife.org]]\n☎️ 626836408",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=ZCDLDKPD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.589926654033462,
+          28.278630897591295
+        ]
+      },
+      "properties": {
+        "entity_id": "UHZBLALY",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-14T20:01:09.288Z",
+        "date_revised": "2026-08-16T15:58:51.724Z",
+        "name": "La Vereda.Maye",
+        "format": "Asociación",
+        "category": "Agricultura, Biodiversidad, Cultura, Educación, Paisaje, Participación ciudadana, Sostenibilidad",
+        "tags": "Agroecología- cultura- educación ambiental",
+        "mission": "Proyectos agroecológicos, culturales y de economía circular",
+        "description": "La Vereda MAYE es una entidad que impulsa proyectos socioambientales orientados al cuidado del territorio y de las comunidades de Tenerife. Trabaja desde la agroecología, la educación ambiental, la participación ciudadana y la economía circular, promoviendo iniciativas como huertos comunitarios, bosques comestibles, recuperación de espacios, biodiversidad y aprovechamiento sostenible de los recursos. Su forma de trabajar busca conectar a las personas con su entorno, generar redes comunitarias y poner en valor los saberes locales, combinando la acción ambiental con la inclusión social, el aprendizaje colectivo y la creación de comunidades más resilientes.",
+        "activity": "Agricultura, Divulgación, Educación, Gestión Comunitaria",
+        "audience": "Administraciones públicas, Colectivos vecinales, Familias, Infancia, Juventud, Personas adultas, Personas mayores",
+        "territory": "4 - Isla",
+        "founded": "2004",
+        "needs": "Colaboración técnica, Difusión, Financiación, Materiales, Mentoría, Patrocinios, Socios, Vídeo, Voluntariado",
+        "offers": "Formación, Intercambio de semillas, Publicaciones, Recursos educativos, Red de contactos, Talleres, Visitas, Voluntariado",
+        "img": "https://img.archipielagovivo.org/UHZBLALY/logo.webp",
+        "url": "www.lavereda.org",
+        "email": "mayetenerife@gmail.com",
+        "phone": "664147461",
+        "video": "www.instagram.con/lavereda.maye",
+        "facebook": "Lavereda.maye",
+        "instagram": "www.instagram.com/lavereda.maye",
+        "island": "Tenerife",
+        "links": "🌐 [[www.lavereda.org|Sitio web]]\n📷 [[www.instagram.com/lavereda.maye|Instagram]]\n📘 [[Lavereda.maye|Facebook]]",
+        "contact": "✉️ [[mailto:mayetenerife@gmail.com|mayetenerife@gmail.com]]\n☎️ 664147461",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=UHZBLALY"
+      }
     }
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T16:29:27.705Z",
+    "generated_at": "2026-08-16T23:30:25.423Z",
     "layer": "tenerife",
-    "feature_count": 5,
-    "warnings": []
+    "feature_count": 7,
+    "warnings": [
+      {
+        "entity_id": "YQAFAJLC",
+        "message": "No existe capa pública para island=\"\"."
+      }
+    ]
   }
 }

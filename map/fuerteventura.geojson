@@ -43,13 +43,64 @@
         "contact": "✉️ [[mailto:fragmentos.experimental@gmail.com|fragmentos.experimental@gmail.com]]\n☎️ 697289226",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JFUKDKZZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.85971312,
+          28.4987677
+        ]
+      },
+      "properties": {
+        "entity_id": "JSMMZTQN",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-16T17:34:15.975Z",
+        "date_revised": "2026-08-16T17:35:40.948Z",
+        "name": "Juego del Palo Maho",
+        "format": "Asociación",
+        "category": "Arte, Cultura, Deporte, Historia, Patrimonio",
+        "tags": "Tradicion patrimonio juego del palo esgrima deportes tradicionales",
+        "mission": "Divulgación y promoción del juego del palo Canario.",
+        "description": "Nace en 2017 a través de un grupo de amigos, llegamos a fundar a día de hoy 7 escuelas, conseguir un récord guinness, tener un programa de radio, publicar cuentos y un libro, tenemos una linea de investigación y hasta 13 clases semanales.",
+        "activity": "Activismo, Conservación, Diseño, Divulgación, Documentación, Edición, Educación, Exposición, Formación, Innovación, Investigación, Organización de eventos, Producción, Programación cultural, Publicación, Servicios, Voluntariado",
+        "audience": "Colectivos vecinales, Comunidad educativa, Familias, Infancia, Juventud, Personas adultas, Personas mayores, Público general",
+        "territory": "4 - Isla",
+        "founded": "2017",
+        "needs": "Colaboración artística, Colaboración técnica, Desarrollo web, Diseño gráfico, Documentación, Donaciones, Financiación, Fotografía, Investigación",
+        "offers": "Formación, Investigación, Material documental, Publicaciones, Recursos educativos, Talleres",
+        "img": "https://img.archipielagovivo.org/JSMMZTQN/logo.webp",
+        "url": "Instagram @juegodelpalomaho",
+        "email": "Juegodelpalomaho@gmail.com",
+        "phone": "606183247",
+        "video": "https://www.facebook.com/share/r/1Jmuxfo281/",
+        "facebook": "@juegodelpalomaho",
+        "instagram": "@juegodelpalomaho",
+        "tiktok": "@juegodelpalomaho",
+        "whatsapp": 606183247,
+        "youtube": "Juegodelpalomaho",
+        "island": "Fuerteventura",
+        "municipality": "Puerto del Rosario",
+        "links": "🌐 [[Instagram @juegodelpalomaho|Sitio web]]\n📷 [[@juegodelpalomaho|Instagram]]\n📘 [[@juegodelpalomaho|Facebook]]\n🎵 [[@juegodelpalomaho|TikTok]]\n💬 [[606183247|WhatsApp]]\n▶️ [[Juegodelpalomaho|YouTube]]",
+        "contact": "✉️ [[mailto:Juegodelpalomaho@gmail.com|Juegodelpalomaho@gmail.com]]\n☎️ 606183247",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JSMMZTQN"
+      }
     }
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T16:29:31.391Z",
+    "generated_at": "2026-08-16T23:30:28.451Z",
     "layer": "fuerteventura",
-    "feature_count": 1,
-    "warnings": []
+    "feature_count": 2,
+    "warnings": [
+      {
+        "entity_id": "YQAFAJLC",
+        "message": "No existe capa pública para island=\"\"."
+      }
+    ]
   }
 }

@@ -1,11 +1,58 @@
 {
   "type": "FeatureCollection",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.41469543,
+          28.00321531
+        ]
+      },
+      "properties": {
+        "entity_id": "JWXCMAKP",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-14T16:21:07.155Z",
+        "date_revised": "2026-08-16T15:58:49.600Z",
+        "name": "Plastiman Canario",
+        "format": "Persona",
+        "category": "Sostenibilidad",
+        "tags": "medio ambiente, concienciación ambiental, conservación, activismo ambiental, participación ciudadana",
+        "mission": "Vacilar de las islas más limpias del mundo y crear conciencia medioambiental",
+        "description": "Plastiman Canario desarrolla acciones de activismo y concienciación ambiental orientadas a promover unas islas más limpias y el cuidado del medio ambiente.",
+        "activity": "Activismo, Conservación, Divulgación, Voluntariado",
+        "audience": "Público general",
+        "territory": "5 - Varias islas",
+        "founded": "2020",
+        "needs": "Desarrollo web, Difusión, Materiales, Participación, Patrocinios, Voluntariado",
+        "offers": "Voluntariado",
+        "facebook": "https://www.facebook.com/plastimancanario",
+        "instagram": "@plastimancanario",
+        "threads": "@plastimancanario",
+        "youtube": "https://www.youtube.com/@plastimancanario",
+        "img": "https://img.archipielagovivo.org/JWXCMAKP/logo.webp",
+        "island": "Gran Canaria",
+        "municipality": "Telde",
+        "links": "📷 [[@plastimancanario|Instagram]]\n📘 [[https://www.facebook.com/plastimancanario|Facebook]]\n🧵 [[@plastimancanario|Threads]]\n▶️ [[https://www.youtube.com/@plastimancanario|YouTube]]",
+        "contact": "",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JWXCMAKP"
+      }
+    }
+  ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T16:29:29.461Z",
+    "generated_at": "2026-08-16T23:30:26.879Z",
     "layer": "gran-canaria",
-    "feature_count": 0,
-    "warnings": []
+    "feature_count": 1,
+    "warnings": [
+      {
+        "entity_id": "YQAFAJLC",
+        "message": "No existe capa pública para island=\"\"."
+      }
+    ]
   }
 }
