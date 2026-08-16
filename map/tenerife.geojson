@@ -138,7 +138,7 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-11T09:49:50.423Z",
-        "date_revised": "2026-08-16T13:43:49.676Z",
+        "date_revised": "2026-08-16T14:28:44.965Z",
         "name": "VÍCTOR SEUS",
         "format": "Persona",
         "category": "Arte, Audiovisual, Cultura, Diseño, Educación, Innovación, Memoria, Música, Participación ciudadana, Patrimonio, Sostenibilidad, Urbanismo",
@@ -182,7 +182,7 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-11T16:36:32.413Z",
-        "date_revised": "2026-08-16T13:43:51.915Z",
+        "date_revised": "2026-08-16T14:28:48.091Z",
         "name": "Angeles Yanes",
         "format": "Persona",
         "category": "Cultura, Educación, Historia",
@@ -211,7 +211,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T13:46:50.974Z",
+    "generated_at": "2026-08-16T14:42:02.404Z",
     "layer": "tenerife",
     "feature_count": 5,
     "warnings": []
