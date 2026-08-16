@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-16T14:59:32.295Z",
+  "generated_at": "2026-08-16T15:45:26.628Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -212,6 +212,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -258,6 +259,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -303,6 +305,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -350,6 +353,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -395,6 +399,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -442,6 +447,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -489,6 +495,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -535,6 +542,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -583,6 +591,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -628,6 +637,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -675,6 +685,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -721,6 +732,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -766,6 +778,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -815,6 +828,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -860,6 +874,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -906,6 +921,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -951,6 +967,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -996,6 +1013,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1041,6 +1059,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1086,6 +1105,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1132,6 +1152,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1182,6 +1203,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1228,6 +1250,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1275,6 +1298,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1321,6 +1345,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1367,6 +1392,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1416,6 +1442,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1463,6 +1490,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1508,6 +1536,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1555,6 +1584,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1602,6 +1632,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1647,6 +1678,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1692,6 +1724,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1738,6 +1771,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1783,6 +1817,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1828,6 +1863,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1873,6 +1909,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1922,6 +1959,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -1969,6 +2007,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2015,6 +2054,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2062,6 +2102,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2108,6 +2149,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2154,6 +2196,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2200,6 +2243,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2246,6 +2290,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2292,6 +2337,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2339,6 +2385,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2385,6 +2432,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2432,6 +2480,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2480,6 +2529,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2529,6 +2579,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2575,6 +2626,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2620,6 +2672,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2667,6 +2720,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2717,6 +2771,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2763,6 +2818,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2809,6 +2865,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2854,6 +2911,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2899,6 +2957,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2948,6 +3007,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -2996,6 +3056,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3045,6 +3106,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3093,6 +3155,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3142,6 +3205,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3191,6 +3255,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3240,6 +3305,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3290,6 +3356,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3339,6 +3406,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3389,6 +3457,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3439,6 +3508,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3488,6 +3558,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3538,6 +3609,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3587,6 +3659,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3637,6 +3710,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3687,6 +3761,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3736,6 +3811,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3785,6 +3861,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3835,6 +3912,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3884,6 +3962,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3933,6 +4012,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -3982,6 +4062,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4031,6 +4112,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4081,6 +4163,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4130,6 +4213,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4180,6 +4264,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4229,6 +4314,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4278,6 +4364,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4327,6 +4414,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4376,6 +4464,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4426,6 +4515,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4475,6 +4565,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4523,6 +4614,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4572,6 +4664,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4622,6 +4715,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4671,6 +4765,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4720,6 +4815,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4769,6 +4865,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4817,6 +4914,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4865,6 +4963,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4914,6 +5013,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -4963,6 +5063,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5011,6 +5112,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5060,6 +5162,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5109,6 +5212,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5158,6 +5262,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5207,6 +5312,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5256,6 +5362,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5304,6 +5411,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5351,6 +5459,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5400,6 +5509,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5448,6 +5558,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5497,6 +5608,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5544,6 +5656,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5591,6 +5704,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5640,6 +5754,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5686,6 +5801,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5731,6 +5847,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5777,6 +5894,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5822,6 +5940,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5867,6 +5986,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5912,6 +6032,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -5958,6 +6079,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6002,6 +6124,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6047,6 +6170,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6092,6 +6216,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6136,6 +6261,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6181,6 +6307,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6227,6 +6354,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6272,6 +6400,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6317,6 +6446,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6360,6 +6490,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6405,6 +6536,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6450,6 +6582,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6494,6 +6627,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6537,6 +6671,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6581,6 +6716,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6626,6 +6762,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6671,6 +6808,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6715,6 +6853,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6760,6 +6899,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6805,6 +6945,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6851,6 +6992,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6896,6 +7038,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6940,6 +7083,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -6983,6 +7127,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7028,6 +7173,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7073,6 +7219,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7117,6 +7264,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7162,6 +7310,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7207,6 +7356,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7252,6 +7402,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7296,6 +7447,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7341,6 +7493,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7385,6 +7538,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7430,6 +7584,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7475,6 +7630,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7520,6 +7676,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7565,6 +7722,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7609,6 +7767,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7655,6 +7814,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7698,6 +7858,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7743,6 +7904,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7788,6 +7950,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7831,6 +7994,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7875,6 +8039,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7918,6 +8083,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -7963,6 +8129,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8007,6 +8174,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8051,6 +8219,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8095,6 +8264,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8142,6 +8312,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8187,6 +8358,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8233,6 +8405,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8278,6 +8451,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8323,6 +8497,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8366,6 +8541,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8411,6 +8587,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8456,6 +8633,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8500,6 +8678,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8545,6 +8724,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8589,6 +8769,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8634,6 +8815,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8680,6 +8862,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8725,6 +8908,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8770,6 +8954,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8813,6 +8998,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8857,6 +9043,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8902,6 +9089,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8947,6 +9135,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -8992,6 +9181,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9038,6 +9228,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9083,6 +9274,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9128,6 +9320,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9173,6 +9366,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9217,6 +9411,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9263,6 +9458,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9307,6 +9503,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9352,6 +9549,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9398,6 +9596,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9441,6 +9640,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9484,6 +9684,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9527,6 +9728,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9571,6 +9773,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9614,6 +9817,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9657,6 +9861,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9700,6 +9905,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9743,6 +9949,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9786,6 +9993,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9829,6 +10037,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9872,6 +10081,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9915,6 +10125,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -9958,6 +10169,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10002,6 +10214,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10046,6 +10259,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10089,6 +10303,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10132,6 +10347,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10175,6 +10391,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10218,6 +10435,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10261,6 +10479,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10304,6 +10523,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10347,6 +10567,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10390,6 +10611,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10433,6 +10655,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10476,6 +10699,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10521,6 +10745,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10567,6 +10792,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10611,6 +10837,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10654,6 +10881,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10699,6 +10927,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10743,6 +10972,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10786,6 +11016,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10832,6 +11063,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10875,6 +11107,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10918,6 +11151,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -10961,6 +11195,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11005,6 +11240,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11050,6 +11286,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11093,6 +11330,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11138,6 +11376,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11183,6 +11422,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11228,6 +11468,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11273,6 +11514,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11318,6 +11560,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11362,6 +11605,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11405,6 +11649,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11448,6 +11693,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11493,6 +11739,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11537,6 +11784,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11582,6 +11830,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11626,6 +11875,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11670,6 +11920,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11715,6 +11966,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11761,6 +12013,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11807,6 +12060,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11852,6 +12106,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11897,6 +12152,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11942,6 +12198,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -11988,6 +12245,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12032,6 +12290,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12076,6 +12335,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12121,6 +12381,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12166,6 +12427,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12210,6 +12472,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12254,6 +12517,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12300,6 +12564,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12344,6 +12609,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12389,6 +12655,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12434,6 +12701,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12479,6 +12747,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12522,6 +12791,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12567,6 +12837,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12610,6 +12881,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12653,6 +12925,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12697,6 +12970,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12740,6 +13014,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12784,6 +13059,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12827,6 +13103,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12870,6 +13147,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12915,6 +13193,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -12959,6 +13238,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13003,6 +13283,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13046,6 +13327,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13090,6 +13372,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13134,6 +13417,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13179,6 +13463,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13223,6 +13508,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13268,6 +13554,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13313,6 +13600,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13358,6 +13646,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13403,6 +13692,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13448,6 +13738,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13492,6 +13783,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13537,6 +13829,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13581,6 +13874,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13626,6 +13920,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13670,6 +13965,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13714,6 +14010,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13757,6 +14054,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13800,6 +14098,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13843,6 +14142,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13886,6 +14186,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13929,6 +14230,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -13973,6 +14275,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14017,6 +14320,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14060,6 +14364,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14104,6 +14409,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14147,6 +14453,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14190,6 +14497,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14233,6 +14541,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14276,6 +14585,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14320,6 +14630,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14366,6 +14677,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14412,6 +14724,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14456,6 +14769,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14502,6 +14816,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14549,6 +14864,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14595,6 +14911,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14640,6 +14957,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14686,6 +15004,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14732,6 +15051,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14776,6 +15096,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14822,6 +15143,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14867,6 +15189,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14912,6 +15235,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -14958,6 +15282,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15002,6 +15327,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15048,6 +15374,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15094,6 +15421,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15140,6 +15468,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15186,6 +15515,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15231,6 +15561,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15275,6 +15606,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15320,6 +15652,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15366,6 +15699,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15411,6 +15745,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15457,6 +15792,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15504,6 +15840,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15550,6 +15887,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15596,6 +15934,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15640,6 +15979,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15685,6 +16025,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15731,6 +16072,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15779,6 +16121,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15824,6 +16167,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15871,6 +16215,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15915,6 +16260,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -15959,6 +16305,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16004,6 +16351,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16050,6 +16398,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16096,6 +16445,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16140,6 +16490,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16184,6 +16535,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16229,6 +16581,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16273,6 +16626,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16317,6 +16671,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16362,6 +16717,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16407,6 +16763,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16451,6 +16808,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16495,6 +16853,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16539,6 +16898,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16582,6 +16942,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16625,6 +16986,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16669,6 +17031,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16712,6 +17075,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16755,6 +17119,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16798,6 +17163,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16841,6 +17207,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16884,6 +17251,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16928,6 +17296,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -16972,6 +17341,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17016,6 +17386,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17060,6 +17431,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17104,6 +17476,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17147,6 +17520,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17190,6 +17564,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17233,6 +17608,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17276,6 +17652,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17319,6 +17696,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17363,6 +17741,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17406,6 +17785,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17450,6 +17830,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17494,6 +17875,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17537,6 +17919,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17580,6 +17963,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17623,6 +18007,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17667,6 +18052,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17710,6 +18096,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17753,6 +18140,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17797,6 +18185,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17841,6 +18230,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17884,6 +18274,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17927,6 +18318,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -17970,6 +18362,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18013,6 +18406,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18056,6 +18450,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18101,6 +18496,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18145,6 +18541,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18191,6 +18588,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18237,6 +18635,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18283,6 +18682,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18329,6 +18729,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18374,6 +18775,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18420,6 +18822,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18465,6 +18868,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18511,6 +18915,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18557,6 +18962,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18602,6 +19008,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18647,6 +19054,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18693,6 +19101,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18739,6 +19148,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18784,6 +19194,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18829,6 +19240,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18875,6 +19287,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18921,6 +19334,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -18966,6 +19380,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19012,6 +19427,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19058,6 +19474,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19105,6 +19522,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19151,6 +19569,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19196,6 +19615,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19242,6 +19662,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19288,6 +19709,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19331,6 +19753,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19376,6 +19799,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19421,6 +19845,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19466,6 +19891,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19510,6 +19936,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19556,6 +19983,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19599,6 +20027,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19642,6 +20071,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19686,6 +20116,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19729,6 +20160,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19774,6 +20206,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19821,6 +20254,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19867,6 +20301,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19913,6 +20348,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -19959,6 +20395,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20003,6 +20440,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20048,6 +20486,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20095,6 +20534,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20141,6 +20581,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20184,6 +20625,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20228,6 +20670,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20271,6 +20714,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20317,6 +20761,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20363,6 +20808,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20409,6 +20855,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20455,6 +20902,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20502,6 +20950,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20548,6 +20997,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20594,6 +21044,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20640,6 +21091,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20685,6 +21137,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20731,6 +21184,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20777,6 +21231,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20823,6 +21278,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20868,6 +21324,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20912,6 +21369,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20955,6 +21413,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -20999,6 +21458,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21045,6 +21505,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21090,6 +21551,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21133,6 +21595,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21177,6 +21640,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21220,6 +21684,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21265,6 +21730,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21310,6 +21776,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21354,6 +21821,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21398,6 +21866,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21442,6 +21911,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21488,6 +21958,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21534,6 +22005,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21578,6 +22050,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21622,6 +22095,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21668,6 +22142,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21712,6 +22187,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21755,6 +22231,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21798,6 +22275,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21842,6 +22320,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21886,6 +22365,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21930,6 +22410,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -21975,6 +22456,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22018,6 +22500,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22063,6 +22546,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22107,6 +22591,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22152,6 +22637,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22196,6 +22682,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22241,6 +22728,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22287,6 +22775,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22332,6 +22821,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22377,6 +22867,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22424,6 +22915,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22469,6 +22961,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22519,6 +23012,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22570,6 +23064,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22619,6 +23114,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22669,6 +23165,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22719,6 +23216,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22769,6 +23267,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -22821,6 +23320,7 @@
       "entity_created_at": "",
       "is_new_entity": false,
       "active": true,
+      "review_required": false,
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
@@ -24189,7 +24689,7 @@
       "total_playable_entities": 0,
       "total_playable_media": 0,
       "total_duration_seconds": 0,
-      "current_full_cycle_hours": 2,
+      "current_full_cycle_hours": 0,
       "tiers": [
         {
           "max_minutes": 10,
