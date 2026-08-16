@@ -1,0 +1,220 @@
+name: Update TV data
+
+on:
+  schedule:
+    # La parrilla móvil debe recompilarse aunque el catálogo no cambie.
+    - cron: "27 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-tv-data
+  cancel-in-progress: true
+
+jobs:
+  update-tv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Download TV feed
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_URL="https://script.google.com/macros/s/AKfycbyzAjOCPC77Yf9-lrRdV3x709VX6qJCa3bwJGDyr5uz4XnkTKPFcQsP0oWUCzlRdgt3DQ/exec"
+
+          rm -rf .tmp/tv
+          mkdir -p .tmp/tv/new
+
+          curl \
+            --fail \
+            --show-error \
+            --silent \
+            --location \
+            --retry 3 \
+            --retry-delay 2 \
+            --connect-timeout 15 \
+            --max-time 90 \
+            "${BASE_URL}?export=tv" \
+            --output .tmp/tv/new/feed.json
+
+      - name: Validate TV source
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          FILE=".tmp/tv/new/feed.json"
+
+          if [ ! -s "$FILE" ]; then
+            echo "ERROR: empty TV feed"
+            exit 1
+          fi
+
+          jq empty "$FILE"
+
+          jq -e '
+            .schema_version == 2
+            and (.channels | type == "array")
+            and (.programs | type == "array")
+            and (.media | type == "array")
+            and (.schedule | type == "array")
+            and (.tv_config | type == "object")
+          ' "$FILE" >/dev/null
+
+          jq -e '
+            (.tv_config.valid == true)
+          ' "$FILE" >/dev/null
+
+      - name: Compile TV schedule and editorial statistics
+        shell: bash
+        env:
+          TV_SCHEDULE_DAYS: "7"
+          TV_TARGET_COVERAGE_DAYS: "7"
+        run: |
+          set -euo pipefail
+
+          node scripts/compile-tv.js \
+            --input .tmp/tv/new/feed.json \
+            --out .tmp/tv/new
+
+      - name: Validate compiled TV data
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          jq -e '
+            .schema_version == 1
+            and (.schedule_version | type == "string")
+            and (.channels | type == "array")
+            and (.global | type == "array")
+            and (.timelines | type == "object")
+            and (.program_boundaries | type == "object")
+          ' .tmp/tv/new/schedule.json >/dev/null
+
+          jq -e '
+            .schema_version == 1
+            and (.summary.unique_videos | type == "number")
+            and (.programs | type == "array")
+          ' .tmp/tv/new/catalog-stats.json >/dev/null
+
+          jq -e '
+            .schema_version == 1
+            and (.schedule_version | type == "string")
+            and (.schedule_url | type == "string")
+            and (.catalog_stats_url | type == "string")
+          ' .tmp/tv/new/manifest.json >/dev/null
+
+      - name: Compare meaningful content
+        id: compare
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p \
+            .tmp/tv/normalized-new \
+            .tmp/tv/normalized-old
+
+          normalize() {
+            jq -S '
+              walk(
+                if type == "object" then
+                  del(
+                    .generated_at,
+                    .generatedAt,
+                    .updated_at,
+                    .updatedAt,
+                    .timestamp,
+                    .schedule_generated_at,
+                    .metadata_updated_at,
+                    .synced_at
+                  )
+                else
+                  .
+                end
+              )
+            ' "$1"
+          }
+
+          changed=false
+
+          FILES=(
+            feed.json
+            schedule.json
+            catalog-stats.json
+            manifest.json
+          )
+
+          for name in "${FILES[@]}"; do
+            new_file=".tmp/tv/new/$name"
+            current="tv/$name"
+
+            normalized_new=".tmp/tv/normalized-new/$name"
+            normalized_old=".tmp/tv/normalized-old/$name"
+
+            normalize "$new_file" > "$normalized_new"
+
+            if [ ! -f "$current" ]; then
+              echo "NEW: tv/$name"
+              changed=true
+              continue
+            fi
+
+            normalize "$current" > "$normalized_old"
+
+            if ! cmp -s "$normalized_new" "$normalized_old"; then
+              echo "CHANGED: tv/$name"
+              changed=true
+            fi
+          done
+
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Publish TV snapshot
+        if: steps.compare.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p tv
+
+          jq . .tmp/tv/new/feed.json > tv/feed.json
+          jq . .tmp/tv/new/schedule.json > tv/schedule.json
+          jq . .tmp/tv/new/catalog-stats.json > tv/catalog-stats.json
+          jq . .tmp/tv/new/manifest.json > tv/manifest.json
+
+      - name: Commit and push
+        if: steps.compare.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "Archipiélago Vivo TV Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add \
+            tv/feed.json \
+            tv/schedule.json \
+            tv/catalog-stats.json \
+            tv/manifest.json
+
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "tv: update feed and compile schedule"
+
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
