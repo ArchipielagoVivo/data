@@ -30,16 +30,16 @@
         "founded": "2023",
         "needs": "Colaboración artística, Difusión, Participación",
         "offers": "Formación, Recursos educativos, Talleres",
+        "img": "https://img.archipielagovivo.org/JFUKDKZZ/logo.webp",
         "url": "Instagram @fragmentos.experimental",
         "email": "fragmentos.experimental@gmail.com",
         "phone": "697289226",
         "video": "94EwyulpD7s",
         "instagram": "@fragmentos.experimental",
         "whatsapp": 697289226,
-        "img": "https://img.archipielagovivo.org/JFUKDKZZ/logo.webp",
         "island": "Fuerteventura",
         "municipality": "La Oliva",
-        "links": "🌐 [[https://Instagram @fragmentos.experimental|Sitio web]]\n📷 [[https://www.instagram.com/fragmentos.experimental/|Instagram]]\n💬 [[https://wa.me/697289226|WhatsApp]]",
+        "links": "🌐 [[Instagram @fragmentos.experimental|Sitio web]]\n📷 [[@fragmentos.experimental|Instagram]]\n💬 [[697289226|WhatsApp]]",
         "contact": "✉️ [[mailto:fragmentos.experimental@gmail.com|fragmentos.experimental@gmail.com]]\n☎️ 697289226",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JFUKDKZZ"
       }
@@ -47,7 +47,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T15:31:54.158Z",
+    "generated_at": "2026-08-16T16:27:00.915Z",
     "layer": "fuerteventura",
     "feature_count": 1,
     "warnings": []

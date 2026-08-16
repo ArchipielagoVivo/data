@@ -38,7 +38,7 @@
         "img": "https://img.archipielagovivo.org/FXZLRGJA/logo.webp",
         "island": "Tenerife",
         "municipality": "Arafo",
-        "links": "📷 [[https://www.instagram.com/jovenes_sin_etiquetas/|Instagram]]\n📘 [[https://www.facebook.com/mibarrioelcarmensemueve.arafo/|Facebook]]",
+        "links": "📷 [[@jovenes_sin_etiquetas|Instagram]]\n📘 [[https://www.facebook.com/mibarrioelcarmensemueve.arafo/|Facebook]]",
         "contact": "✉️ [[mailto:elcarmensemueve@gmail.com|elcarmensemueve@gmail.com]]\n☎️ 616858199 / 614352672",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=FXZLRGJA"
       }
@@ -48,8 +48,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.597716378984412,
-          28.29966925811658
+          -16.59772645656055,
+          28.298705775876865
         ]
       },
       "properties": {
@@ -72,10 +72,10 @@
         "founded": "2021",
         "needs": "Socios, Financiación, Espacios, Difusión",
         "offers": "Asesoramiento, Charlas, Formación, Residencias",
+        "img": "https://img.archipielagovivo.org/WCPSPJUL/logo.webp",
         "url": "https://www.cohousingelprincipio.es/",
         "email": "cohousingelprincipio@gmail.com",
         "phone": "653500225",
-        "img": "https://img.archipielagovivo.org/WCPSPJUL/logo.webp",
         "island": "Tenerife",
         "links": "🌐 [[https://www.cohousingelprincipio.es/|Sitio web]]",
         "contact": "✉️ [[mailto:cohousingelprincipio@gmail.com|cohousingelprincipio@gmail.com]]\n☎️ 653500225",
@@ -111,13 +111,13 @@
         "founded": "2024",
         "needs": "Difusión",
         "offers": "Asesoramiento, Formación, Publicaciones, Recursos educativos",
+        "img": "https://img.archipielagovivo.org/QGWRYNHC/logo.webp",
         "email": "elbosquetermofilo@gmail.com",
         "video": "Tengo todos los vídeos en Instagram",
         "instagram": "@el_bosque_termofilo",
-        "img": "https://img.archipielagovivo.org/QGWRYNHC/logo.webp",
         "island": "Tenerife",
         "municipality": "Candelaria",
-        "links": "📷 [[https://www.instagram.com/el_bosque_termofilo/|Instagram]]",
+        "links": "📷 [[@el_bosque_termofilo|Instagram]]",
         "contact": "✉️ [[mailto:elbosquetermofilo@gmail.com|elbosquetermofilo@gmail.com]]",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=QGWRYNHC"
       }
@@ -127,8 +127,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.61440256348832,
-          28.298938191673404
+          -16.614355317785453,
+          28.298873943004597
         ]
       },
       "properties": {
@@ -138,7 +138,7 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-11T09:49:50.423Z",
-        "date_revised": "2026-08-16T15:28:46.482Z",
+        "date_revised": "2026-08-16T15:58:43.814Z",
         "name": "VÍCTOR SEUS",
         "format": "Persona",
         "category": "Arte, Audiovisual, Cultura, Diseño, Educación, Innovación, Memoria, Música, Participación ciudadana, Patrimonio, Sostenibilidad, Urbanismo",
@@ -151,6 +151,7 @@
         "founded": "2000",
         "needs": "Colaboración artística, Colaboración técnica, Desarrollo web, Difusión, Diseño gráfico, Documentación, Donaciones, Espacios, Financiación, Fotografía, Investigación, Materiales, Mentoría, Participación, Patrocinios, Socios, Traducción, Vídeo, Voluntariado",
         "offers": "Asesoramiento, Charlas, Conciertos, Consultoría, Exposiciones, Formación, Publicaciones, Recursos educativos, Red de contactos, Residencias, Talleres, Visitas",
+        "img": "https://img.archipielagovivo.org/MTWRKGUZ/logo.webp",
         "url": "www.victorseus.com",
         "email": "Victorseus@gmail.com",
         "phone": "+34634810219",
@@ -159,9 +160,8 @@
         "instagram": "@victorseus",
         "whatsapp": "@victorseus",
         "youtube": "https://m.youtube.com/@victor-seus?ra=m",
-        "img": "https://img.archipielagovivo.org/MTWRKGUZ/logo.webp",
         "island": "Tenerife",
-        "links": "🌐 [[https://www.victorseus.com|Sitio web]]\n📷 [[https://www.instagram.com/victorseus/|Instagram]]\n📘 [[https://www.facebook.com/share/1LS1nwyKvU/?mibextid=wwXIfr|Facebook]]\n▶️ [[https://m.youtube.com/@victor-seus?ra=m|YouTube]]",
+        "links": "🌐 [[www.victorseus.com|Sitio web]]\n📷 [[@victorseus|Instagram]]\n📘 [[https://www.facebook.com/share/1LS1nwyKvU/?mibextid=wwXIfr|Facebook]]\n💬 [[@victorseus|WhatsApp]]\n▶️ [[https://m.youtube.com/@victor-seus?ra=m|YouTube]]",
         "contact": "✉️ [[mailto:Victorseus@gmail.com|Victorseus@gmail.com]]\n☎️ +34634810219",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=MTWRKGUZ"
       }
@@ -182,7 +182,7 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-11T16:36:32.413Z",
-        "date_revised": "2026-08-16T15:28:49.820Z",
+        "date_revised": "2026-08-16T15:58:45.428Z",
         "name": "Angeles Yanes",
         "format": "Persona",
         "category": "Cultura, Educación, Historia",
@@ -203,7 +203,7 @@
         "img": "https://img.archipielagovivo.org/NGMDUYNK/logo.webp",
         "island": "Tenerife",
         "municipality": "Tegueste",
-        "links": "📘 [[https://www.facebook.com/Angeles%20Yanes|Facebook]]\n✈️ [[https://t.me/enfermeracurandera|Telegram]]",
+        "links": "📘 [[Angeles Yanes|Facebook]]\n✈️ [[@enfermeracurandera|Telegram]]\n💬 [[@enfermeracurandera|WhatsApp]]",
         "contact": "✉️ [[mailto:enfermeraantroposofica@gmail.com|enfermeraantroposofica@gmail.com]]\n☎️ 676358954",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=NGMDUYNK"
       }
@@ -211,7 +211,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T15:31:50.766Z",
+    "generated_at": "2026-08-16T16:26:57.706Z",
     "layer": "tenerife",
     "feature_count": 5,
     "warnings": []
