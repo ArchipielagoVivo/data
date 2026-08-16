@@ -17,7 +17,7 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-10T10:01:39.000Z",
-        "date_revised": "2026-08-16T03:13:41.808Z",
+        "date_revised": "2026-08-16T03:58:41.159Z",
         "name": "Archipiélago Vivo",
         "format": "Proyecto",
         "category": "Cultura, Innovación, Participación ciudadana, Sostenibilidad, Tecnología",
@@ -51,7 +51,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T03:15:13.885Z",
+    "generated_at": "2026-08-16T04:03:55.709Z",
     "layer": "canarias",
     "feature_count": 1,
     "warnings": []
