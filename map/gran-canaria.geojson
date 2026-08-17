@@ -17,19 +17,20 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-14T16:21:07.155Z",
-        "date_revised": "2026-08-16T15:58:49.600Z",
+        "date_revised": "2026-08-17T00:35:32.609Z",
         "name": "Plastiman Canario",
         "format": "Persona",
-        "category": "Sostenibilidad",
-        "tags": "medio ambiente, concienciación ambiental, conservación, activismo ambiental, participación ciudadana",
-        "mission": "Vacilar de las islas más limpias del mundo y crear conciencia medioambiental",
-        "description": "Plastiman Canario desarrolla acciones de activismo y concienciación ambiental orientadas a promover unas islas más limpias y el cuidado del medio ambiente.",
+        "category": "Sostenibilidad, Participación ciudadana",
+        "tags": "medio ambiente, concienciación ambiental, conservación, activismo ambiental, participación ciudadana, voluntariado",
+        "mission": "Promover unas islas más limpias y una mayor conciencia medioambiental mediante el activismo, la divulgación, la conservación y el voluntariado.",
+        "description": "Plastiman Canario es una iniciativa personal que desarrolla acciones de activismo, divulgación y concienciación ambiental orientadas al cuidado del medio ambiente y a promover unas islas más limpias. Su actividad combina conservación, participación ciudadana y voluntariado, con alcance en varias islas de Canarias.",
         "activity": "Activismo, Conservación, Divulgación, Voluntariado",
         "audience": "Público general",
         "territory": "5 - Varias islas",
         "founded": "2020",
         "needs": "Desarrollo web, Difusión, Materiales, Participación, Patrocinios, Voluntariado",
         "offers": "Voluntariado",
+        "video": "https://www.youtube.com/watch?v=CWc4qAtIvSE",
         "facebook": "https://www.facebook.com/plastimancanario",
         "instagram": "@plastimancanario",
         "threads": "@plastimancanario",
@@ -45,14 +46,9 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T23:54:58.889Z",
+    "generated_at": "2026-08-17T00:37:26.250Z",
     "layer": "gran-canaria",
     "feature_count": 1,
-    "warnings": [
-      {
-        "entity_id": "YQAFAJLC",
-        "message": "No existe capa pública para island=\"\"."
-      }
-    ]
+    "warnings": []
   }
 }

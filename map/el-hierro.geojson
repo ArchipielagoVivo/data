@@ -3,14 +3,9 @@
   "features": [],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T23:54:51.085Z",
+    "generated_at": "2026-08-17T00:37:17.952Z",
     "layer": "el-hierro",
     "feature_count": 0,
-    "warnings": [
-      {
-        "entity_id": "YQAFAJLC",
-        "message": "No existe capa pública para island=\"\"."
-      }
-    ]
+    "warnings": []
   }
 }

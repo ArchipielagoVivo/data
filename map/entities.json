@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T23:54:49.142Z",
+  "generated_at": "2026-08-17T00:37:15.972Z",
   "source": "Archipiélago Vivo Mapa",
   "entities": [
     {
@@ -117,19 +117,31 @@
       "municipality": "Telde",
       "img": "https://img.archipielagovivo.org/JWXCMAKP/logo.webp",
       "status": "Activo",
-      "media": [],
-      "source_updated_at": "2026-08-16T15:58:49.600Z"
+      "media": [
+        {
+          "url": "https://www.youtube.com/watch?v=CWc4qAtIvSE",
+          "relation_type": "map_profile",
+          "is_primary": true
+        }
+      ],
+      "source_updated_at": "2026-08-17T00:35:32.609Z"
     },
     {
       "entity_id": "UHZBLALY",
-      "name": "La Vereda.Maye",
+      "name": "La Vereda MAYE",
       "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=UHZBLALY",
       "island": "Tenerife",
       "municipality": "",
       "img": "https://img.archipielagovivo.org/UHZBLALY/logo.webp",
       "status": "Activo",
-      "media": [],
-      "source_updated_at": "2026-08-16T15:58:51.724Z"
+      "media": [
+        {
+          "url": "https://www.youtube.com/watch?v=0Vk69PfSAp4",
+          "relation_type": "map_profile",
+          "is_primary": true
+        }
+      ],
+      "source_updated_at": "2026-08-17T00:29:11.577Z"
     },
     {
       "entity_id": "JSMMZTQN",
@@ -139,29 +151,23 @@
       "municipality": "Puerto del Rosario",
       "img": "https://img.archipielagovivo.org/JSMMZTQN/logo.webp",
       "status": "Activo",
-      "media": [],
-      "source_updated_at": "2026-08-16T17:35:40.948Z"
+      "media": [
+        {
+          "url": "https://www.youtube.com/watch?v=V6n8tc2E0hY",
+          "relation_type": "map_profile",
+          "is_primary": true
+        }
+      ],
+      "source_updated_at": "2026-08-17T00:15:43.593Z"
     }
   ],
   "warnings": [
-    {
-      "entity_id": "YQAFAJLC",
-      "message": "No existe capa pública para island=\"\"."
-    },
     {
       "entity_id": "QGWRYNHC",
       "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
     },
     {
       "entity_id": "MTWRKGUZ",
-      "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
-    },
-    {
-      "entity_id": "UHZBLALY",
-      "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
-    },
-    {
-      "entity_id": "JSMMZTQN",
       "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
     }
   ]

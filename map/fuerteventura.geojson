@@ -39,7 +39,7 @@
         "whatsapp": 697289226,
         "island": "Fuerteventura",
         "municipality": "La Oliva",
-        "links": "📷 [[https://www.instagram.com/fragmentos.experimental/|Instagram]]\n💬 [[https://wa.me/697289226|WhatsApp]]",
+        "links": "📷 [[https://www.instagram.com/fragmentos.experimental/|Instagram]]\n💬 [[https://wa.me/34697289226|WhatsApp]]",
         "contact": "✉️ [[mailto:fragmentos.experimental@gmail.com|fragmentos.experimental@gmail.com]]\n☎️ 697289226",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JFUKDKZZ"
       }
@@ -60,32 +60,31 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-16T17:34:15.975Z",
-        "date_revised": "2026-08-16T17:35:40.948Z",
+        "date_revised": "2026-08-17T00:15:43.593Z",
         "name": "Juego del Palo Maho",
         "format": "Asociación",
-        "category": "Arte, Cultura, Deporte, Historia, Patrimonio",
-        "tags": "Tradicion patrimonio juego del palo esgrima deportes tradicionales",
-        "mission": "Divulgación y promoción del juego del palo Canario.",
-        "description": "Nace en 2017 a través de un grupo de amigos, llegamos a fundar a día de hoy 7 escuelas, conseguir un récord guinness, tener un programa de radio, publicar cuentos y un libro, tenemos una linea de investigación y hasta 13 clases semanales.",
-        "activity": "Activismo, Conservación, Diseño, Divulgación, Documentación, Edición, Educación, Exposición, Formación, Innovación, Investigación, Organización de eventos, Producción, Programación cultural, Publicación, Servicios, Voluntariado",
-        "audience": "Colectivos vecinales, Comunidad educativa, Familias, Infancia, Juventud, Personas adultas, Personas mayores, Público general",
+        "category": "Cultura, Deporte, Educación, Historia, Patrimonio",
+        "tags": "juego del palo canario, juego de la lata, tradición canaria, patrimonio cultural inmaterial, deportes tradicionales, esgrima tradicional, Fuerteventura, cultura majorera, transmisión intergeneracional",
+        "mission": "Preservar, investigar, enseñar y divulgar el Juego del Palo Canario y el juego de la lata majorera, favoreciendo su transmisión intergeneracional como patrimonio cultural vivo de Canarias.",
+        "description": "La Asociación Cultural del Juego del Palo Canario Maho nace en Fuerteventura en 2017 a partir de un grupo de personas vinculadas a la práctica y transmisión de esta tradición. Desarrolla actividades de formación, divulgación e investigación y, según la propia asociación, ha impulsado siete escuelas y hasta 13 clases semanales, además de una línea de investigación, un programa de radio y diversas publicaciones. En 2024 logró un Guinness World Records por la mayor clase de lucha con palo, con 284 participantes en Puerto del Rosario. Su trabajo conecta práctica, educación, investigación y divulgación para mantener vivo este patrimonio entre distintas generaciones.",
+        "activity": "Conservación, Divulgación, Educación, Documentación, Formación, Investigación, Organización de eventos, Programación cultural, Publicación",
+        "audience": "Comunidad educativa, Familias, Infancia, Juventud, Personas mayores, Personas adultas, Público general",
         "territory": "4 - Isla",
         "founded": "2017",
-        "needs": "Colaboración artística, Colaboración técnica, Desarrollo web, Diseño gráfico, Documentación, Donaciones, Financiación, Fotografía, Investigación",
+        "needs": "Colaboración técnica, Diseño gráfico, Desarrollo web, Documentación, Donaciones, Financiación, Fotografía, Investigación",
         "offers": "Formación, Investigación, Material documental, Publicaciones, Recursos educativos, Talleres",
-        "img": "https://img.archipielagovivo.org/JSMMZTQN/logo.webp",
-        "url": "Instagram @juegodelpalomaho",
         "email": "Juegodelpalomaho@gmail.com",
         "phone": "606183247",
-        "video": "https://www.facebook.com/share/r/1Jmuxfo281/",
+        "video": "https://youtube.com/shorts/V6n8tc2E0hY?feature=share",
         "facebook": "@juegodelpalomaho",
         "instagram": "@juegodelpalomaho",
         "tiktok": "@juegodelpalomaho",
         "whatsapp": 606183247,
-        "youtube": "Juegodelpalomaho",
+        "youtube": "@juegodelpalomaho5016",
+        "img": "https://img.archipielagovivo.org/JSMMZTQN/logo.webp",
         "island": "Fuerteventura",
         "municipality": "Puerto del Rosario",
-        "links": "📷 [[https://www.instagram.com/juegodelpalomaho/|Instagram]]\n📘 [[https://www.facebook.com/juegodelpalomaho|Facebook]]\n🎵 [[https://www.tiktok.com/@juegodelpalomaho|TikTok]]\n💬 [[https://wa.me/606183247|WhatsApp]]\n▶️ [[https://www.youtube.com/@Juegodelpalomaho|YouTube]]",
+        "links": "📷 [[https://www.instagram.com/juegodelpalomaho/|Instagram]]\n📘 [[https://www.facebook.com/juegodelpalomaho|Facebook]]\n🎵 [[https://www.tiktok.com/@juegodelpalomaho|TikTok]]\n💬 [[https://wa.me/34606183247|WhatsApp]]\n▶️ [[https://www.youtube.com/@juegodelpalomaho5016|YouTube]]",
         "contact": "✉️ [[mailto:Juegodelpalomaho@gmail.com|Juegodelpalomaho@gmail.com]]\n☎️ 606183247",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JSMMZTQN"
       }
@@ -93,14 +92,9 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T23:55:01.165Z",
+    "generated_at": "2026-08-17T00:37:28.158Z",
     "layer": "fuerteventura",
     "feature_count": 2,
-    "warnings": [
-      {
-        "entity_id": "YQAFAJLC",
-        "message": "No existe capa pública para island=\"\"."
-      }
-    ]
+    "warnings": []
   }
 }

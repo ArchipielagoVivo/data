@@ -263,28 +263,28 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-14T20:01:09.288Z",
-        "date_revised": "2026-08-16T15:58:51.724Z",
-        "name": "La Vereda.Maye",
+        "date_revised": "2026-08-17T00:29:11.577Z",
+        "name": "La Vereda MAYE",
         "format": "Asociación",
         "category": "Agricultura, Biodiversidad, Cultura, Educación, Paisaje, Participación ciudadana, Sostenibilidad",
-        "tags": "Agroecología- cultura- educación ambiental",
-        "mission": "Proyectos agroecológicos, culturales y de economía circular",
-        "description": "La Vereda MAYE es una entidad que impulsa proyectos socioambientales orientados al cuidado del territorio y de las comunidades de Tenerife. Trabaja desde la agroecología, la educación ambiental, la participación ciudadana y la economía circular, promoviendo iniciativas como huertos comunitarios, bosques comestibles, recuperación de espacios, biodiversidad y aprovechamiento sostenible de los recursos. Su forma de trabajar busca conectar a las personas con su entorno, generar redes comunitarias y poner en valor los saberes locales, combinando la acción ambiental con la inclusión social, el aprendizaje colectivo y la creación de comunidades más resilientes.",
-        "activity": "Agricultura, Divulgación, Educación, Gestión Comunitaria",
-        "audience": "Administraciones públicas, Colectivos vecinales, Familias, Infancia, Juventud, Personas adultas, Personas mayores",
+        "tags": "agroecología, educación ambiental, economía circular, huertos comunitarios, bosques comestibles, biodiversidad, participación ciudadana, saberes locales, territorio, comunidad",
+        "mission": "Impulsar proyectos socioambientales que conecten el cuidado del territorio con la participación comunitaria, la agroecología, la educación ambiental y el aprovechamiento sostenible de los recursos.",
+        "description": "La Vereda MAYE impulsa en Tenerife proyectos socioambientales orientados al cuidado del territorio y de las comunidades. Trabaja desde la agroecología, la educación ambiental, la participación ciudadana y la economía circular, desarrollando iniciativas vinculadas a huertos comunitarios, bosques comestibles, biodiversidad, recuperación de espacios y aprovechamiento sostenible de los recursos. Su trabajo busca conectar a las personas con su entorno, fortalecer redes comunitarias y poner en valor los saberes locales mediante el aprendizaje colectivo, la inclusión social y la acción ambiental.",
+        "activity": "Agricultura, Divulgación, Educación, Gestión comunitaria",
+        "audience": "Administraciones públicas, Colectivos vecinales, Familias, Infancia, Juventud, Personas mayores, Personas adultas",
         "territory": "4 - Isla",
         "founded": "2004",
         "needs": "Colaboración técnica, Difusión, Financiación, Materiales, Mentoría, Patrocinios, Socios, Vídeo, Voluntariado",
         "offers": "Formación, Intercambio de semillas, Publicaciones, Recursos educativos, Red de contactos, Talleres, Visitas, Voluntariado",
         "img": "https://img.archipielagovivo.org/UHZBLALY/logo.webp",
-        "url": "www.lavereda.org",
+        "url": "https://www.lavereda.org",
         "email": "mayetenerife@gmail.com",
         "phone": "664147461",
-        "video": "www.instagram.con/lavereda.maye",
-        "facebook": "Lavereda.maye",
-        "instagram": "www.instagram.com/lavereda.maye",
+        "video": "https://youtu.be/0Vk69PfSAp4",
+        "facebook": "@Lavereda.maye",
+        "instagram": "@lavereda.maye",
         "island": "Tenerife",
-        "links": "🌐 [[https://www.lavereda.org|Sitio web]]\n📷 [[https://www.instagram.com/lavereda.maye|Instagram]]\n📘 [[https://Lavereda.maye|Facebook]]",
+        "links": "🌐 [[https://www.lavereda.org|Sitio web]]\n📷 [[https://www.instagram.com/lavereda.maye/|Instagram]]\n📘 [[https://www.facebook.com/Lavereda.maye|Facebook]]",
         "contact": "✉️ [[mailto:mayetenerife@gmail.com|mayetenerife@gmail.com]]\n☎️ 664147461",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=UHZBLALY"
       }
@@ -292,14 +292,9 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-16T23:54:56.514Z",
+    "generated_at": "2026-08-17T00:37:24.188Z",
     "layer": "tenerife",
     "feature_count": 7,
-    "warnings": [
-      {
-        "entity_id": "YQAFAJLC",
-        "message": "No existe capa pública para island=\"\"."
-      }
-    ]
+    "warnings": []
   }
 }
