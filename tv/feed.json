@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-17T00:40:17.941Z",
+  "generated_at": "2026-08-17T00:52:22.382Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -3495,7 +3495,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "La cultura hasta misteriosa, Arqueología | Mares de Jable #7",
@@ -3512,11 +3512,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-05y3bSqwX2Y",
@@ -3545,7 +3545,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Lenguaje Silbado: Hablar con el Viento | Mares de Jable #9",
@@ -3562,11 +3562,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-a8I3iVNkEH0",
@@ -3596,7 +3596,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Cien años de Unamuno en Fuerteventura | Mares de Jable #10",
@@ -3613,11 +3613,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-c3yzKdiVSA0",
@@ -3646,7 +3646,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Altihay, Memoria y Dignidad LGTBI | Mares de Jable #11",
@@ -3663,11 +3663,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-poVizfReR1M",
@@ -3697,7 +3697,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Arquitectura Majorera: Un legado de Piedra, cal y barro | Mares de Jable #12",
@@ -3714,11 +3714,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-5st8DWC9Ln8",
@@ -7891,7 +7891,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Futurismo 2025 | Regenerando Nuestro Destino: Retos y Desafíos en la Co-gobernanza Turística",
@@ -7908,11 +7908,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-fBEcv1SsB9g",
@@ -7937,7 +7937,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "🔴 En Directo | Futurismo 2025",
@@ -7954,11 +7954,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-gewmnQuDTyI",
@@ -9122,7 +9122,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Islas sedientas: la #desalación como solución para el suministro de agua potable",
@@ -9139,11 +9139,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-y647aiNoAlw",
@@ -9804,7 +9804,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Activation for Ocean Conservation: No Matter Where You Live!",
@@ -9821,11 +9821,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-0BQ6siAdVnw",
@@ -9848,7 +9848,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Ocean Conservation in an Urban Environment",
@@ -9865,11 +9865,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-DjK7f7LK6vA",
@@ -9892,7 +9892,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Ecotourism: A Sign of Hope For Ocean Conservation in Mexico + Beyond",
@@ -9909,11 +9909,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-DBZzzgZ0vg0",
@@ -9936,7 +9936,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Coalition Building for Ocean + Climate Action",
@@ -9953,11 +9953,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-PdvLYRsD-58",
@@ -9980,7 +9980,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Take Your Advocacy to the Next Level",
@@ -9997,11 +9997,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-ELkBcQ-1Yp8",
@@ -10024,7 +10024,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Making Conservation Relevant with California Academy of Sciences",
@@ -10041,11 +10041,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-0Meh6v3qsyw",
@@ -10068,7 +10068,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Redefining Sustainability & Overcoming Barriers to Taking Action",
@@ -10085,11 +10085,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-KESlPiKBUUM",
@@ -10112,7 +10112,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Voteless not Voiceless",
@@ -10129,11 +10129,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-9edWX7TTsLw",
@@ -10156,7 +10156,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Who owns water? | DW Documentary",
@@ -10173,11 +10173,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-Va8p0XILIgk",
@@ -10201,7 +10201,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Así funciona un sistema de reutilización de aguas grises",
@@ -10218,11 +10218,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-WhCNpX3s-D8",
@@ -10246,7 +10246,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "How Water Recycling Works",
@@ -10263,11 +10263,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-0EzoHXEzdwY",
@@ -10290,7 +10290,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Groundwater Flow Demonstration Model",
@@ -10307,11 +10307,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-7OHCOFFUamQ",
@@ -10334,7 +10334,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Recreating an Ancient Pump (with no moving parts)",
@@ -10351,11 +10351,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-6AAyOHtnTWQ",
@@ -10378,7 +10378,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "What is Storm Surge?",
@@ -10395,11 +10395,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-7mdvEtmo1pM",
@@ -10422,7 +10422,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "The Hidden Engineering of Niagara Falls",
@@ -10439,11 +10439,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-_R0xPffklXQ",
@@ -10466,7 +10466,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Why Are There No Short Arch Dams?",
@@ -10483,11 +10483,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-sKeQe7oc2gk",
@@ -10510,7 +10510,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "What Really Happened At Edenville and Sanford Dams?",
@@ -10527,11 +10527,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-jVi5p-yyF3c",
@@ -10554,7 +10554,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "How This Bridge Was Rebuilt in 15 Days After Hurricane Ian",
@@ -10571,11 +10571,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-2nX7Y8ZwShg",
@@ -10598,7 +10598,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "The Weirdest Tool in Underwater Construction",
@@ -10615,11 +10615,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-Ty-m4pm8oog",
@@ -10642,7 +10642,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "What Really Happened at the Suez Canal?",
@@ -10659,11 +10659,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-nol0_4qxzb0",
@@ -10686,7 +10686,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "The Hidden Engineering of Floating Bridges",
@@ -10703,11 +10703,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-vY4r6s0ilGA",
@@ -12322,7 +12322,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "La Central Hidroeólica de El Hierro. Gorona del Viento El Hierro.mp4",
@@ -12339,11 +12339,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-wWy3YDW43Xc",
@@ -15502,7 +15502,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Huelga de Alquileres en Madrid | Sindicato de Inquilinas e Inquilinos #alquiler #bienesraices",
@@ -15519,11 +15519,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-wNu8H4WZvLo",
@@ -18305,7 +18305,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Sistema Nacional de Cuidados.",
@@ -18322,11 +18322,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-HbWt0z1V-nE",
@@ -18349,7 +18349,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Sistema Nacional de Cuidados.",
@@ -18366,11 +18366,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-oRMjZNvlCIg",
@@ -18393,7 +18393,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Sistema Nacional de Cuidados en Chile, Aciertos y Desafíos",
@@ -18410,11 +18410,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-rYcJlRpKQJE",
@@ -22352,7 +22352,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Hidden Gem of the Wadden Sea: Schiermonnikoog Day Trip // Netherlands travel vlog",
@@ -22369,11 +22369,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-ahp_yoDDCUs",
@@ -22397,7 +22397,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Schiermonnikoog Island | Wadden Islands | Northern Netherlands | Things To Do In The Netherlands",
@@ -22414,11 +22414,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-H2g_dsr43oU",
@@ -22443,7 +22443,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Diess talks to Kyriakos Mitsotakis about smart mobility on Astypalea",
@@ -22460,11 +22460,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-h36-IIa8dn0",
@@ -22533,7 +22533,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Our FAVORITE Greek Island has NO CARS or cycles!  [Hydra Greece]",
@@ -22550,11 +22550,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-KVG_u8-n2LI",
@@ -22624,7 +22624,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Holland: Cycling Schiermonnikoog (frisian island)",
@@ -22641,11 +22641,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-8NakONwKwG4",
@@ -22669,7 +22669,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Gili Islands with No Motor vehicles",
@@ -22686,11 +22686,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-kyQPYPAeOb0",
@@ -22715,7 +22715,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Rottnest Island Explorer Bus: Full Journey",
@@ -22732,11 +22732,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-yLL5Q3-ytnE",
@@ -22762,7 +22762,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Exploring Shetland by Bus & Ferry.  Is it Worth it?",
@@ -22779,11 +22779,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-1UaCNbDjeXw",
@@ -22808,7 +22808,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Inside the design of Candela P-12: The world’s most efficient ferry",
@@ -22825,11 +22825,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-BqHUOcT4F5c",
@@ -22902,7 +22902,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Stockholm's first electric hydrofoiling ferry back in traffic | Candela P-12 Nova  ferry route",
@@ -22919,11 +22919,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-LEDa-dBCHys",
