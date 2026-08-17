@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-17T20:07:07+01:00",
+  "generated_at": "2026-08-17T20:50:11+01:00",
   "timezone": "Atlantic/Canary",
   "horizon_days": 7,
   "target_coverage_days": 7,
@@ -2047,10 +2047,10 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|ymIdahH9cIE",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 716,
-            "next_air": "2026-08-17T20:30:41+01:00",
+            "next_air": "2026-08-20T19:00:00+01:00",
             "first_air_7d": "2026-08-17T20:30:41+01:00",
             "last_air_7d": "2026-08-20T19:00:00+01:00",
             "average_gap_seconds": 253759,
@@ -4144,10 +4144,10 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|VMh5jI4dQfU",
           "schedule_stats": {
-            "airs_next_24h": 3,
+            "airs_next_24h": 2,
             "airs_next_7d": 17,
             "total_air_seconds_7d": 38003,
-            "next_air": "2026-08-17T20:36:39+01:00",
+            "next_air": "2026-08-18T00:12:23+01:00",
             "first_air_7d": "2026-08-17T00:54:16+01:00",
             "last_air_7d": "2026-08-23T03:04:23+01:00",
             "average_gap_seconds": 32888,
@@ -8148,7 +8148,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|2EiZnPvZLe4",
           "schedule_stats": {
-            "airs_next_24h": 18,
+            "airs_next_24h": 19,
             "airs_next_7d": 128,
             "total_air_seconds_7d": 10402,
             "next_air": "2026-08-18T01:38:21+01:00",
@@ -10749,7 +10749,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|ghi5fveMPhk",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 9974,
             "next_air": "2026-08-18T20:12:20+01:00",
@@ -42089,7 +42089,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|7woiApa9gTo",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 2888,
             "next_air": "2026-08-18T20:38:25+01:00",
@@ -42445,7 +42445,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|4kZqWaxbEbU",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 348,
             "next_air": "2026-08-18T20:36:29+01:00",
@@ -52338,7 +52338,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|HVnJeXx_rLs",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 23059,
             "next_air": "2026-08-18T20:09:49+01:00",
@@ -56019,10 +56019,10 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|qTOtWCz5Axw",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 18956,
-            "next_air": "2026-08-17T20:09:49+01:00",
+            "next_air": "2026-08-18T05:23:33+01:00",
             "first_air_7d": "2026-08-17T20:09:49+01:00",
             "last_air_7d": "2026-08-22T21:41:52+01:00",
             "average_gap_seconds": 87505,
