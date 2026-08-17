@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-16T23:42:34.212Z",
+  "generated_at": "2026-08-17T00:40:17.941Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -11,7 +11,10 @@
     "warnings": [
       "YT-KcPMjTu0Z3E: Activo pero embeddable no es TRUE.",
       "YT-94EwyulpD7s: Activo pero embeddable no es TRUE.",
-      "YT-m4LyktnkN_I: Activo pero embeddable no es TRUE."
+      "YT-m4LyktnkN_I: Activo pero embeddable no es TRUE.",
+      "YT-CWc4qAtIvSE: Activo pero embeddable no es TRUE.",
+      "YT-0Vk69PfSAp4: Activo pero embeddable no es TRUE.",
+      "YT-V6n8tc2E0hY: Activo pero embeddable no es TRUE."
     ],
     "name": "Archipiélago Vivo TV",
     "default_channel_id": "general",
@@ -23455,6 +23458,135 @@
       "provider_supported_by_frontend": true,
       "playable": false,
       "schedulable": false
+    },
+    {
+      "media_id": "YT-CWc4qAtIvSE",
+      "provider": "youtube",
+      "provider_id": "CWc4qAtIvSE",
+      "provider_url": "https://www.youtube.com/watch?v=CWc4qAtIvSE",
+      "embed_url": "https://www.youtube.com/embed/CWc4qAtIvSE",
+      "youtube_id": "CWc4qAtIvSE",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": false,
+      "privacy_status": "",
+      "title": "Plastiman Canario",
+      "description": "",
+      "channel_title": "",
+      "thumbnail": "",
+      "published_at": "",
+      "youtube_tags": "",
+      "duration_seconds": null,
+      "youtube_license": "",
+      "metadata_updated_at": "",
+      "entity_id": "JWXCMAKP",
+      "entity_ids": [
+        "JWXCMAKP"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-17T00:38:19.539Z",
+      "is_new_entity": true,
+      "active": true,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
+    },
+    {
+      "media_id": "YT-0Vk69PfSAp4",
+      "provider": "youtube",
+      "provider_id": "0Vk69PfSAp4",
+      "provider_url": "https://www.youtube.com/watch?v=0Vk69PfSAp4",
+      "embed_url": "https://www.youtube.com/embed/0Vk69PfSAp4",
+      "youtube_id": "0Vk69PfSAp4",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": false,
+      "privacy_status": "",
+      "title": "La Vereda MAYE",
+      "description": "",
+      "channel_title": "",
+      "thumbnail": "",
+      "published_at": "",
+      "youtube_tags": "",
+      "duration_seconds": null,
+      "youtube_license": "",
+      "metadata_updated_at": "",
+      "entity_id": "UHZBLALY",
+      "entity_ids": [
+        "UHZBLALY"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-17T00:38:19.539Z",
+      "is_new_entity": true,
+      "active": true,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
+    },
+    {
+      "media_id": "YT-V6n8tc2E0hY",
+      "provider": "youtube",
+      "provider_id": "V6n8tc2E0hY",
+      "provider_url": "https://www.youtube.com/watch?v=V6n8tc2E0hY",
+      "embed_url": "https://www.youtube.com/embed/V6n8tc2E0hY",
+      "youtube_id": "V6n8tc2E0hY",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": false,
+      "privacy_status": "",
+      "title": "Juego del Palo Maho",
+      "description": "",
+      "channel_title": "",
+      "thumbnail": "",
+      "published_at": "",
+      "youtube_tags": "",
+      "duration_seconds": null,
+      "youtube_license": "",
+      "metadata_updated_at": "",
+      "entity_id": "JSMMZTQN",
+      "entity_ids": [
+        "JSMMZTQN"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-17T00:38:19.539Z",
+      "is_new_entity": true,
+      "active": true,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
     }
   ],
   "schedule": [
@@ -24967,6 +25099,50 @@
       "status": "Activo",
       "source_updated_at": "2026-08-16T15:58:45.428Z",
       "synced_at": "2026-08-16T16:56:38.375Z"
+    },
+    "ZCDLDKPD": {
+      "entity_id": "ZCDLDKPD",
+      "name": "Huerto Solidario de Cáritas Diocesana de Tenerife",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=ZCDLDKPD",
+      "island": "Tenerife",
+      "municipality": "San Cristóbal de La Laguna",
+      "img": "https://img.archipielagovivo.org/ZCDLDKPD/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-16T16:12:59.382Z",
+      "synced_at": "2026-08-17T00:38:19.539Z"
+    },
+    "JWXCMAKP": {
+      "entity_id": "JWXCMAKP",
+      "name": "Plastiman Canario",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JWXCMAKP",
+      "island": "Gran Canaria",
+      "municipality": "Telde",
+      "img": "https://img.archipielagovivo.org/JWXCMAKP/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-17T00:35:32.609Z",
+      "synced_at": "2026-08-17T00:38:19.539Z"
+    },
+    "UHZBLALY": {
+      "entity_id": "UHZBLALY",
+      "name": "La Vereda MAYE",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=UHZBLALY",
+      "island": "Tenerife",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/UHZBLALY/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-17T00:29:11.577Z",
+      "synced_at": "2026-08-17T00:38:19.539Z"
+    },
+    "JSMMZTQN": {
+      "entity_id": "JSMMZTQN",
+      "name": "Juego del Palo Maho",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JSMMZTQN",
+      "island": "Fuerteventura",
+      "municipality": "Puerto del Rosario",
+      "img": "https://img.archipielagovivo.org/JSMMZTQN/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-17T00:15:43.593Z",
+      "synced_at": "2026-08-17T00:38:19.539Z"
     }
   },
   "entity_media": [
@@ -24987,6 +25163,27 @@
     {
       "entity_id": "FXZLRGJA",
       "media_id": "YT-m4LyktnkN_I",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    },
+    {
+      "entity_id": "JWXCMAKP",
+      "media_id": "YT-CWc4qAtIvSE",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    },
+    {
+      "entity_id": "UHZBLALY",
+      "media_id": "YT-0Vk69PfSAp4",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    },
+    {
+      "entity_id": "JSMMZTQN",
+      "media_id": "YT-V6n8tc2E0hY",
       "relation_type": "map_profile",
       "is_primary": true,
       "status": "Activo"
@@ -25013,12 +25210,36 @@
       "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=FXZLRGJA",
       "img": "https://img.archipielagovivo.org/FXZLRGJA/logo.webp",
       "date_created": "2026-08-16T16:56:38.375Z"
+    },
+    "CWc4qAtIvSE": {
+      "entity_id": "JWXCMAKP",
+      "name": "Plastiman Canario",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JWXCMAKP",
+      "img": "https://img.archipielagovivo.org/JWXCMAKP/logo.webp",
+      "date_created": "2026-08-17T00:38:19.539Z"
+    },
+    "0Vk69PfSAp4": {
+      "entity_id": "UHZBLALY",
+      "name": "La Vereda MAYE",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=UHZBLALY",
+      "img": "https://img.archipielagovivo.org/UHZBLALY/logo.webp",
+      "date_created": "2026-08-17T00:38:19.539Z"
+    },
+    "V6n8tc2E0hY": {
+      "entity_id": "JSMMZTQN",
+      "name": "Juego del Palo Maho",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JSMMZTQN",
+      "img": "https://img.archipielagovivo.org/JSMMZTQN/logo.webp",
+      "date_created": "2026-08-17T00:38:19.539Z"
     }
   },
   "conflicts": {},
   "warnings": [
     "YT-KcPMjTu0Z3E: Activo pero embeddable no es TRUE.",
     "YT-94EwyulpD7s: Activo pero embeddable no es TRUE.",
-    "YT-m4LyktnkN_I: Activo pero embeddable no es TRUE."
+    "YT-m4LyktnkN_I: Activo pero embeddable no es TRUE.",
+    "YT-CWc4qAtIvSE: Activo pero embeddable no es TRUE.",
+    "YT-0Vk69PfSAp4: Activo pero embeddable no es TRUE.",
+    "YT-V6n8tc2E0hY: Activo pero embeddable no es TRUE."
   ]
 }
