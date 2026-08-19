@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-19T16:55:32.600Z",
+  "generated_at": "2026-08-19T17:49:30.133Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -23359,7 +23359,7 @@
       ],
       "entity_relation_type": "map_profile",
       "entity_created_at": "2026-08-16T16:56:38.375Z",
-      "is_new_entity": true,
+      "is_new_entity": false,
       "active": true,
       "review_required": false,
       "provider_supported_by_frontend": true,
@@ -23402,7 +23402,7 @@
       ],
       "entity_relation_type": "map_profile",
       "entity_created_at": "2026-08-16T16:56:38.375Z",
-      "is_new_entity": true,
+      "is_new_entity": false,
       "active": true,
       "review_required": false,
       "provider_supported_by_frontend": true,
@@ -23445,7 +23445,7 @@
       ],
       "entity_relation_type": "map_profile",
       "entity_created_at": "2026-08-16T16:56:38.375Z",
-      "is_new_entity": true,
+      "is_new_entity": false,
       "active": true,
       "review_required": false,
       "provider_supported_by_frontend": true,
