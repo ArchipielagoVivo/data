@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -15.7368719,
-          28.64781921
+          -15.601743339600509,
+          28.636686155607087
         ]
       },
       "properties": {
@@ -47,18 +47,56 @@
         "contact": "✉️ [[mailto:archipielagovivo@riseup.net|archipielagovivo@riseup.net]]",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=PEGVALFW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.794615016588091,
+          28.697524801773408
+        ]
+      },
+      "properties": {
+        "entity_id": "SRXWGHJA",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-19T09:18:28.932Z",
+        "date_revised": "2026-08-20T05:42:10.248Z",
+        "name": "Fundación Canaria Tamaimos",
+        "format": "Fundación",
+        "category": "Arte, Cultura, Deporte, Educación, Gastronomía, Historia, Literatura, Memoria, Patrimonio, Comnicación",
+        "tags": "Pensamiento crítico, conocimiento de Canarias, cultura e identidad canaria, divulgación,creación de espacios de reflexión.",
+        "mission": "Promover en nuestra sociedad una canariedad consciente que contribuya al bien común.",
+        "description": "La Fundación Canaria Tamaimos trabaja por la defensa y promoción de la cultura y la identidad canaria desde el pensamiento crítico y el compromiso con Canarias. Desarrolla proyectos de edición, investigación, divulgación, formación y acción cultural, y apoya iniciativas que contribuyen al conocimiento, la creación y la reflexión sobre las islas.",
+        "activity": "Divulgación, Documentación, Comunicación, Edición, Educación, Programación cultural, Organización de eventos, Publicación, Investigación, Activismo",
+        "audience": "Público general",
+        "territory": "6 - Canarias",
+        "founded": "2014",
+        "needs": "Asesoramiento técnico, Colaboración artística, Colaboración técnica, Difusión, Documentación, Donaciones, Espacios, Financiación, Investigación, Materiales, Participación, Patrocinios, Socios, Voluntariado",
+        "offers": "Asesoramiento, Charlas, Consultoría, Formación, Intercambio de semillas, Red de contactos, Publicaciones, Investigación",
+        "url": "https://fundaciontamaimos.org",
+        "email": "fundaciontamaimos@gmail.com",
+        "video": "https://www.youtube.com/watch?v=U-bIskL_k8g",
+        "facebook": "https://www.facebook.com/fundaciontamaimos",
+        "instagram": "@tamaimos",
+        "whatsapp": "@Tamaimos Canal en WhatsApp",
+        "youtube": "@FundaciónCanariaTamaimos",
+        "img": "https://img.archipielagovivo.org/SRXWGHJA/logo.webp",
+        "island": "Canarias",
+        "links": "🌐 [[https://fundaciontamaimos.org|Sitio web]]\n📷 [[https://www.instagram.com/tamaimos/|Instagram]]\n📘 [[https://www.facebook.com/fundaciontamaimos|Facebook]]\n▶️ [[https://www.youtube.com/@Fundaci%C3%B3nCanariaTamaimos|YouTube]]",
+        "contact": "✉️ [[mailto:fundaciontamaimos@gmail.com|fundaciontamaimos@gmail.com]]",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=SRXWGHJA"
+      }
     }
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-20T05:37:26.420Z",
+    "generated_at": "2026-08-20T05:43:34.117Z",
     "layer": "canarias",
-    "feature_count": 1,
-    "warnings": [
-      {
-        "entity_id": "SRXWGHJA",
-        "message": "No existe capa pública para island=\"\"."
-      }
-    ]
+    "feature_count": 2,
+    "warnings": []
   }
 }

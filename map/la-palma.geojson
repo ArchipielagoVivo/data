@@ -3,14 +3,9 @@
   "features": [],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-20T05:37:13.588Z",
+    "generated_at": "2026-08-20T05:43:21.335Z",
     "layer": "la-palma",
     "feature_count": 0,
-    "warnings": [
-      {
-        "entity_id": "SRXWGHJA",
-        "message": "No existe capa pública para island=\"\"."
-      }
-    ]
+    "warnings": []
   }
 }

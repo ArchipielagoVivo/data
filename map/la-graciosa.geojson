@@ -3,14 +3,9 @@
   "features": [],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-20T05:37:24.255Z",
+    "generated_at": "2026-08-20T05:43:32.105Z",
     "layer": "la-graciosa",
     "feature_count": 0,
-    "warnings": [
-      {
-        "entity_id": "SRXWGHJA",
-        "message": "No existe capa pública para island=\"\"."
-      }
-    ]
+    "warnings": []
   }
 }
