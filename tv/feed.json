@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-20T05:03:33.753Z",
+  "generated_at": "2026-08-20T05:55:42.579Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -8,7 +8,10 @@
   "tv_config": {
     "valid": true,
     "errors": [],
-    "warnings": [],
+    "warnings": [
+      "YT-U-bIskL_k8g: Activo pero embeddable no es TRUE.",
+      "YT-ty9sZNmW9oc: Activo pero embeddable no es TRUE."
+    ],
     "name": "Archipiélago Vivo TV",
     "default_channel_id": "general",
     "timezone": "Atlantic/Canary",
@@ -203,7 +206,7 @@
       "youtube_tags": "",
       "duration_seconds": 2522,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-20T03:49:09.615Z",
+      "metadata_updated_at": "2026-08-20T05:55:40.079Z",
       "entity_id": "",
       "entity_ids": [],
       "entity_relation_type": "",
@@ -250,7 +253,7 @@
       "youtube_tags": "",
       "duration_seconds": 913,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-20T03:49:09.869Z",
+      "metadata_updated_at": "2026-08-20T05:55:40.464Z",
       "entity_id": "",
       "entity_ids": [],
       "entity_relation_type": "",
@@ -296,7 +299,7 @@
       "youtube_tags": "",
       "duration_seconds": 183,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-20T03:49:10.358Z",
+      "metadata_updated_at": "2026-08-20T05:55:41.217Z",
       "entity_id": "",
       "entity_ids": [],
       "entity_relation_type": "",
@@ -23580,6 +23583,92 @@
       "provider_supported_by_frontend": true,
       "playable": true,
       "schedulable": true
+    },
+    {
+      "media_id": "YT-U-bIskL_k8g",
+      "provider": "youtube",
+      "provider_id": "U-bIskL_k8g",
+      "provider_url": "https://www.youtube.com/watch?v=U-bIskL_k8g",
+      "embed_url": "https://www.youtube.com/embed/U-bIskL_k8g",
+      "youtube_id": "U-bIskL_k8g",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": false,
+      "privacy_status": "",
+      "title": "Fundación Canaria Tamaimos",
+      "description": "",
+      "channel_title": "",
+      "thumbnail": "",
+      "published_at": "",
+      "youtube_tags": "",
+      "duration_seconds": null,
+      "youtube_license": "",
+      "metadata_updated_at": "",
+      "entity_id": "SRXWGHJA",
+      "entity_ids": [
+        "SRXWGHJA"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-20T05:44:44.611Z",
+      "is_new_entity": true,
+      "active": true,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
+    },
+    {
+      "media_id": "YT-ty9sZNmW9oc",
+      "provider": "youtube",
+      "provider_id": "ty9sZNmW9oc",
+      "provider_url": "https://www.youtube.com/watch?v=ty9sZNmW9oc",
+      "embed_url": "https://www.youtube.com/embed/ty9sZNmW9oc",
+      "youtube_id": "ty9sZNmW9oc",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": false,
+      "privacy_status": "",
+      "title": "VÍCTOR SEUS",
+      "description": "",
+      "channel_title": "",
+      "thumbnail": "",
+      "published_at": "",
+      "youtube_tags": "",
+      "duration_seconds": null,
+      "youtube_license": "",
+      "metadata_updated_at": "",
+      "entity_id": "MTWRKGUZ",
+      "entity_ids": [
+        "MTWRKGUZ"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-16T16:56:38.375Z",
+      "is_new_entity": false,
+      "active": true,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
     }
   ],
   "schedule": [
@@ -25079,7 +25168,7 @@
       "municipality": "",
       "img": "https://img.archipielagovivo.org/MTWRKGUZ/logo.webp",
       "status": "Activo",
-      "source_updated_at": "2026-08-16T15:58:43.814Z",
+      "source_updated_at": "2026-08-20T05:50:24.525Z",
       "synced_at": "2026-08-16T16:56:38.375Z"
     },
     "NGMDUYNK": {
@@ -25136,6 +25225,17 @@
       "status": "Activo",
       "source_updated_at": "2026-08-17T00:15:43.593Z",
       "synced_at": "2026-08-17T00:38:19.539Z"
+    },
+    "SRXWGHJA": {
+      "entity_id": "SRXWGHJA",
+      "name": "Fundación Canaria Tamaimos",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=SRXWGHJA",
+      "island": "Canarias",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/SRXWGHJA/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-08-20T05:42:10.248Z",
+      "synced_at": "2026-08-20T05:44:44.611Z"
     }
   },
   "entity_media": [
@@ -25177,6 +25277,20 @@
     {
       "entity_id": "JSMMZTQN",
       "media_id": "YT-V6n8tc2E0hY",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    },
+    {
+      "entity_id": "SRXWGHJA",
+      "media_id": "YT-U-bIskL_k8g",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    },
+    {
+      "entity_id": "MTWRKGUZ",
+      "media_id": "YT-ty9sZNmW9oc",
       "relation_type": "map_profile",
       "is_primary": true,
       "status": "Activo"
@@ -25224,8 +25338,25 @@
       "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JSMMZTQN",
       "img": "https://img.archipielagovivo.org/JSMMZTQN/logo.webp",
       "date_created": "2026-08-17T00:38:19.539Z"
+    },
+    "U-bIskL_k8g": {
+      "entity_id": "SRXWGHJA",
+      "name": "Fundación Canaria Tamaimos",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=SRXWGHJA",
+      "img": "https://img.archipielagovivo.org/SRXWGHJA/logo.webp",
+      "date_created": "2026-08-20T05:44:44.611Z"
+    },
+    "ty9sZNmW9oc": {
+      "entity_id": "MTWRKGUZ",
+      "name": "VÍCTOR SEUS",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=MTWRKGUZ",
+      "img": "https://img.archipielagovivo.org/MTWRKGUZ/logo.webp",
+      "date_created": "2026-08-16T16:56:38.375Z"
     }
   },
   "conflicts": {},
-  "warnings": []
+  "warnings": [
+    "YT-U-bIskL_k8g: Activo pero embeddable no es TRUE.",
+    "YT-ty9sZNmW9oc: Activo pero embeddable no es TRUE."
+  ]
 }
