@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T20:10:19+01:00",
+  "generated_at": "2026-08-20T20:54:41+01:00",
   "timezone": "Atlantic/Canary",
   "horizon_days": 7,
   "target_coverage_days": 7,
@@ -41723,10 +41723,10 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|uiXL8mdI6pM",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 8655,
-            "next_air": "2026-08-20T20:23:14+01:00",
+            "next_air": "2026-08-23T18:09:49+01:00",
             "first_air_7d": "2026-08-20T20:23:14+01:00",
             "last_air_7d": "2026-08-26T13:03:40+01:00",
             "average_gap_seconds": 123007,
@@ -42626,7 +42626,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|ma8R6-lUOSE",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 3971,
             "next_air": "2026-08-21T20:34:56+01:00",
@@ -45105,10 +45105,10 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|JGLPuw-3p-4",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 582,
-            "next_air": "2026-08-20T20:52:05+01:00",
+            "next_air": "2026-08-21T14:55:15+01:00",
             "first_air_7d": "2026-08-20T20:52:05+01:00",
             "last_air_7d": "2026-08-26T13:00:26+01:00",
             "average_gap_seconds": 245051,
