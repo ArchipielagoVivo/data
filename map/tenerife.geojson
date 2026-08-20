@@ -292,9 +292,14 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-17T00:37:24.188Z",
+    "generated_at": "2026-08-20T05:37:15.159Z",
     "layer": "tenerife",
     "feature_count": 7,
-    "warnings": []
+    "warnings": [
+      {
+        "entity_id": "SRXWGHJA",
+        "message": "No existe capa pública para island=\"\"."
+      }
+    ]
   }
 }

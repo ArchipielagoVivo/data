@@ -46,9 +46,14 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-17T00:37:26.250Z",
+    "generated_at": "2026-08-20T05:37:17.549Z",
     "layer": "gran-canaria",
     "feature_count": 1,
-    "warnings": []
+    "warnings": [
+      {
+        "entity_id": "SRXWGHJA",
+        "message": "No existe capa pública para island=\"\"."
+      }
+    ]
   }
 }

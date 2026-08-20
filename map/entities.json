@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-17T00:37:15.972Z",
+  "generated_at": "2026-08-20T05:37:06.334Z",
   "source": "Archipiélago Vivo Mapa",
   "entities": [
     {
@@ -162,6 +162,10 @@
     }
   ],
   "warnings": [
+    {
+      "entity_id": "SRXWGHJA",
+      "message": "No existe capa pública para island=\"\"."
+    },
     {
       "entity_id": "QGWRYNHC",
       "message": "El campo video es público pero no contiene una URL audiovisual compatible con la importación automática de TV."
