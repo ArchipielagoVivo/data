@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T20:06:03+01:00",
+  "generated_at": "2026-08-21T20:46:52+01:00",
   "timezone": "Atlantic/Canary",
   "horizon_days": 7,
   "target_coverage_days": 7,
@@ -5301,7 +5301,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|ey8t2wCbQF8",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 3,
             "airs_next_7d": 16,
             "total_air_seconds_7d": 2144,
             "next_air": "2026-08-22T00:15:34+01:00",
@@ -7985,7 +7985,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|V_NIT_Oaops",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 3350,
             "next_air": "2026-08-22T20:15:23+01:00",
@@ -10191,7 +10191,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|eXq_zdfDO6Y",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 255,
             "next_air": "2026-08-22T20:45:32+01:00",
@@ -10802,10 +10802,10 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|ghi5fveMPhk",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 6975,
-            "next_air": "2026-08-21T20:10:18+01:00",
+            "next_air": "2026-08-26T19:35:22+01:00",
             "first_air_7d": "2026-08-21T20:10:18+01:00",
             "last_air_7d": "2026-08-26T19:35:22+01:00",
             "average_gap_seconds": 429904,
@@ -11410,7 +11410,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|wvkaDc6uLp4",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 182,
             "next_air": "2026-08-22T20:13:52+01:00",
@@ -11584,7 +11584,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|oey20FZKYIU",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 3,
             "airs_next_7d": 20,
             "total_air_seconds_7d": 3180,
             "next_air": "2026-08-22T01:41:18+01:00",
@@ -42506,10 +42506,10 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|ma8R6-lUOSE",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 3971,
-            "next_air": "2026-08-21T20:34:56+01:00",
+            "next_air": "2026-08-23T19:08:00+01:00",
             "first_air_7d": "2026-08-21T20:34:56+01:00",
             "last_air_7d": "2026-08-23T19:08:00+01:00",
             "average_gap_seconds": 167584,
@@ -52861,7 +52861,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|HVnJeXx_rLs",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 8,
             "total_air_seconds_7d": 33153,
             "next_air": "2026-08-22T05:39:47+01:00",
@@ -57133,7 +57133,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|hd8keMoDdwI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 3000,
             "next_air": "2026-08-22T20:09:49+01:00",
@@ -57682,10 +57682,10 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|0fl4e86Ptks",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 14616,
-            "next_air": "2026-08-21T20:09:49+01:00",
+            "next_air": "2026-08-23T04:37:45+01:00",
             "first_air_7d": "2026-08-21T20:09:49+01:00",
             "last_air_7d": "2026-08-26T20:48:54+01:00",
             "average_gap_seconds": 144782,
