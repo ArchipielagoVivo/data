@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T15:07:30+01:00",
+  "generated_at": "2026-08-21T16:02:54+01:00",
   "timezone": "Atlantic/Canary",
   "horizon_days": 7,
   "target_coverage_days": 7,
@@ -17272,7 +17272,7 @@
           "embeddable": true,
           "dedupe_key": "investigacion|5d7L67-SAv4",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 21104,
             "next_air": "2026-08-21T22:33:00+01:00",
@@ -34919,7 +34919,7 @@
             "airs_next_24h": 1,
             "airs_next_7d": 10,
             "total_air_seconds_7d": 13896,
-            "next_air": "2026-08-21T15:49:16+01:00",
+            "next_air": "2026-08-22T15:53:11+01:00",
             "first_air_7d": "2026-08-21T15:49:16+01:00",
             "last_air_7d": "2026-08-27T14:09:49+01:00",
             "average_gap_seconds": 56937,
@@ -35132,7 +35132,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|m88T60GOZss",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 486,
             "next_air": "2026-08-22T15:51:50+01:00",
@@ -39230,7 +39230,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|KOWuUQsNbNI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 288,
             "next_air": "2026-08-22T15:50:38+01:00",
@@ -46935,7 +46935,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|aAChbVb3EpY",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 276,
             "next_air": "2026-08-22T15:43:57+01:00",
@@ -47124,7 +47124,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|euCZJBeaVOk",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 12,
             "total_air_seconds_7d": 3480,
             "next_air": "2026-08-21T17:44:21+01:00",
@@ -47463,7 +47463,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|F53MbXJdnLA",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 1915,
             "next_air": "2026-08-22T15:50:52+01:00",
@@ -48033,10 +48033,10 @@
           "embeddable": true,
           "dedupe_key": "saberes|kKWUI9461UI",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 8862,
-            "next_air": "2026-08-21T15:54:11+01:00",
+            "next_air": "2026-08-23T14:13:29+01:00",
             "first_air_7d": "2026-08-21T15:54:11+01:00",
             "last_air_7d": "2026-08-24T07:21:49+01:00",
             "average_gap_seconds": 114229,
@@ -49378,7 +49378,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|5afkmqbeejk",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 4924,
             "next_air": "2026-08-22T15:23:58+01:00",
@@ -49513,7 +49513,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|BUw0bkz4xuU",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 392,
             "next_air": "2026-08-22T15:22:20+01:00",
@@ -50584,7 +50584,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|bD1PfbqQIeM",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 7,
             "total_air_seconds_7d": 847,
             "next_air": "2026-08-22T15:41:56+01:00",
@@ -51312,7 +51312,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|_2SULTw1j5w",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 969,
             "next_air": "2026-08-22T15:45:29+01:00",
@@ -52320,10 +52320,10 @@
           "embeddable": true,
           "dedupe_key": "saberes|mQFPxl6VXAE",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 1855,
-            "next_air": "2026-08-21T15:48:00+01:00",
+            "next_air": "2026-08-22T17:11:27+01:00",
             "first_air_7d": "2026-08-21T15:48:00+01:00",
             "last_air_7d": "2026-08-26T17:33:37+01:00",
             "average_gap_seconds": 109584,
@@ -60573,10 +60573,10 @@
           "embeddable": true,
           "dedupe_key": "cuidados|G-7fV-LEvOw",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 11899,
-            "next_air": "2026-08-21T15:08:27+01:00",
+            "next_air": "2026-08-25T15:13:36+01:00",
             "first_air_7d": "2026-08-21T15:08:27+01:00",
             "last_air_7d": "2026-08-25T15:13:36+01:00",
             "average_gap_seconds": 345909,
@@ -61722,7 +61722,7 @@
           "embeddable": true,
           "dedupe_key": "cuidados|Oh6SsnthBmU",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 1,
             "total_air_seconds_7d": 3095,
             "next_air": "2026-08-22T15:58:36+01:00",
