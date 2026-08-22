@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T05:58:50+01:00",
+  "generated_at": "2026-08-22T06:51:59+01:00",
   "timezone": "Atlantic/Canary",
   "horizon_days": 7,
   "target_coverage_days": 7,
@@ -25309,10 +25309,10 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|N0pkRbOePqg",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 1,
             "airs_next_7d": 7,
             "total_air_seconds_7d": 38914,
-            "next_air": "2026-08-22T06:31:12+01:00",
+            "next_air": "2026-08-23T05:05:14+01:00",
             "first_air_7d": "2026-08-22T06:31:12+01:00",
             "last_air_7d": "2026-08-28T06:47:50+01:00",
             "average_gap_seconds": 86566,
@@ -28717,10 +28717,10 @@
           "embeddable": true,
           "dedupe_key": "archivo|Frk5vdGyt_w",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 1,
             "airs_next_7d": 8,
             "total_air_seconds_7d": 28072,
-            "next_air": "2026-08-22T06:49:13+01:00",
+            "next_air": "2026-08-23T02:23:06+01:00",
             "first_air_7d": "2026-08-22T06:49:13+01:00",
             "last_air_7d": "2026-08-28T02:50:22+01:00",
             "average_gap_seconds": 72010,
@@ -31232,7 +31232,7 @@
           "embeddable": true,
           "dedupe_key": "archivo|MfxuOcsXTsg",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 3,
             "airs_next_7d": 14,
             "total_air_seconds_7d": 38421,
             "next_air": "2026-08-22T22:09:49+01:00",
@@ -32819,7 +32819,7 @@
           "embeddable": true,
           "dedupe_key": "archivo|T13TByaYBTs",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 13,
             "total_air_seconds_7d": 5551,
             "next_air": "2026-08-23T06:21:05+01:00",
@@ -47112,7 +47112,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|euCZJBeaVOk",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 3,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 3190,
             "next_air": "2026-08-22T15:57:34+01:00",
@@ -47801,7 +47801,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|oekzNqrtvOI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 9,
             "total_air_seconds_7d": 22530,
             "next_air": "2026-08-23T06:28:08+01:00",
@@ -48430,7 +48430,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|xiO9r6DJqqs",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 8597,
             "next_air": "2026-08-22T14:23:45+01:00",
@@ -48666,10 +48666,10 @@
           "embeddable": true,
           "dedupe_key": "saberes|etjUHlsulyE",
           "schedule_stats": {
-            "airs_next_24h": 4,
+            "airs_next_24h": 3,
             "airs_next_7d": 14,
             "total_air_seconds_7d": 37704,
-            "next_air": "2026-08-22T06:09:49+01:00",
+            "next_air": "2026-08-22T07:44:33+01:00",
             "first_air_7d": "2026-08-22T06:09:49+01:00",
             "last_air_7d": "2026-08-28T15:39:00+01:00",
             "average_gap_seconds": 42504,
@@ -57013,7 +57013,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|qiPWo7Wtaig",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 5273,
             "next_air": "2026-08-23T06:40:02+01:00",
