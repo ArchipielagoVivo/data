@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-22T16:48:26.985Z",
+  "generated_at": "2026-08-22T17:44:36.018Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -8,11 +8,7 @@
   "tv_config": {
     "valid": true,
     "errors": [],
-    "warnings": [
-      "YT-U-bIskL_k8g: Activo pero embeddable no es TRUE.",
-      "YT-ty9sZNmW9oc: Activo pero embeddable no es TRUE.",
-      "YT-lYpilDU9GBw: Activo pero embeddable no es TRUE."
-    ],
+    "warnings": [],
     "name": "Archipiélago Vivo TV",
     "default_channel_id": "general",
     "timezone": "Atlantic/Canary",
@@ -23315,7 +23311,7 @@
       "youtube_tags": "",
       "duration_seconds": 434,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-22T16:39:20.671Z",
+      "metadata_updated_at": "2026-08-22T17:00:13.824Z",
       "entity_id": "",
       "entity_ids": [],
       "entity_relation_type": "",
@@ -23356,7 +23352,7 @@
       "youtube_tags": "",
       "duration_seconds": 50,
       "youtube_license": "creativeCommon",
-      "metadata_updated_at": "2026-08-17T01:08:51.268Z",
+      "metadata_updated_at": "2026-08-22T17:00:14.152Z",
       "entity_id": "PEGVALFW",
       "entity_ids": [
         "PEGVALFW"
@@ -23399,7 +23395,7 @@
       "youtube_tags": "",
       "duration_seconds": 65,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-17T01:08:51.709Z",
+      "metadata_updated_at": "2026-08-22T17:00:15.554Z",
       "entity_id": "JFUKDKZZ",
       "entity_ids": [
         "JFUKDKZZ"
@@ -23442,7 +23438,7 @@
       "youtube_tags": "activismo, sinetiquetas, arafo, solidaridad, ciudadanía, respeto, campaña, elcarmensemueve",
       "duration_seconds": 278,
       "youtube_license": "creativeCommon",
-      "metadata_updated_at": "2026-08-17T01:08:52.204Z",
+      "metadata_updated_at": "2026-08-22T17:00:16.433Z",
       "entity_id": "FXZLRGJA",
       "entity_ids": [
         "FXZLRGJA"
@@ -23485,7 +23481,7 @@
       "youtube_tags": "",
       "duration_seconds": 135,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-17T01:08:52.660Z",
+      "metadata_updated_at": "2026-08-22T17:00:17.033Z",
       "entity_id": "JWXCMAKP",
       "entity_ids": [
         "JWXCMAKP"
@@ -23528,7 +23524,7 @@
       "youtube_tags": "",
       "duration_seconds": 30,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-17T01:08:53.038Z",
+      "metadata_updated_at": "2026-08-22T17:00:17.611Z",
       "entity_id": "UHZBLALY",
       "entity_ids": [
         "UHZBLALY"
@@ -23571,7 +23567,7 @@
       "youtube_tags": "",
       "duration_seconds": 31,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-17T01:08:53.401Z",
+      "metadata_updated_at": "2026-08-22T17:00:18.223Z",
       "entity_id": "JSMMZTQN",
       "entity_ids": [
         "JSMMZTQN"
@@ -23596,7 +23592,7 @@
       "media_type": "profile",
       "program_id": "archipielago-vivo",
       "tv_description": "",
-      "display_description": "",
+      "display_description": "🎥 Así vivimos el Foro Bucio 2024 🐚\n\nEl pasado 9 y 10 de noviembre, el IES La Laboral de La Laguna se convirtió en el epicentro de reflexiones, debates y cultura en torno a Canarias. 🌋✨.\n\n🎞️ También proyectamos el documental “Canario. Prestigio y Estigma del Español en Canarias”, y tuvimos el honor de entregar el Premio Tamaimos a Isabel Medina por su contribución a la cultura y sociedad canaria.\n\n🌌 Además, reflexionamos sobre el futuro tras el 20-A y el 20-O, y mucho más.\n\n💡 Dos días llenos de ideas, voces y emociones que nos conectaron aún más con nuestra identidad y futuro como pueblo.\n\nGracias a todos los que asistieron y a quienes hicieron posible este encuentro. ¡Nos vemos en el próximo Foro Bucio! 🐚\n\n#ForoBucio2024 #CanariasEnDebate #IdentidadYMemoria",
       "tags": [],
       "channels": [
         "general"
@@ -23604,17 +23600,17 @@
       "rights_status": "embed_only",
       "source": "map-sync",
       "status": "Activo",
-      "embeddable": false,
-      "privacy_status": "",
-      "title": "Fundación Canaria Tamaimos",
-      "description": "",
-      "channel_title": "",
-      "thumbnail": "",
-      "published_at": "",
+      "embeddable": true,
+      "privacy_status": "public",
+      "title": "VI Foro Bucio 2024 | Resumen",
+      "description": "🎥 Así vivimos el Foro Bucio 2024 🐚\n\nEl pasado 9 y 10 de noviembre, el IES La Laboral de La Laguna se convirtió en el epicentro de reflexiones, debates y cultura en torno a Canarias. 🌋✨.\n\n🎞️ También proyectamos el documental “Canario. Prestigio y Estigma del Español en Canarias”, y tuvimos el honor de entregar el Premio Tamaimos a Isabel Medina por su contribución a la cultura y sociedad canaria.\n\n🌌 Además, reflexionamos sobre el futuro tras el 20-A y el 20-O, y mucho más.\n\n💡 Dos días llenos de ideas, voces y emociones que nos conectaron aún más con nuestra identidad y futuro como pueblo.\n\nGracias a todos los que asistieron y a quienes hicieron posible este encuentro. ¡Nos vemos en el próximo Foro Bucio! 🐚\n\n#ForoBucio2024 #CanariasEnDebate #IdentidadYMemoria",
+      "channel_title": "Fundación Canaria Tamaimos",
+      "thumbnail": "https://i.ytimg.com/vi/U-bIskL_k8g/maxresdefault.jpg",
+      "published_at": "2024-11-22T10:08:36.000Z",
       "youtube_tags": "",
-      "duration_seconds": null,
-      "youtube_license": "",
-      "metadata_updated_at": "",
+      "duration_seconds": 167,
+      "youtube_license": "youtube",
+      "metadata_updated_at": "2026-08-22T17:00:18.825Z",
       "entity_id": "SRXWGHJA",
       "entity_ids": [
         "SRXWGHJA"
@@ -23625,8 +23621,8 @@
       "active": true,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": false,
-      "schedulable": false
+      "playable": true,
+      "schedulable": true
     },
     {
       "media_id": "YT-ty9sZNmW9oc",
@@ -23639,7 +23635,7 @@
       "media_type": "profile",
       "program_id": "archipielago-vivo",
       "tv_description": "",
-      "display_description": "",
+      "display_description": "TEASER TEJIDO SOCIAL por Victor Seus",
       "tags": [],
       "channels": [
         "general"
@@ -23647,17 +23643,17 @@
       "rights_status": "embed_only",
       "source": "map-sync",
       "status": "Activo",
-      "embeddable": false,
-      "privacy_status": "",
-      "title": "VÍCTOR SEUS",
-      "description": "",
-      "channel_title": "",
-      "thumbnail": "",
-      "published_at": "",
+      "embeddable": true,
+      "privacy_status": "unlisted",
+      "title": "TEASER TEJIDO SOCIAL CORTE FINAL HD 1078755154",
+      "description": "TEASER TEJIDO SOCIAL por Victor Seus",
+      "channel_title": "Archipiélago Vivo",
+      "thumbnail": "https://i.ytimg.com/vi/ty9sZNmW9oc/maxresdefault.jpg",
+      "published_at": "2026-08-11T15:03:55.000Z",
       "youtube_tags": "",
-      "duration_seconds": null,
-      "youtube_license": "",
-      "metadata_updated_at": "",
+      "duration_seconds": 150,
+      "youtube_license": "youtube",
+      "metadata_updated_at": "2026-08-22T17:00:21.120Z",
       "entity_id": "MTWRKGUZ",
       "entity_ids": [
         "MTWRKGUZ"
@@ -23668,8 +23664,8 @@
       "active": true,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": false,
-      "schedulable": false
+      "playable": true,
+      "schedulable": true
     },
     {
       "media_id": "YT-lYpilDU9GBw",
@@ -23682,7 +23678,7 @@
       "media_type": "profile",
       "program_id": "archipielago-vivo",
       "tv_description": "",
-      "display_description": "",
+      "display_description": "Colabora con Canarias Noticias:\n👉  MIEMBRO de Canarias Noticias en UNIRME  por 0,99 €/mes  \n\n👉  MECENAS de Canarias Noticias \nVídeos 🎥 sin censura 🚫 👉 https://www.patreon.com/canariasnoticias\n\n👉  DONACIÓN\nApóyanos para mantener nuestra libertad e independencia informativa\n       ▶️ https://www.paypal.com/donate/?hosted_button_id=UKJUXHHVC695Q\n             \n\n📷  Envía tus vídeos, fotos o denuncias a Canarias Noticias:\n  📞  +34 689 87 00 39     \n  📩 redaccion@canariasnoticias.es",
       "tags": [],
       "channels": [
         "general"
@@ -23690,17 +23686,17 @@
       "rights_status": "embed_only",
       "source": "map-sync",
       "status": "Activo",
-      "embeddable": false,
-      "privacy_status": "",
-      "title": "Coordinadora Fuerteventura Tiene Un Limite",
-      "description": "",
-      "channel_title": "",
-      "thumbnail": "",
-      "published_at": "",
-      "youtube_tags": "",
-      "duration_seconds": null,
-      "youtube_license": "",
-      "metadata_updated_at": "",
+      "embeddable": true,
+      "privacy_status": "public",
+      "title": "Manifestación 20A 'Canarias tiene un límite\"",
+      "description": "Colabora con Canarias Noticias:\n👉  MIEMBRO de Canarias Noticias en UNIRME  por 0,99 €/mes  \n\n👉  MECENAS de Canarias Noticias \nVídeos 🎥 sin censura 🚫 👉 https://www.patreon.com/canariasnoticias\n\n👉  DONACIÓN\nApóyanos para mantener nuestra libertad e independencia informativa\n       ▶️ https://www.paypal.com/donate/?hosted_button_id=UKJUXHHVC695Q\n             \n\n📷  Envía tus vídeos, fotos o denuncias a Canarias Noticias:\n  📞  +34 689 87 00 39     \n  📩 redaccion@canariasnoticias.es",
+      "channel_title": "Canarias Noticias",
+      "thumbnail": "https://i.ytimg.com/vi/lYpilDU9GBw/maxresdefault.jpg",
+      "published_at": "2024-04-20T14:20:15.000Z",
+      "youtube_tags": "Canarias Noticias, Manifestación 20A, Manifestación, Turismo, Medioambiente, Canarias",
+      "duration_seconds": 192,
+      "youtube_license": "youtube",
+      "metadata_updated_at": "2026-08-22T17:00:21.687Z",
       "entity_id": "HMFJLEVA",
       "entity_ids": [
         "HMFJLEVA"
@@ -23711,8 +23707,8 @@
       "active": true,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": false,
-      "schedulable": false
+      "playable": true,
+      "schedulable": true
     }
   ],
   "schedule": [
@@ -25075,10 +25071,10 @@
         "fewest_historical_airs",
         "deterministic_entity_id"
       ],
-      "total_playable_entities": 6,
-      "total_playable_media": 6,
-      "total_duration_seconds": 589,
-      "current_full_cycle_hours": 2,
+      "total_playable_entities": 9,
+      "total_playable_media": 9,
+      "total_duration_seconds": 1098,
+      "current_full_cycle_hours": 6,
       "tiers": [
         {
           "max_minutes": 10,
@@ -25424,9 +25420,5 @@
     }
   },
   "conflicts": {},
-  "warnings": [
-    "YT-U-bIskL_k8g: Activo pero embeddable no es TRUE.",
-    "YT-ty9sZNmW9oc: Activo pero embeddable no es TRUE.",
-    "YT-lYpilDU9GBw: Activo pero embeddable no es TRUE."
-  ]
+  "warnings": []
 }
