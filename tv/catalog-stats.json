@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T11:48:14+01:00",
+  "generated_at": "2026-08-22T12:44:24+01:00",
   "timezone": "Atlantic/Canary",
   "horizon_days": 7,
   "target_coverage_days": 7,
@@ -16224,10 +16224,10 @@
           "embeddable": true,
           "dedupe_key": "investigacion|PpDeVkgvNOg",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 0,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 13202,
-            "next_air": "2026-08-22T12:09:49+01:00",
+            "next_air": "2026-08-23T14:38:42+01:00",
             "first_air_7d": "2026-08-22T12:09:49+01:00",
             "last_air_7d": "2026-08-28T21:00:00+01:00",
             "average_gap_seconds": 137553,
@@ -16360,7 +16360,7 @@
           "embeddable": true,
           "dedupe_key": "investigacion|-5FzEa-g3_c",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 17058,
             "next_air": "2026-08-23T12:09:49+01:00",
@@ -24419,7 +24419,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|hm7SVKuLHcc",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 3,
             "airs_next_7d": 16,
             "total_air_seconds_7d": 1296,
             "next_air": "2026-08-23T08:43:44+01:00",
@@ -25483,7 +25483,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|bC4YcvxiWWE",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 844,
             "next_air": "2026-08-23T12:37:09+01:00",
@@ -25567,7 +25567,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|Y-dKCFAWJX0",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 462,
             "next_air": "2026-08-23T04:15:46+01:00",
@@ -26308,7 +26308,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|uh-eRAnuGAY",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 8814,
             "next_air": "2026-08-23T12:12:40+01:00",
@@ -27426,10 +27426,10 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|Eu9lXMl2Nng",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 15276,
-            "next_air": "2026-08-22T11:58:38+01:00",
+            "next_air": "2026-08-23T04:18:08+01:00",
             "first_air_7d": "2026-08-22T05:38:57+01:00",
             "last_air_7d": "2026-08-25T11:00:00+01:00",
             "average_gap_seconds": 55693,
