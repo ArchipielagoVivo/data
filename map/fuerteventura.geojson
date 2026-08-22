@@ -88,13 +88,53 @@
         "contact": "✉️ [[mailto:Juegodelpalomaho@gmail.com|Juegodelpalomaho@gmail.com]]\n☎️ 606183247",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JSMMZTQN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.02990389,
+          28.37328484
+        ]
+      },
+      "properties": {
+        "entity_id": "HMFJLEVA",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-20T15:46:52.768Z",
+        "date_revised": "2026-08-22T16:24:37.047Z",
+        "name": "Coordinadora Fuerteventura Tiene Un Limite",
+        "format": "Red",
+        "category": "Biodiversidad, Mar, Paisaje, Patrimonio, Participación ciudadana, Sostenibilidad, Turismo responsable, Urbanismo, Vivienda, Defensa del territorio, Derechos sociales, Medioambiente",
+        "tags": "Ecologismo, movimiento social, defensa del Patrimonio Natural, cultural, arqueológico, paisajístico, defensa del Territorio, bienestar de las personas, denuncias de atentados medioambientales, charlas",
+        "mission": "Red ciudadana que articula a personas y colectivos ecosociales de Fuerteventura en defensa del territorio, el patrimonio y el bienestar de las personas.",
+        "description": "Surge a partir de las movilizaciones del 20 de abril de 2024 (20A). Reúne a personas y colectivos ecologistas y sociales de Fuerteventura y mantiene encuentros periódicos para coordinar acciones, actividades, campañas, charlas, manifestaciones y otras iniciativas de defensa del territorio.",
+        "activity": "Activismo, Conservación, Divulgación, Documentación, Organización de eventos, Publicación, Exposición",
+        "audience": "Juventud, Público general",
+        "territory": "4 - Isla",
+        "founded": "20/04/2024",
+        "needs": "Colaboración técnica, Difusión, Diseño gráfico, Financiación, Participación, Voluntariado",
+        "offers": "Charlas, Consultoría, Exposiciones, Material documental, Red de contactos",
+        "email": "fuerteventuratieneunlimite@gmail.com",
+        "video": "https://www.youtube.com/watch?v=lYpilDU9GBw",
+        "facebook": "https://www.facebook.com/p/Fuerteventura-tiene-un-l%C3%ADmite-61560323496893/",
+        "instagram": "@fuerteventuratieneunlimite",
+        "img": "https://img.archipielagovivo.org/HMFJLEVA/logo.webp",
+        "island": "Fuerteventura",
+        "links": "📷 [[https://www.instagram.com/fuerteventuratieneunlimite/|Instagram]]\n📘 [[https://www.facebook.com/p/Fuerteventura-tiene-un-l%C3%ADmite-61560323496893/|Facebook]]",
+        "contact": "✉️ [[mailto:fuerteventuratieneunlimite@gmail.com|fuerteventuratieneunlimite@gmail.com]]",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=HMFJLEVA"
+      }
     }
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-20T05:54:02.306Z",
+    "generated_at": "2026-08-22T16:28:18.900Z",
     "layer": "fuerteventura",
-    "feature_count": 2,
+    "feature_count": 3,
     "warnings": []
   }
 }

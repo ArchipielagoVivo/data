@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T05:53:50.169Z",
+  "generated_at": "2026-08-22T16:28:05.575Z",
   "source": "Archipiélago Vivo Mapa",
   "entities": [
     {
@@ -182,6 +182,23 @@
         }
       ],
       "source_updated_at": "2026-08-20T05:42:10.248Z"
+    },
+    {
+      "entity_id": "HMFJLEVA",
+      "name": "Coordinadora Fuerteventura Tiene Un Limite",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=HMFJLEVA",
+      "island": "Fuerteventura",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/HMFJLEVA/logo.webp",
+      "status": "Activo",
+      "media": [
+        {
+          "url": "https://www.youtube.com/watch?v=lYpilDU9GBw",
+          "relation_type": "map_profile",
+          "is_primary": true
+        }
+      ],
+      "source_updated_at": "2026-08-22T16:24:37.047Z"
     }
   ],
   "warnings": [
