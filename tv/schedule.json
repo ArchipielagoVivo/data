@@ -3,7 +3,7 @@
   "timezone": "Atlantic/Canary",
   "valid_from": "2026-08-23T00:00:00+01:00",
   "valid_until": "2026-08-30T00:00:00+01:00",
-  "source_feed_generated_at": "2026-08-23T03:29:01.100Z",
+  "source_feed_generated_at": "2026-08-23T05:00:46.759Z",
   "default_channel_id": "general",
   "channels": [
     {
@@ -54341,6 +54341,6 @@
       }
     ]
   },
-  "generated_at": "2026-08-23T04:29:01+01:00",
-  "schedule_version": "11eb73221083abe5"
+  "generated_at": "2026-08-23T06:00:47+01:00",
+  "schedule_version": "64660d524607934d"
 }
