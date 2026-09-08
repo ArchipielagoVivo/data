@@ -288,13 +288,134 @@
         "contact": "✉️ [[mailto:mayetenerife@gmail.com|mayetenerife@gmail.com]]\n☎️ 664147461",
         "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=UHZBLALY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.68068896,
+          28.09999109
+        ]
+      },
+      "properties": {
+        "entity_id": "MUTUUUGK",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-25T09:03:32.179Z",
+        "date_revised": "2026-09-08T21:00:39.903Z",
+        "name": "Finca Altavista",
+        "format": "Proyecto",
+        "category": "Agricultura, Biodiversidad, Educación, Medioambiente, Sostenibilidad, Turismo responsable, Vivienda",
+        "tags": "Vida Regenerativa, Permacultura, Sistemas Agroforestales, Voluntariado Consciente, Yoga, Santuario de Animales",
+        "mission": "Vida regenerativa, permacultura y comunidad en el sur de Tenerife.",
+        "description": "Finca Altavista es un espacio dedicado a promover formas de vida regenerativas, sostenibles, orgánicas y comunitarias. Acoge a personas locales y visitantes a través de talleres, estancias, retiros y actividades vinculadas con la permacultura, los sistemas agroforestales, el voluntariado consciente y el cuidado de los animales.",
+        "activity": "Agricultura, Educación, Voluntariado",
+        "audience": "Familias, Público general, Personas adultas, Turistas",
+        "territory": "2 - Municipio",
+        "founded": "2017",
+        "needs": "Asesoramiento técnico, Desarrollo web, Investigación, Voluntariado",
+        "offers": "Charlas, Consultoría, Residencias, Espacios, Talleres, Visitas, Voluntariado",
+        "url": "@finca_altavista",
+        "email": "amanda.kir@hotmail.com",
+        "phone": "602618410",
+        "facebook": "https://www.facebook.com/altavista.tenerife",
+        "instagram": "@finca_altavista",
+        "whatsapp": 602618410,
+        "img": "https://img.archipielagovivo.org/MUTUUUGK/logo.webp",
+        "island": "Tenerife",
+        "municipality": "Arona",
+        "links": "📷 [[https://www.instagram.com/finca_altavista/|Instagram]]\n📘 [[https://www.facebook.com/altavista.tenerife|Facebook]]\n💬 [[https://wa.me/34602618410|WhatsApp]]",
+        "contact": "✉️ [[mailto:amanda.kir@hotmail.com|amanda.kir@hotmail.com]]\n☎️ 602618410",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=MUTUUUGK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.44083967,
+          28.23661835
+        ]
+      },
+      "properties": {
+        "entity_id": "TXYCFTQD",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-08-31T10:05:10.634Z",
+        "date_revised": "2026-09-08T21:00:48.904Z",
+        "name": "Iru",
+        "format": "Persona",
+        "category": "Agricultura, Arte, Biodiversidad, Cultura, Defensa del territorio, Deporte, Educación, Gastronomía, Mar, Medioambiente, Música, Paisaje, Sostenibilidad, Turismo responsable",
+        "tags": "Agricultura regenerativa, Sintropía, Deporte, Conciencia social, Comunidad, Desarrollo local, Diversidad funcional, Autogestión",
+        "mission": "Sintropía y agricultura regenerativa para todxs.",
+        "description": "Crear comunidad para avanzar con mayor estabilidad hacia un entorno sustentable que mejore la huella de carbono, la alimentación, la relación con el entorno y la vida y desarrollo de todos los seres.",
+        "activity": "Acompañamiento, Agricultura, Conservación, Cuidados, Divulgación, Servicios",
+        "audience": "Colectivos vecinales, Comunidad educativa, Familias, Infancia, Juventud, Personas adultas, Personas mayores",
+        "territory": "4 - Isla",
+        "needs": "Participación",
+        "offers": "Charlas, Espacios, Intercambio de semillas, Recursos educativos, Talleres",
+        "img": "https://img.archipielagovivo.org/TXYCFTQD/logo.webp",
+        "island": "Tenerife",
+        "municipality": "Fasnia",
+        "links": "",
+        "contact": "",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=TXYCFTQD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.77853264,
+          28.20927589
+        ]
+      },
+      "properties": {
+        "entity_id": "PXXUVUNB",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-09-01T10:24:07.468Z",
+        "date_revised": "2026-09-08T21:00:55.487Z",
+        "name": "Cosecha Rescatada",
+        "format": "Empresa",
+        "category": "Agricultura, Artesanía, Gastronomía",
+        "tags": "Desperdicio alimentario, Aprovechamiento alimentario, Fruta canaria, Producto local, Tenerife, Deshidratación, Alimentación saludable, Snack natural, Sin azúcar añadido, Sin conservantes, Sin aditivos, Envase compostable, Economía circular, Sostenibilidad, Agricultura local, Consumo responsable, Producción artesanal",
+        "mission": "Dar una segunda vida a frutas canarias que, aunque están en buen estado, podrían ser descartadas por estar demasiado maduras o por criterios estéticos.",
+        "description": "Cosecha Rescatada es un proyecto nacido en Tenerife que recupera fruta canaria que no encuentra salida comercial por criterios estéticos o de maduración. Trabaja con productores locales y transforma esta fruta mediante deshidratación lenta, sin azúcar añadido, conservantes ni aditivos, para crear un snack natural y de larga duración presentado en un envase compostable. De esta forma da valor a la producción local, reduce el desperdicio alimentario y fomenta una alimentación más sostenible.",
+        "activity": "Agricultura, Artesanía, Comercialización, Producción",
+        "audience": "Profesionales, Público general, Turistas",
+        "territory": "4 - Isla",
+        "founded": "2026",
+        "needs": "Colaboración técnica, Difusión, Participación",
+        "offers": "Talleres",
+        "img": "https://img.archipielagovivo.org/PXXUVUNB/logo.webp",
+        "url": "https://cosecharescatada.es",
+        "email": "hola@cosecharescatada.es",
+        "phone": "673674338",
+        "instagram": "@cosecha_rescatada",
+        "whatsapp": 34673674338,
+        "island": "Tenerife",
+        "municipality": "Guía de Isora",
+        "links": "🌐 [[https://cosecharescatada.es|Sitio web]]\n📷 [[https://www.instagram.com/cosecha_rescatada/|Instagram]]\n💬 [[https://wa.me/34673674338|WhatsApp]]",
+        "contact": "✉️ [[mailto:hola@cosecharescatada.es|hola@cosecharescatada.es]]\n☎️ 673674338",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=PXXUVUNB"
+      }
     }
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T18:34:17.153Z",
+    "generated_at": "2026-09-08T21:20:39.253Z",
     "layer": "tenerife",
-    "feature_count": 7,
+    "feature_count": 10,
     "warnings": []
   }
 }

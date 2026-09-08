@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08T18:34:07.309Z",
+  "generated_at": "2026-09-08T21:20:28.785Z",
   "source": "Archipiélago Vivo Mapa",
   "entities": [
     {
@@ -199,6 +199,56 @@
         }
       ],
       "source_updated_at": "2026-09-08T18:10:21.170Z"
+    },
+    {
+      "entity_id": "MUTUUUGK",
+      "name": "Finca Altavista",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=MUTUUUGK",
+      "island": "Tenerife",
+      "municipality": "Arona",
+      "img": "https://img.archipielagovivo.org/MUTUUUGK/logo.webp",
+      "status": "Activo",
+      "media": [],
+      "source_updated_at": "2026-09-08T21:00:39.903Z"
+    },
+    {
+      "entity_id": "TXYCFTQD",
+      "name": "Iru",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=TXYCFTQD",
+      "island": "Tenerife",
+      "municipality": "Fasnia",
+      "img": "https://img.archipielagovivo.org/TXYCFTQD/logo.webp",
+      "status": "Activo",
+      "media": [],
+      "source_updated_at": "2026-09-08T21:00:48.904Z"
+    },
+    {
+      "entity_id": "PXXUVUNB",
+      "name": "Cosecha Rescatada",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=PXXUVUNB",
+      "island": "Tenerife",
+      "municipality": "Guía de Isora",
+      "img": "https://img.archipielagovivo.org/PXXUVUNB/logo.webp",
+      "status": "Activo",
+      "media": [],
+      "source_updated_at": "2026-09-08T21:00:55.487Z"
+    },
+    {
+      "entity_id": "JVBLTWKH",
+      "name": "Colectivo SINRABOGATO La Palma",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JVBLTWKH",
+      "island": "La Palma",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/JVBLTWKH/logo.webp",
+      "status": "Activo",
+      "media": [
+        {
+          "url": "https://www.youtube.com/watch?v=rxIUqnFjKnQ",
+          "relation_type": "map_profile",
+          "is_primary": true
+        }
+      ],
+      "source_updated_at": "2026-09-08T21:00:12.430Z"
     }
   ],
   "warnings": [

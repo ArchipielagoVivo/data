@@ -1,11 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8567335,
+          28.71169788
+        ]
+      },
+      "properties": {
+        "entity_id": "JVBLTWKH",
+        "status": "Activo",
+        "verified": "Sí",
+        "license": "Licencia desconocida",
+        "source": "Formulario de inscripción",
+        "date_created": "2026-09-07T14:01:15.432Z",
+        "date_revised": "2026-09-08T21:00:12.430Z",
+        "name": "Colectivo SINRABOGATO La Palma",
+        "format": "Colectivo",
+        "category": "Biodiversidad, Defensa del territorio, Medioambiente, Paisaje, Participación ciudadana, Patrimonio",
+        "tags": "Rabogato, Cenchrus setaceus, Especies invasoras, Flora invasora, Voluntariado ambiental, Conservación, Biodiversidad, La Palma",
+        "mission": "Controlar la expansión del rabogato en la isla de La Palma.",
+        "description": "Somos un grupo de personas voluntarias preocupadas por la expansión de Cenchrus setaceus, más conocido como rabogato, en la isla de La Palma. Realizamos acciones de voluntariado cada dos o tres semanas, los sábados por la mañana, en distintas localizaciones de la isla para extraer la planta y contribuir a frenar su proliferación.",
+        "activity": "Activismo, Conservación, Divulgación, Voluntariado",
+        "audience": "Colectivos vecinales, Familias, Infancia, Juventud, Personas adultas, Personas mayores, Público general, Turistas",
+        "territory": "4 - Isla",
+        "founded": "2018",
+        "needs": "Colaboración artística, Difusión, Participación, Voluntariado",
+        "offers": "Charlas, Voluntariado",
+        "img": "https://img.archipielagovivo.org/JVBLTWKH/logo.webp",
+        "url": "https://rabogato-lapalma.hub.arcgis.com/",
+        "email": "sinrabogatolapalma@gmail.com",
+        "video": "https://www.youtube.com/watch?v=rxIUqnFjKnQ",
+        "facebook": "https://www.facebook.com/SINRABOGATO/",
+        "instagram": "@sinrabogato_la_palma",
+        "whatsapp": "https://chat.whatsapp.com/IYPE7XZPo29BrNxAr8lg7l",
+        "island": "La Palma",
+        "links": "🌐 [[https://rabogato-lapalma.hub.arcgis.com/|Sitio web]]\n📷 [[https://www.instagram.com/sinrabogato_la_palma/|Instagram]]\n📘 [[https://www.facebook.com/SINRABOGATO/|Facebook]]\n💬 [[https://chat.whatsapp.com/IYPE7XZPo29BrNxAr8lg7l|WhatsApp]]",
+        "contact": "✉️ [[mailto:sinrabogatolapalma@gmail.com|sinrabogatolapalma@gmail.com]]",
+        "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JVBLTWKH"
+      }
+    }
+  ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T18:34:14.028Z",
+    "generated_at": "2026-09-08T21:20:36.163Z",
     "layer": "la-palma",
-    "feature_count": 0,
+    "feature_count": 1,
     "warnings": []
   }
 }
