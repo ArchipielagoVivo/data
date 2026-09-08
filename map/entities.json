@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T16:28:05.575Z",
+  "generated_at": "2026-09-08T18:34:07.309Z",
   "source": "Archipiélago Vivo Mapa",
   "entities": [
     {
@@ -193,12 +193,12 @@
       "status": "Activo",
       "media": [
         {
-          "url": "https://www.youtube.com/watch?v=lYpilDU9GBw",
+          "url": "https://www.youtube.com/watch?v=1uBCS6f33Oo",
           "relation_type": "map_profile",
           "is_primary": true
         }
       ],
-      "source_updated_at": "2026-08-22T16:24:37.047Z"
+      "source_updated_at": "2026-09-08T18:10:21.170Z"
     }
   ],
   "warnings": [

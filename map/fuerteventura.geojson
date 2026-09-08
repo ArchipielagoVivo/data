@@ -105,7 +105,7 @@
         "license": "Licencia desconocida",
         "source": "Formulario de inscripción",
         "date_created": "2026-08-20T15:46:52.768Z",
-        "date_revised": "2026-08-22T16:24:37.047Z",
+        "date_revised": "2026-09-08T18:10:21.170Z",
         "name": "Coordinadora Fuerteventura Tiene Un Limite",
         "format": "Red",
         "category": "Biodiversidad, Mar, Paisaje, Patrimonio, Participación ciudadana, Sostenibilidad, Turismo responsable, Urbanismo, Vivienda, Defensa del territorio, Derechos sociales, Medioambiente",
@@ -119,7 +119,7 @@
         "needs": "Colaboración técnica, Difusión, Diseño gráfico, Financiación, Participación, Voluntariado",
         "offers": "Charlas, Consultoría, Exposiciones, Material documental, Red de contactos",
         "email": "fuerteventuratieneunlimite@gmail.com",
-        "video": "https://www.youtube.com/watch?v=lYpilDU9GBw",
+        "video": "https://www.youtube.com/watch?v=1uBCS6f33Oo",
         "facebook": "https://www.facebook.com/p/Fuerteventura-tiene-un-l%C3%ADmite-61560323496893/",
         "instagram": "@fuerteventuratieneunlimite",
         "img": "https://img.archipielagovivo.org/HMFJLEVA/logo.webp",
@@ -132,7 +132,7 @@
   ],
   "archipielago_vivo": {
     "schema_version": 1,
-    "generated_at": "2026-08-22T16:28:18.900Z",
+    "generated_at": "2026-09-08T18:34:21.530Z",
     "layer": "fuerteventura",
     "feature_count": 3,
     "warnings": []
