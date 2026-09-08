@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-08T18:51:52.890Z",
+  "generated_at": "2026-09-08T21:29:38.692Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -884,7 +884,7 @@
       "provider_url": "https://www.youtube.com/watch?v=1uBCS6f33Oo",
       "embed_url": "https://www.youtube.com/embed/1uBCS6f33Oo",
       "youtube_id": "1uBCS6f33Oo",
-      "type": "report",
+      "type": "entity",
       "media_type": "report",
       "program_id": "territorio-en-tension",
       "tv_description": "Pieza informativa de Guaxara Magazine sobre «Canarias tiene un Límite se maniesta en Fuerteventura por el 20A». Aporta contexto para examinar los conflictos de uso del suelo, la presión sobre el territorio y sus límites.",
@@ -913,10 +913,12 @@
       "duration_seconds": 265,
       "youtube_license": "youtube",
       "metadata_updated_at": "2026-08-22T16:33:43.352Z",
-      "entity_id": "",
-      "entity_ids": [],
-      "entity_relation_type": "",
-      "entity_created_at": "",
+      "entity_id": "HMFJLEVA",
+      "entity_ids": [
+        "HMFJLEVA"
+      ],
+      "entity_relation_type": "map_profile",
+      "entity_created_at": "2026-08-22T16:32:13.067Z",
       "is_new_entity": false,
       "active": true,
       "review_required": false,
@@ -13083,7 +13085,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Lucía en la telaraña | 1x01 | CAPÍTULOS EN ESPAÑOL COMPLETO en RTVE Play",
@@ -13100,11 +13102,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-V7uawzOpZmg",
@@ -13127,7 +13129,7 @@
       ],
       "rights_status": "embed_only",
       "source": "youtube",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "LUCÍA EN LA TELARAÑA | Estreno, 24 de noviembre | Tráiler | Rtve play",
@@ -13144,11 +13146,11 @@
       "entity_relation_type": "",
       "entity_created_at": "",
       "is_new_entity": false,
-      "active": true,
+      "active": false,
       "review_required": false,
       "provider_supported_by_frontend": true,
-      "playable": true,
-      "schedulable": true
+      "playable": false,
+      "schedulable": false
     },
     {
       "media_id": "YT-bC4YcvxiWWE",
@@ -23395,7 +23397,7 @@
       "youtube_tags": "",
       "duration_seconds": 65,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-22T17:00:15.554Z",
+      "metadata_updated_at": "2026-09-08T21:23:28.828Z",
       "entity_id": "JFUKDKZZ",
       "entity_ids": [
         "JFUKDKZZ"
@@ -23438,7 +23440,7 @@
       "youtube_tags": "activismo, sinetiquetas, arafo, solidaridad, ciudadanía, respeto, campaña, elcarmensemueve",
       "duration_seconds": 278,
       "youtube_license": "creativeCommon",
-      "metadata_updated_at": "2026-08-22T17:00:16.433Z",
+      "metadata_updated_at": "2026-09-08T21:23:29.234Z",
       "entity_id": "FXZLRGJA",
       "entity_ids": [
         "FXZLRGJA"
@@ -23481,7 +23483,7 @@
       "youtube_tags": "",
       "duration_seconds": 135,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-22T17:00:17.033Z",
+      "metadata_updated_at": "2026-09-08T21:23:30.118Z",
       "entity_id": "JWXCMAKP",
       "entity_ids": [
         "JWXCMAKP"
@@ -23524,7 +23526,7 @@
       "youtube_tags": "",
       "duration_seconds": 30,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-22T17:00:17.611Z",
+      "metadata_updated_at": "2026-09-08T21:23:30.676Z",
       "entity_id": "UHZBLALY",
       "entity_ids": [
         "UHZBLALY"
@@ -23567,7 +23569,7 @@
       "youtube_tags": "",
       "duration_seconds": 31,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-22T17:00:18.223Z",
+      "metadata_updated_at": "2026-09-08T21:23:31.269Z",
       "entity_id": "JSMMZTQN",
       "entity_ids": [
         "JSMMZTQN"
@@ -23610,7 +23612,7 @@
       "youtube_tags": "",
       "duration_seconds": 167,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-22T17:00:18.825Z",
+      "metadata_updated_at": "2026-09-08T21:23:31.812Z",
       "entity_id": "SRXWGHJA",
       "entity_ids": [
         "SRXWGHJA"
@@ -23653,7 +23655,7 @@
       "youtube_tags": "",
       "duration_seconds": 150,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-22T17:00:21.120Z",
+      "metadata_updated_at": "2026-09-08T21:23:32.807Z",
       "entity_id": "MTWRKGUZ",
       "entity_ids": [
         "MTWRKGUZ"
@@ -23674,7 +23676,7 @@
       "provider_url": "https://www.youtube.com/watch?v=lYpilDU9GBw",
       "embed_url": "https://www.youtube.com/embed/lYpilDU9GBw",
       "youtube_id": "lYpilDU9GBw",
-      "type": "entity",
+      "type": "profile",
       "media_type": "profile",
       "program_id": "archipielago-vivo",
       "tv_description": "",
@@ -23685,7 +23687,7 @@
       ],
       "rights_status": "embed_only",
       "source": "map-sync",
-      "status": "Activo",
+      "status": "Retirado",
       "embeddable": true,
       "privacy_status": "public",
       "title": "Manifestación 20A 'Canarias tiene un límite\"",
@@ -23696,14 +23698,55 @@
       "youtube_tags": "Canarias Noticias, Manifestación 20A, Manifestación, Turismo, Medioambiente, Canarias",
       "duration_seconds": 192,
       "youtube_license": "youtube",
-      "metadata_updated_at": "2026-08-22T17:00:21.687Z",
-      "entity_id": "HMFJLEVA",
+      "metadata_updated_at": "2026-09-08T21:23:34.090Z",
+      "entity_id": "",
+      "entity_ids": [],
+      "entity_relation_type": "",
+      "entity_created_at": "",
+      "is_new_entity": false,
+      "active": false,
+      "review_required": false,
+      "provider_supported_by_frontend": true,
+      "playable": false,
+      "schedulable": false
+    },
+    {
+      "media_id": "YT-rxIUqnFjKnQ",
+      "provider": "youtube",
+      "provider_id": "rxIUqnFjKnQ",
+      "provider_url": "https://www.youtube.com/watch?v=rxIUqnFjKnQ",
+      "embed_url": "https://www.youtube.com/embed/rxIUqnFjKnQ",
+      "youtube_id": "rxIUqnFjKnQ",
+      "type": "entity",
+      "media_type": "profile",
+      "program_id": "archipielago-vivo",
+      "tv_description": "",
+      "display_description": "Colectivo de Voluntariado para la erradicación del rabo de gato en la isla de La Palma.",
+      "tags": [],
+      "channels": [
+        "general"
+      ],
+      "rights_status": "embed_only",
+      "source": "map-sync",
+      "status": "Activo",
+      "embeddable": true,
+      "privacy_status": "public",
+      "title": "Colectivo de Voluntariado SINRABOGATO",
+      "description": "Colectivo de Voluntariado para la erradicación del rabo de gato en la isla de La Palma.",
+      "channel_title": "Sorelly Brito",
+      "thumbnail": "https://i.ytimg.com/vi/rxIUqnFjKnQ/sddefault.jpg",
+      "published_at": "2019-07-03T18:44:40.000Z",
+      "youtube_tags": "Rabo de Gato, La Palma, erradicacion rabo de gato, pennisetum setaceum, medio ambiente, paisaje, Canarias",
+      "duration_seconds": 145,
+      "youtube_license": "youtube",
+      "metadata_updated_at": "2026-09-08T21:23:34.587Z",
+      "entity_id": "JVBLTWKH",
       "entity_ids": [
-        "HMFJLEVA"
+        "JVBLTWKH"
       ],
       "entity_relation_type": "map_profile",
-      "entity_created_at": "2026-08-22T16:32:13.067Z",
-      "is_new_entity": false,
+      "entity_created_at": "2026-09-08T21:21:38.323Z",
+      "is_new_entity": true,
       "active": true,
       "review_required": false,
       "provider_supported_by_frontend": true,
@@ -25071,10 +25114,10 @@
         "fewest_historical_airs",
         "deterministic_entity_id"
       ],
-      "total_playable_entities": 9,
-      "total_playable_media": 9,
-      "total_duration_seconds": 1098,
-      "current_full_cycle_hours": 6,
+      "total_playable_entities": 10,
+      "total_playable_media": 10,
+      "total_duration_seconds": 1316,
+      "current_full_cycle_hours": 12,
       "tiers": [
         {
           "max_minutes": 10,
@@ -25285,8 +25328,52 @@
       "municipality": "",
       "img": "https://img.archipielagovivo.org/HMFJLEVA/logo.webp",
       "status": "Activo",
-      "source_updated_at": "2026-08-22T16:24:37.047Z",
+      "source_updated_at": "2026-09-08T18:10:21.170Z",
       "synced_at": "2026-08-22T16:32:13.067Z"
+    },
+    "MUTUUUGK": {
+      "entity_id": "MUTUUUGK",
+      "name": "Finca Altavista",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=MUTUUUGK",
+      "island": "Tenerife",
+      "municipality": "Arona",
+      "img": "https://img.archipielagovivo.org/MUTUUUGK/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-09-08T21:00:39.903Z",
+      "synced_at": "2026-09-08T21:21:38.323Z"
+    },
+    "TXYCFTQD": {
+      "entity_id": "TXYCFTQD",
+      "name": "Iru",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=TXYCFTQD",
+      "island": "Tenerife",
+      "municipality": "Fasnia",
+      "img": "https://img.archipielagovivo.org/TXYCFTQD/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-09-08T21:00:48.904Z",
+      "synced_at": "2026-09-08T21:21:38.323Z"
+    },
+    "PXXUVUNB": {
+      "entity_id": "PXXUVUNB",
+      "name": "Cosecha Rescatada",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=PXXUVUNB",
+      "island": "Tenerife",
+      "municipality": "Guía de Isora",
+      "img": "https://img.archipielagovivo.org/PXXUVUNB/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-09-08T21:00:55.487Z",
+      "synced_at": "2026-09-08T21:21:38.323Z"
+    },
+    "JVBLTWKH": {
+      "entity_id": "JVBLTWKH",
+      "name": "Colectivo SINRABOGATO La Palma",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JVBLTWKH",
+      "island": "La Palma",
+      "municipality": "",
+      "img": "https://img.archipielagovivo.org/JVBLTWKH/logo.webp",
+      "status": "Activo",
+      "source_updated_at": "2026-09-08T21:00:12.430Z",
+      "synced_at": "2026-09-08T21:21:38.323Z"
     }
   },
   "entity_media": [
@@ -25348,7 +25435,14 @@
     },
     {
       "entity_id": "HMFJLEVA",
-      "media_id": "YT-lYpilDU9GBw",
+      "media_id": "YT-1uBCS6f33Oo",
+      "relation_type": "map_profile",
+      "is_primary": true,
+      "status": "Activo"
+    },
+    {
+      "entity_id": "JVBLTWKH",
+      "media_id": "YT-rxIUqnFjKnQ",
       "relation_type": "map_profile",
       "is_primary": true,
       "status": "Activo"
@@ -25411,12 +25505,19 @@
       "img": "https://img.archipielagovivo.org/MTWRKGUZ/logo.webp",
       "date_created": "2026-08-16T16:56:38.375Z"
     },
-    "lYpilDU9GBw": {
+    "1uBCS6f33Oo": {
       "entity_id": "HMFJLEVA",
       "name": "Coordinadora Fuerteventura Tiene Un Limite",
       "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=HMFJLEVA",
       "img": "https://img.archipielagovivo.org/HMFJLEVA/logo.webp",
       "date_created": "2026-08-22T16:32:13.067Z"
+    },
+    "rxIUqnFjKnQ": {
+      "entity_id": "JVBLTWKH",
+      "name": "Colectivo SINRABOGATO La Palma",
+      "map_url": "https://umap.openstreetmap.fr/es/map/archipielago-vivo_1422295?feature=JVBLTWKH",
+      "img": "https://img.archipielagovivo.org/JVBLTWKH/logo.webp",
+      "date_created": "2026-09-08T21:21:38.323Z"
     }
   },
   "conflicts": {},
