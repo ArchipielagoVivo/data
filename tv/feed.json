@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-11T18:41:35.422Z",
+  "generated_at": "2026-09-11T21:49:38.166Z",
   "timezone": "Atlantic/Canary",
   "channel": {
     "name": "Archipiélago Vivo TV"
@@ -23746,7 +23746,7 @@
       ],
       "entity_relation_type": "map_profile",
       "entity_created_at": "2026-09-08T21:21:38.323Z",
-      "is_new_entity": true,
+      "is_new_entity": false,
       "active": true,
       "review_required": false,
       "provider_supported_by_frontend": true,
