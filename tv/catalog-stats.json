@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T12:41:02+00:00",
+  "generated_at": "2026-10-25T17:08:38+00:00",
   "timezone": "Atlantic/Canary",
   "horizon_days": 7,
   "target_coverage_days": 7,
@@ -79,7 +79,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|hn3PLOiBguc",
           "schedule_stats": {
-            "airs_next_24h": 3,
+            "airs_next_24h": 10,
             "airs_next_7d": 171,
             "total_air_seconds_7d": 50820,
             "next_air": "2026-10-26T01:11:27+00:00",
@@ -2863,7 +2863,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|8xcbUJ38sOo",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 10,
             "airs_next_7d": 169,
             "total_air_seconds_7d": 15180,
             "next_air": "2026-10-26T01:51:29+00:00",
@@ -7646,7 +7646,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|2EiZnPvZLe4",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 9,
             "airs_next_7d": 169,
             "total_air_seconds_7d": 14027,
             "next_air": "2026-10-26T01:37:18+00:00",
@@ -13461,7 +13461,7 @@
           "embeddable": true,
           "dedupe_key": "territorio-en-tension|VZtDEMqei1Q",
           "schedule_stats": {
-            "airs_next_24h": 3,
+            "airs_next_24h": 11,
             "airs_next_7d": 170,
             "total_air_seconds_7d": 15640,
             "next_air": "2026-10-26T01:39:00+00:00",
@@ -17441,7 +17441,7 @@
           "embeddable": true,
           "dedupe_key": "investigacion|I2_CBkrKWpk",
           "schedule_stats": {
-            "airs_next_24h": 3,
+            "airs_next_24h": 4,
             "airs_next_7d": 25,
             "total_air_seconds_7d": 106197,
             "next_air": "2026-10-26T00:13:07+00:00",
@@ -17908,7 +17908,7 @@
           "embeddable": true,
           "dedupe_key": "investigacion|5d7L67-SAv4",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 8,
             "total_air_seconds_7d": 29934,
             "next_air": "2026-10-26T13:32:53+00:00",
@@ -27379,7 +27379,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|Vaz2p6W1BCI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 510,
             "next_air": "2026-10-26T12:57:11+00:00",
@@ -34696,7 +34696,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|DNHMdfHTRVM",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 9,
             "total_air_seconds_7d": 20223,
             "next_air": "2026-10-26T15:45:41+00:00",
@@ -34960,7 +34960,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|vSb6oG_TpdY",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 8,
             "total_air_seconds_7d": 13803,
             "next_air": "2026-10-26T14:08:41+00:00",
@@ -35145,7 +35145,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|m88T60GOZss",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 9,
             "total_air_seconds_7d": 729,
             "next_air": "2026-10-26T10:36:07+00:00",
@@ -35553,7 +35553,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|DSgScTRS1l0",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 8,
             "total_air_seconds_7d": 656,
             "next_air": "2026-10-26T10:43:15+00:00",
@@ -36860,7 +36860,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|lJx8J8vGOrI",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 10,
             "total_air_seconds_7d": 25785,
             "next_air": "2026-10-26T11:03:56+00:00",
@@ -37141,7 +37141,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|_2lrJE_KGAs",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 3056,
             "next_air": "2026-10-26T11:57:59+00:00",
@@ -37391,7 +37391,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|ibHdLPlb3bo",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 7,
             "total_air_seconds_7d": 518,
             "next_air": "2026-10-26T10:47:16+00:00",
@@ -38370,7 +38370,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|V0j_wqwLBzI",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 880,
             "next_air": "2026-10-26T10:41:34+00:00",
@@ -39867,7 +39867,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|KOWuUQsNbNI",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 792,
             "next_air": "2026-10-26T10:44:37+00:00",
@@ -40151,7 +40151,7 @@
           "embeddable": true,
           "dedupe_key": "movilidad|vvFzsCulcd8",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 16021,
             "next_air": "2026-10-26T16:01:01+00:00",
@@ -40622,7 +40622,7 @@
           "embeddable": true,
           "dedupe_key": "movilidad|SFuKsuH3JYE",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 1404,
             "next_air": "2026-10-26T16:58:08+00:00",
@@ -40814,7 +40814,7 @@
           "embeddable": true,
           "dedupe_key": "movilidad|zjzIk85YjMU",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 340,
             "next_air": "2026-10-26T17:02:02+00:00",
@@ -40945,7 +40945,7 @@
           "embeddable": true,
           "dedupe_key": "movilidad|tJ8J860Mwvo",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 600,
             "next_air": "2026-10-26T17:03:10+00:00",
@@ -41093,7 +41093,7 @@
           "embeddable": true,
           "dedupe_key": "movilidad|FB97J1P3U8Y",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 183,
             "next_air": "2026-10-26T16:00:00+00:00",
@@ -41192,7 +41192,7 @@
           "embeddable": true,
           "dedupe_key": "movilidad|6O68yQowtXc",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 2004,
             "next_air": "2026-10-26T17:06:24+00:00",
@@ -41717,7 +41717,7 @@
           "embeddable": true,
           "dedupe_key": "movilidad|teSU2GjYpIw",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 470,
             "next_air": "2026-10-26T17:04:50+00:00",
@@ -42025,7 +42025,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|tLPjDVCYkb0",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 2640,
             "next_air": "2026-10-26T13:37:12+00:00",
@@ -42974,7 +42974,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|b1Z0T5F1Wwg",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 17832,
             "next_air": "2026-10-26T14:45:25+00:00",
@@ -43357,7 +43357,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|P5L-qaw2XSw",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 8284,
             "next_air": "2026-10-26T13:00:00+00:00",
@@ -44215,7 +44215,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|JIrLdbHyusk",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 497,
             "next_air": "2026-10-26T13:48:12+00:00",
@@ -44851,7 +44851,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|sg5HuHZOXns",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 9,
             "total_air_seconds_7d": 24628,
             "next_air": "2026-10-26T13:49:57+00:00",
@@ -45771,7 +45771,7 @@
           "embeddable": true,
           "dedupe_key": "trabajo-y-modelo|8ZoI0C1mPek",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 483,
             "next_air": "2026-10-26T13:34:31+00:00",
@@ -46187,7 +46187,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|ECqy0b7VzBY",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 5305,
             "next_air": "2026-10-26T15:17:00+00:00",
@@ -46407,7 +46407,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|tnZOZoWraEg",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 792,
             "next_air": "2026-10-26T14:34:48+00:00",
@@ -47489,7 +47489,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|1JJ7LJnSJvA",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 12,
             "total_air_seconds_7d": 13635,
             "next_air": "2026-10-26T06:13:29+00:00",
@@ -47955,7 +47955,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|euCZJBeaVOk",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 10,
             "total_air_seconds_7d": 2900,
             "next_air": "2026-10-26T17:01:52+00:00",
@@ -48896,7 +48896,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|XCzbqVq-mic",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 11880,
             "next_air": "2026-10-26T14:39:12+00:00",
@@ -49380,7 +49380,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|etjUHlsulyE",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 10,
             "total_air_seconds_7d": 35228,
             "next_air": "2026-10-26T13:00:00+00:00",
@@ -49911,7 +49911,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|JWSLR5QUV_U",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 164,
             "next_air": "2026-10-26T17:01:11+00:00",
@@ -51079,7 +51079,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|BnouJNhzvmY",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 17858,
             "next_air": "2026-10-26T08:21:52+00:00",
@@ -51270,7 +51270,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|DnqfVRxmwas",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 244,
             "next_air": "2026-10-26T17:06:42+00:00",
@@ -62003,7 +62003,7 @@
           "embeddable": true,
           "dedupe_key": "cuidados|Oh6SsnthBmU",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 7509,
             "next_air": "2026-10-26T15:00:00+00:00",
