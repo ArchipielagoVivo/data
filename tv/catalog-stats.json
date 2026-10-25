@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T06:32:17+00:00",
+  "generated_at": "2026-10-25T12:41:02+00:00",
   "timezone": "Atlantic/Canary",
   "horizon_days": 7,
   "target_coverage_days": 7,
@@ -17214,7 +17214,7 @@
           "embeddable": true,
           "dedupe_key": "investigacion|d-eAePOkBNY",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 10,
             "total_air_seconds_7d": 41682,
             "next_air": "2026-10-26T12:14:35+00:00",
@@ -18154,7 +18154,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|MzTu8nhJUTg",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 3,
             "airs_next_7d": 31,
             "total_air_seconds_7d": 2976,
             "next_air": "2026-10-26T10:10:22+00:00",
@@ -18684,7 +18684,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|mZZSr9z8ZtI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 16,
             "total_air_seconds_7d": 3632,
             "next_air": "2026-10-26T09:52:22+00:00",
@@ -18989,7 +18989,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|kRi90SOVtK8",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 2,
             "airs_next_7d": 30,
             "total_air_seconds_7d": 31836,
             "next_air": "2026-10-26T10:39:03+00:00",
@@ -19507,7 +19507,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|7ugactDnlz0",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 2,
             "airs_next_7d": 31,
             "total_air_seconds_7d": 1519,
             "next_air": "2026-10-26T10:38:14+00:00",
@@ -20199,7 +20199,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|rcWs_FOqF3A",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 1524,
             "next_air": "2026-10-26T09:07:00+00:00",
@@ -20299,7 +20299,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|-Nfp1pM5YLk",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 1,
             "total_air_seconds_7d": 845,
             "next_air": "2026-10-26T10:45:55+00:00",
@@ -20366,7 +20366,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|M2eQ0uV-ifA",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 993,
             "next_air": "2026-10-26T09:01:29+00:00",
@@ -20566,7 +20566,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|wWy3YDW43Xc",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 21,
             "total_air_seconds_7d": 3171,
             "next_air": "2026-10-26T10:11:58+00:00",
@@ -20942,7 +20942,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|JOieFuilxMI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 267,
             "next_air": "2026-10-26T09:00:00+00:00",
@@ -21360,7 +21360,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|ezXoRw5Y8OI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 3,
             "airs_next_7d": 39,
             "total_air_seconds_7d": 66885,
             "next_air": "2026-10-26T10:00:00+00:00",
@@ -22007,7 +22007,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|4rWPNXHu8Bc",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 195,
             "next_air": "2026-10-26T09:56:09+00:00",
@@ -22355,7 +22355,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|W58DU8u5EwM",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 6536,
             "next_air": "2026-10-26T10:14:29+00:00",
@@ -22538,7 +22538,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|LQMr8kdaISA",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 5547,
             "next_air": "2026-10-26T09:21:33+00:00",
@@ -22702,7 +22702,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|t1zbZdQhMiA",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 730,
             "next_air": "2026-10-26T09:15:28+00:00",
@@ -22786,7 +22786,7 @@
           "embeddable": true,
           "dedupe_key": "islas-vivas|uvv8T0aHq3E",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 3152,
             "next_air": "2026-10-26T09:57:14+00:00",
@@ -23931,7 +23931,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|cpLPyeHMRuw",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 3,
             "airs_next_7d": 15,
             "total_air_seconds_7d": 16286,
             "next_air": "2026-10-26T08:36:01+00:00",
@@ -24216,7 +24216,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|zHWqDt49eLA",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 216,
             "next_air": "2026-10-26T12:37:39+00:00",
@@ -24437,7 +24437,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|hmI6xBF-G50",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 3,
             "airs_next_7d": 20,
             "total_air_seconds_7d": 4120,
             "next_air": "2026-10-26T08:14:47+00:00",
@@ -24804,7 +24804,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|hm7SVKuLHcc",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 3,
             "airs_next_7d": 17,
             "total_air_seconds_7d": 1377,
             "next_air": "2026-10-26T05:03:03+00:00",
@@ -25246,7 +25246,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|wc8eBEcps40",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 654,
             "next_air": "2026-10-26T11:00:00+00:00",
@@ -25352,7 +25352,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|qDiumR6eDwE",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 4,
             "airs_next_7d": 18,
             "total_air_seconds_7d": 18370,
             "next_air": "2026-10-26T05:04:24+00:00",
@@ -26098,7 +26098,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|WNusYxk5LWU",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 2200,
             "next_air": "2026-10-26T12:38:51+00:00",
@@ -26182,7 +26182,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|TBqipmJgva0",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 2,
             "airs_next_7d": 17,
             "total_air_seconds_7d": 12637,
             "next_air": "2026-10-26T08:00:00+00:00",
@@ -26775,7 +26775,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|_iCq-7oVzMw",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 10854,
             "next_air": "2026-10-26T11:03:38+00:00",
@@ -27505,7 +27505,7 @@
           "embeddable": true,
           "dedupe_key": "agua-y-mar|IA9O9YUbQew",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 240,
             "next_air": "2026-10-26T12:18:31+00:00",
@@ -28633,7 +28633,7 @@
           "embeddable": true,
           "dedupe_key": "archivo|IMVAa8G9ZLs",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 7,
             "total_air_seconds_7d": 2450,
             "next_air": "2026-10-26T06:50:39+00:00",
@@ -29006,7 +29006,7 @@
           "embeddable": true,
           "dedupe_key": "archivo|Frk5vdGyt_w",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 10,
             "total_air_seconds_7d": 35090,
             "next_air": "2026-10-26T06:56:29+00:00",
@@ -29220,10 +29220,10 @@
           "embeddable": true,
           "dedupe_key": "archivo|Plnza3AhVgQ",
           "schedule_stats": {
-            "airs_next_24h": 3,
+            "airs_next_24h": 2,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 1034,
-            "next_air": "2026-10-25T06:46:27+00:00",
+            "next_air": "2026-10-26T01:58:18+00:00",
             "first_air_7d": "2026-10-25T06:46:27+00:00",
             "last_air_7d": "2026-10-31T07:50:34+00:00",
             "average_gap_seconds": 52225,
@@ -30665,10 +30665,10 @@
           "embeddable": true,
           "dedupe_key": "archivo|WHdPFUUH9lc",
           "schedule_stats": {
-            "airs_next_24h": 3,
+            "airs_next_24h": 2,
             "airs_next_7d": 12,
             "total_air_seconds_7d": 27358,
-            "next_air": "2026-10-25T06:48:01+00:00",
+            "next_air": "2026-10-26T01:59:52+00:00",
             "first_air_7d": "2026-10-25T02:38:26+00:00",
             "last_air_7d": "2026-10-31T23:32:38+00:00",
             "average_gap_seconds": 53968,
@@ -31113,10 +31113,10 @@
           "embeddable": true,
           "dedupe_key": "archivo|LSc4UtNiZ04",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 1,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 3110,
-            "next_air": "2026-10-25T06:41:38+00:00",
+            "next_air": "2026-10-26T05:48:52+00:00",
             "first_air_7d": "2026-10-25T06:41:38+00:00",
             "last_air_7d": "2026-10-31T22:00:00+00:00",
             "average_gap_seconds": 57350,
@@ -31514,7 +31514,7 @@
           "embeddable": true,
           "dedupe_key": "archivo|MfxuOcsXTsg",
           "schedule_stats": {
-            "airs_next_24h": 1,
+            "airs_next_24h": 2,
             "airs_next_7d": 8,
             "total_air_seconds_7d": 19761,
             "next_air": "2026-10-26T01:04:25+00:00",
@@ -33228,10 +33228,10 @@
           "embeddable": true,
           "dedupe_key": "archivo|mgUHbpf8OMk",
           "schedule_stats": {
-            "airs_next_24h": 2,
+            "airs_next_24h": 1,
             "airs_next_7d": 13,
             "total_air_seconds_7d": 2717,
-            "next_air": "2026-10-25T06:38:09+00:00",
+            "next_air": "2026-10-26T00:11:59+00:00",
             "first_air_7d": "2026-10-25T06:38:09+00:00",
             "last_air_7d": "2026-10-31T01:58:11+00:00",
             "average_gap_seconds": 41800,
@@ -35145,7 +35145,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|m88T60GOZss",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 9,
             "total_air_seconds_7d": 729,
             "next_air": "2026-10-26T10:36:07+00:00",
@@ -35346,7 +35346,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|Hy7ighzmy50",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 696,
             "next_air": "2026-10-26T10:49:02+00:00",
@@ -35553,7 +35553,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|DSgScTRS1l0",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 8,
             "total_air_seconds_7d": 656,
             "next_air": "2026-10-26T10:43:15+00:00",
@@ -35737,7 +35737,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|MIAJlJWDzn4",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 320,
             "next_air": "2026-10-26T10:37:28+00:00",
@@ -35990,7 +35990,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|w9fpvQFODrY",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 368,
             "next_air": "2026-10-26T10:40:02+00:00",
@@ -36107,7 +36107,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|XI99QGxIvE4",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 296,
             "next_air": "2026-10-26T10:38:48+00:00",
@@ -36384,7 +36384,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|lWuQDigCrpg",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 38069,
             "next_air": "2026-10-26T08:08:21+00:00",
@@ -36517,7 +36517,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|YY0R1LQGuZM",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 105,
             "next_air": "2026-10-26T10:42:54+00:00",
@@ -36653,7 +36653,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|fCeTvc8VKMU",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 204,
             "next_air": "2026-10-26T08:07:13+00:00",
@@ -36860,7 +36860,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|lJx8J8vGOrI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 10,
             "total_air_seconds_7d": 25785,
             "next_air": "2026-10-26T11:03:56+00:00",
@@ -37141,7 +37141,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|_2lrJE_KGAs",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 3056,
             "next_air": "2026-10-26T11:57:59+00:00",
@@ -37391,7 +37391,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|ibHdLPlb3bo",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 7,
             "total_air_seconds_7d": 518,
             "next_air": "2026-10-26T10:47:16+00:00",
@@ -38114,7 +38114,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|BPl1UPTcU6U",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 534,
             "next_air": "2026-10-26T10:34:38+00:00",
@@ -38370,7 +38370,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|V0j_wqwLBzI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 880,
             "next_air": "2026-10-26T10:41:34+00:00",
@@ -38599,7 +38599,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|4QKAu3P_4ZE",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 5,
             "total_air_seconds_7d": 2165,
             "next_air": "2026-10-26T08:00:00+00:00",
@@ -39030,7 +39030,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|rXCZT5lCIV4",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 261,
             "next_air": "2026-10-26T10:45:49+00:00",
@@ -39404,7 +39404,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|qwjDUaO34Q0",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 96,
             "next_air": "2026-10-26T10:48:30+00:00",
@@ -39658,7 +39658,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|TBTjypjjajo",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 1986,
             "next_air": "2026-10-26T10:52:54+00:00",
@@ -39867,7 +39867,7 @@
           "embeddable": true,
           "dedupe_key": "vivienda|KOWuUQsNbNI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 792,
             "next_air": "2026-10-26T10:44:37+00:00",
@@ -46694,7 +46694,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|5st8DWC9Ln8",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 2,
             "airs_next_7d": 11,
             "total_air_seconds_7d": 22536,
             "next_air": "2026-10-26T07:00:00+00:00",
@@ -50268,7 +50268,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|4PK6fRrRarM",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 8,
             "total_air_seconds_7d": 23984,
             "next_air": "2026-10-26T06:33:17+00:00",
@@ -50449,7 +50449,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|dXmYEgdqY_4",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 7,
             "total_air_seconds_7d": 2751,
             "next_air": "2026-10-26T07:47:51+00:00",
@@ -51079,7 +51079,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|BnouJNhzvmY",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 17858,
             "next_air": "2026-10-26T08:21:52+00:00",
@@ -51933,7 +51933,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|2kdYKdTZBZA",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 8395,
             "next_air": "2026-10-26T07:56:26+00:00",
@@ -52455,7 +52455,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|_S6jP2hUSYM",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 1,
             "total_air_seconds_7d": 250,
             "next_air": "2026-10-26T07:43:41+00:00",
@@ -52670,7 +52670,7 @@
           "embeddable": true,
           "dedupe_key": "saberes|jiDmeJVNGWI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 6,
             "total_air_seconds_7d": 732,
             "next_air": "2026-10-26T07:54:24+00:00",
@@ -53223,7 +53223,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|u10M1UCtPsU",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 9221,
             "next_air": "2026-10-26T10:41:03+00:00",
@@ -53525,7 +53525,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|9eeUlJhHKuo",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 4899,
             "next_air": "2026-10-26T09:43:07+00:00",
@@ -54165,7 +54165,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|iL217jL6CMc",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 3292,
             "next_air": "2026-10-26T10:13:37+00:00",
@@ -54495,7 +54495,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|2uxR7EVz_dQ",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 2,
             "total_air_seconds_7d": 6392,
             "next_air": "2026-10-26T12:19:47+00:00",
@@ -54806,7 +54806,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|MsIPx2U8KyE",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 4,
             "total_air_seconds_7d": 2276,
             "next_air": "2026-10-26T11:55:43+00:00",
@@ -54935,7 +54935,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|ivALqG6O_iM",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 7,
             "total_air_seconds_7d": 14279,
             "next_air": "2026-10-26T08:00:00+00:00",
@@ -56510,7 +56510,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|TXyRu8PyrmI",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 1,
             "total_air_seconds_7d": 197,
             "next_air": "2026-10-26T10:10:20+00:00",
@@ -57868,7 +57868,7 @@
           "embeddable": true,
           "dedupe_key": "memoria-indigena|0fl4e86Ptks",
           "schedule_stats": {
-            "airs_next_24h": 0,
+            "airs_next_24h": 1,
             "airs_next_7d": 3,
             "total_air_seconds_7d": 8309,
             "next_air": "2026-10-26T08:39:05+00:00",
