@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "timezone": "Atlantic/Canary",
-  "generated_at": "2026-11-06T09:37:11+00:00",
+  "generated_at": "2026-11-06T17:37:19+00:00",
   "feed_version": "6885141aa5162d0e",
-  "schedule_version": "20de3fafc5ab387c",
-  "schedule_generated_at": "2026-11-06T09:37:11+00:00",
+  "schedule_version": "5bc5b817cc5b4d27",
+  "schedule_generated_at": "2026-11-06T17:37:19+00:00",
   "schedule_valid_from": "2026-11-06T00:00:00+00:00",
   "schedule_valid_until": "2026-11-13T00:00:00+00:00",
   "feed_url": "https://data.archipielagovivo.org/tv/feed.json",
